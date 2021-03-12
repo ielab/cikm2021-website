@@ -1,0 +1,28 @@
+links:
+
+  - name: Home
+    url: /
+  - name: Code of Conduct
+    url: http://sigir.org/conferences/conference-code-of-conduct/
+  - name: Call for Papers
+    url: /cfp
+    dropdown:
+      - name: Full Papers
+        url: /cfp/full-papers
+      - name: Short Papers
+        url: /cfp/short-papers
+      - name: Demonstration Papers
+        url: /cfp/demo-papers
+      - name: Resource Papers
+        url: /cfp/resource-papers
+      - name: Tutorials
+        url: /cfp/tutorials
+      - name: Workshops
+        url: /cfp/workshops
+  - name: Registration
+    url: /registration
+  - name: Students
+    url: /students
+  - name: Committee
+    url: /committee
+

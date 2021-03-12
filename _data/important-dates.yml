@@ -1,0 +1,25 @@
+dates:
+
+  - name: Paper submission deadline
+    date: 14 October 2021
+    occurred: true
+
+  - name: Notification of acceptance
+    date: 15 October 2021
+    occurred: true
+
+  - name: Student travel grant application deadline
+    date: 16 October 2021
+    occurred: false
+
+  - name: Camera ready
+    date: 17 October 2021
+    occurred: false
+
+  - name: Registration closes
+    date: 18 October 2021
+    occurred: false
+
+  - name: Conference
+    date: 19 October 2021
+    occurred: false

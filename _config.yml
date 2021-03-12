@@ -18,17 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CIKM2021
+title: CIKM 2021
 email: g.zuccon@uq.edu.au
-description: >- # this means to ignore newlines until "baseurl:"
-  ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
-  GOLD COAST, QUEENSLAND, AUSTRALIA
+description: 30th ACM International Conference on Information and Knowledge Management, Gold Coast, Queensland, Australia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cikm2021.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cikm2021
 
+paginate: 5
+paginate_path: "/posts/page-:num/"
+
+conf_name: CIKM2021
+conf_subtitle: 30th ACM International Conference on Information and Knowledge Management
+conf_location: Gold Coast, Queensland, Australia
+conf_date: 18 October 2021
+
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
