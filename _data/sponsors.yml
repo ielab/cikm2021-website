@@ -1,14 +1,9 @@
+# Example sponsor, copy paste this below.
+#  - level: Gold Sponsors
+#    sponsors:
+#      - name: Google
+#        img_url: /img/google.png
+#        url: https://www.google.com
+
+
 tiers:
-
-  - level: Gold
-    sponsors:
-      - name: Google
-        img_url: /img/google.png
-        url: https://www.google.com
-
-  - level: Silver
-    sponsors:
-      - name: Ebay
-        img_url: /img/ebay.png
-        url: https://www.ebay.com
-

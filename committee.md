@@ -1,4 +1,5 @@
 ---
+# DO NOT MANUALLY EDIT THIS FILE.
 layout: default
 ---
 
