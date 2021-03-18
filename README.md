@@ -1,13 +1,8 @@
-# ADCS2018
+# CIKM2021
 
-Website content for the official site of the Australasian Document Computing Symposium, 11-12 December 2018, Dunedin, New Zealand.
-
-Built primarly with Twitter Bootstrap.
+Website content for the official site of the 30th ACM International Conference on Information and Knowledge Management.
 
 ## Authors
 
-Bevan Koopman ([@bevan_koopman](http://twitter.com/bevan_koopman "Title")) and Guido Zuccon ([@guidozuc](https://twitter.com/guidozuc)).
-
-## Notes
-If you want to run a local version of this site (using file::// syntax) then it only runs in Firefox.
-
+This template was originally made by Bevan Koopman ([@bevan_koopman](http://twitter.com/bevan_koopman "Title")) and Guido Zuccon ([@guidozuc](https://twitter.com/guidozuc)).
+Some modifications have been made by Harry Scells ([@hscells](https://twitter.com/hscells)).
