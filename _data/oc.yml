@@ -42,8 +42,8 @@ chairs:
   - name: Resource Track Chairs
     members:
       - name: Nicola Ferro (University of Padua, Italy)
-        img:
-      - name: Zhenhui Jessie Li (Pennsylvania State University.)
+        img: /img/oc/ferro.jpg
+      - name: Zhenhui Jessie Li (Pennsylvania State University)
         img:
 
   - name: Workshop Chairs
