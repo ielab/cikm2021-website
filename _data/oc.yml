@@ -1,0 +1,76 @@
+chairs:
+
+  - name: General Chairs
+    members:
+      - name: Gianluca Demartini (UQ)
+        img: /img/oc/gd-2020-2.png
+      - name: Guido Zuccon (UQ)
+        img: /img/oc/guido-zuccon-scaled.jpg
+
+  - name: Program Chairs
+    members:
+      - name: Shane Culpepper (RMIT)
+        img: /img/oc/shane_culpepper.jpg
+      - name: Zi Huang (UQ)
+        img:
+      - name: Hanghang Tong (U Illinois Urbana Ch)
+        img:
+
+  - name: Short Paper Chairs
+    members:
+      - name: Krisztian Balog (University of Stavanger)
+        img:
+      - name: Louiqa Raschid (University of Maryland)
+        img: /img/oc/LouiqaRaschid.JPG
+      - name: Lina Yao (UNSW)
+        img:
+
+  - name: Applied Research Track Chairs
+    members:
+      - name: Miriam Redi (Wikimedia Foundation)
+        img:
+      - name: Chris Welty (Google AI)
+        img:
+
+  - name: Demonstrations Chairs
+    members:
+      - name: Zhifing Bao (RMIT)
+        img:
+      - name: Julia Kiselova (Microsoft)
+        img:
+
+  - name: Resource Track Chairs
+    members:
+      - name: Nicola Ferro (University of Padua, Italy)
+        img:
+      - name: Zhenhui Jessie Li (Pennsylvania State University.)
+        img:
+
+  - name: Workshop Chairs
+    members:
+      - name: Gao Cong (NTU)
+        img:
+      - name: Maya Ramanath (IIT-D)
+        img: /img/oc/MayaRamanath.jpg
+
+  - name: Tutorial Chairs
+    members:
+      - name: Mohamed Sharaf (United Arab Emirates University)
+        img:
+      - name: Min Zhang (Tsinghua University, China)
+        img:
+
+  - name: Website Chair
+    members:
+      - name: Harrisen Scells (UQ)
+        img: /img/oc/harry.jpeg
+
+  - name: Local and Online Chair
+    members:
+      - name: Kathleen Williamson (UQ)
+        img:
+
+  - name: Proceedings Chair
+    members:
+      - name: Kevin Roitero (UNIUD)
+        img:

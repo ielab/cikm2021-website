@@ -1,0 +1,73 @@
+# -- HOW TO USE THIS FILE -- #
+# Order of menu items will appear in the same order specified in this file.
+# Use the `dropdown` key
+
+links:
+
+  # These menu items should not be commented out.
+  - name: Home
+    url: /
+  - name: Code of Conduct
+    url: https://www.acm.org/about-acm/policy-against-harassment
+
+  # Comment/uncomment these menu items depending on conf dates.
+
+#  - name: Programme
+#    url: /programme
+#    dropdown:
+#      - name: Workshops
+#        url: /programme/workshops
+#      - name: Tutorials
+#        url: /programme/tutorials
+#      - name: Keynote Speakers
+#        url: /programme/keynote-speakers
+
+  - name: Analyticup
+    url: /analyticup
+
+#  - name: Accepted Papers
+#    url: /accepted-papers
+#    dropdown:
+#      - name: Best Paper Nominees
+#        url: /accepted-papers/best-paper-nominees
+#      - name: Full Papers
+#        url: /accepted-papers/full
+#      - name: Short Papers
+#        url: /accepted-papers/short
+#      - name: Applied Research Papers
+#        url: /accepted-papers/applied-research
+#      - name: Resource Track Papers
+#        url: /accepted-papers/resource-track
+#      - name: Doctoral consortium
+#        url: /accepted-papers/doctoral-consortium
+#      - name: Posters and Demos
+#        url: /accepted-papers/posters-and-demos
+
+#  - name: Proceedings
+#    url: /proceedings
+
+  - name: Submit
+    url: /cfp
+    dropdown:
+      - name: Full Papers
+        url: /cfp/full-papers
+      - name: Short Papers
+        url: /cfp/short-papers
+      - name: Demonstration Papers
+        url: /cfp/demo-papers
+      - name: Resource Papers
+        url: /cfp/resource-papers
+      - name: Tutorials
+        url: /cfp/tutorials
+      - name: Workshops
+        url: /cfp/workshops
+
+#  - name: Registration
+#    url: /registration
+
+  # These menu items should not be commented out.
+  - name: Organisation
+    url: /committee
+  - name: Sponsors
+    url: /sponsors
+

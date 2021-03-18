@@ -1,0 +1,53 @@
+img.keynote {
+	border: thin solid black;
+	width: 100px;
+	float: left;
+	padding: 0px;
+	margin-right: 10px;
+}
+
+.jumbotron {
+	
+}
+
+.jumbotron h1 {
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 130px;
+
+	letter-spacing: -1px;
+  line-height: 60px;
+  font-weight: 200;
+  text-shadow: 0 1px 0 black;
+}
+
+
+
+p.welcome {
+	font-size: 25px;
+	color: white;
+	font-weight: 400;
+	/*text-shadow: 0 1px 0 black;*/
+}
+
+h2, h3 {
+	font-weight: 200;
+}
+
+h5 {
+	font-weight: 600;
+}
+
+footer img, img.sponsor {
+	padding-right: 40px;
+	height: 40px;
+}
+
+.sponsor p {
+	margin: 20px 0px 20px 0px;
+}
+
+.sponsor-big {
+    height: 60px;
+    margin: 30px;
+}

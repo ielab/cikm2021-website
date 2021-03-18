@@ -1,0 +1,41 @@
+dates:
+
+  - name: Workshops Submission Deadline
+    date: 21 Apr 2021
+    occurred: false
+
+  - name: Workshops Notifications
+    date: 7 May 2021
+    occurred: false
+
+  - name: Full & Applied Papers Abstract Deadline
+    date: 19 May 2021
+    occurred: false
+
+  - name: Full & Applied Papers Final Deadline
+    date: 26 May 2021
+    occurred: false
+
+  - name: Short Papers Abstract Deadline
+    date: 2 Jun 2021
+    occurred: false
+
+  - name: Short Papers Final Deadline
+    date: 9 Jun 2021
+    occurred: false
+
+  - name: Resource & Demo Papers Deadline
+    date: 16 Jun 2021
+    occurred: false
+
+  - name: Tutorial Papers Deadline
+    date: 30 Jun 2021
+    occurred: false
+
+  - name: Papers Notifications
+    date: 9 Aug 2021
+    occurred: false
+
+  - name: Camera Ready Deadline
+    date: 23 Aug 2021
+    occurred: false
