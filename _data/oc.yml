@@ -10,7 +10,7 @@ chairs:
   - name: Program Chairs
     members:
       - name: Shane Culpepper (RMIT)
-        img:
+        img: /img/oc/shane_culpepper.jpg
       - name: Zi Huang (UQ)
         img:
       - name: Hanghang Tong (U Illinois Urbana Ch)
@@ -21,7 +21,7 @@ chairs:
       - name: Krisztian Balog (University of Stavanger)
         img:
       - name: Louiqa Raschid (University of Maryland)
-        img:
+        img: /img/oc/LouiqaRaschid.JPG
       - name: Lina Yao (UNSW)
         img:
 
@@ -51,7 +51,7 @@ chairs:
       - name: Gao Cong (NTU)
         img:
       - name: Maya Ramanath (IIT-D)
-        img:
+        img: /img/oc/MayaRamanath.jpg
 
   - name: Tutorial Chairs
     members:

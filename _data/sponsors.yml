@@ -7,3 +7,18 @@
 
 
 tiers:
+
+  - level: Supported By
+    sponsors:
+      - name: ACM
+        img_url: /img/acm_logo.png
+        url: https://www.acm.org/
+      - name: SIGIR
+        img_url: /img/acm_sigir_logo.png
+        url: https://sigir.org/
+      - name: SIGWEB
+        img_url: /img/sigweb_logo.png
+        url: https://www.sigweb.org/
+      - name: The University of Queensland
+        img_url: /img/uq_logo.png
+        url: https://www.uq.edu.au/

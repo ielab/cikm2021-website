@@ -8,7 +8,7 @@ links:
   - name: Home
     url: /
   - name: Code of Conduct
-    url: http://sigir.org/conferences/conference-code-of-conduct/
+    url: https://www.acm.org/about-acm/policy-against-harassment
 
   # Comment/uncomment these menu items depending on conf dates.
 
@@ -46,7 +46,7 @@ links:
 #  - name: Proceedings
 #    url: /proceedings
 
-  - name: Call for Papers
+  - name: Submit
     url: /cfp
     dropdown:
       - name: Full Papers

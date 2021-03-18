@@ -3,9 +3,24 @@ layout: default
 ---
 
 <div class="jumbotron" style="background-image: url('img/site_banner.jpg'); background-size: cover; background-position: 0px 0px">
-    <h1><span style="background-color:#000; padding: .1em">{{site.conf_name}}</span></h1>
-    <p class="welcome"><span style="background-color:#000; padding: .2em">{{site.conf_subtitle}}</span></p>
-    <p class="welcome"><span style="background-color:#000; padding: .2em">{{site.conf_date}}, {{site.conf_location}}</span></p>
+    <h1><span style="padding: .1em">{{site.conf_name}}</span></h1>
+    <p class="welcome"><span style="padding: .2em">{{site.conf_subtitle}}</span></p>
+    <p class="welcome"><span style="padding: .2em">{{site.conf_date}}, {{site.conf_location}}</span></p>
+    <p class="welcome"><span style="padding: .2em; font-size:16px">Hosted in Gold Coast, Queensland, Australia</span></p>
 </div>
 
 {{ content }}
+
+<!--<h2>Latest News</h2>-->
+
+<!--<div class="news flex one three-1000">-->
+<!--<div class="two-third-1000">-->
+<!--{% for post in site.posts limit:3 %}-->
+<!--<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>-->
+<!--<small>{{ post.date | date_to_long_string }}</small>-->
+<!--<p>{{ post.excerpt }}</p>-->
+<!--{% endfor %}-->
+<!--</div>-->
+<!--</div>-->
+
+<!--<a href="/posts/">News archive &rarr;</a>-->

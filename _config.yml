@@ -20,7 +20,7 @@
 
 title: CIKM 2021
 email: g.zuccon@uq.edu.au
-description: 30th ACM International Conference on Information and Knowledge Management, Gold Coast, Queensland, Australia
+description: 30th ACM International Conference on Information and Knowledge Management, Online
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cikm2021.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cikm2021
@@ -30,8 +30,8 @@ paginate_path: "/posts/page-:num/"
 
 conf_name: CIKM2021
 conf_subtitle: 30th ACM International Conference on Information and Knowledge Management
-conf_location: Gold Coast, Queensland, Australia
-conf_date: 18 October 2021
+conf_location: Online
+conf_date: 1-5 November 2021
 
 # Build settings
 plugins:
