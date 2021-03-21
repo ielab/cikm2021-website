@@ -17,6 +17,7 @@ layout: default
 {%- endif -%}      
       <div class="caption">      
         <p>{{- member.name -}}</p>
+        <p>{{- member.org -}}</p>
       </div>
     </div>
 </div>    

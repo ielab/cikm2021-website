@@ -2,75 +2,96 @@ chairs:
 
   - name: General Chairs
     members:
-      - name: Gianluca Demartini (UQ)
+      - name: Gianluca Demartini
+        org: The University of Queensland, Australia
         img: /img/oc/gd-2020-2.png
-      - name: Guido Zuccon (UQ)
+      - name: Guido Zuccon
+        org: The University of Queensland, Australia
         img: /img/oc/guido-zuccon-scaled.jpg
 
   - name: Program Chairs
     members:
-      - name: Shane Culpepper (RMIT)
+      - name: Shane Culpepper
+        org: Royal Melbourne Institute of Technology, Australia
         img: /img/oc/shane_culpepper.jpg
-      - name: Zi Huang (UQ)
+      - name: Zi Huang
+        org: The University of Queensland, Australia
         img:
-      - name: Hanghang Tong (U Illinois Urbana Ch)
+      - name: Hanghang Tong
+        org: University of Illinois at Urbana-Champaign, USA
         img:
 
   - name: Short Paper Chairs
     members:
-      - name: Krisztian Balog (University of Stavanger)
+      - name: Krisztian Balog
+        org: University of Stavanger, Norway
         img:
-      - name: Louiqa Raschid (University of Maryland)
+      - name: Louiqa Raschid
+        org: University of Maryland, USA
         img: /img/oc/LouiqaRaschid.JPG
-      - name: Lina Yao (UNSW)
+      - name: Lina Yao
+        org: University of New South Wales, Australia
         img:
 
   - name: Applied Research Track Chairs
     members:
-      - name: Miriam Redi (Wikimedia Foundation)
+      - name: Miriam Redi
+        org: Wikimedia Foundation
         img:
-      - name: Chris Welty (Google AI)
+      - name: Chris Welty
+        org: Google AI, USA
         img:
 
   - name: Demonstrations Chairs
     members:
-      - name: Zhifing Bao (RMIT)
-        img:
-      - name: Julia Kiselova (Microsoft)
+      - name: Zhifeng Bao
+        org: Royal Melbourne Institute of Technology, Australia
+        img: /img/oc/ZhifengBao.png
+      - name: Julia Kiselova
+        org: Microsoft
         img:
 
   - name: Resource Track Chairs
     members:
-      - name: Nicola Ferro (University of Padua, Italy)
+      - name: Nicola Ferro
+        org: University of Padua, Italy
         img: /img/oc/ferro.jpg
-      - name: Zhenhui Jessie Li (Pennsylvania State University)
+      - name: Zhenhui Jessie Li
+        org: Pennsylvania State University, USA
         img:
 
   - name: Workshop Chairs
     members:
-      - name: Gao Cong (NTU)
+      - name: Gao Cong
+        org: Nanyang Technological University, Singapore
         img:
-      - name: Maya Ramanath (IIT-D)
+      - name: Maya Ramanath
+        org: Indian Institute of Technology Delhi, India
         img: /img/oc/MayaRamanath.jpg
 
   - name: Tutorial Chairs
     members:
-      - name: Mohamed Sharaf (United Arab Emirates University)
+      - name: Mohamed Sharaf
+        org: United Arab Emirates University, UAE
         img:
-      - name: Min Zhang (Tsinghua University, China)
+      - name: Min Zhang
+        org: Tsinghua University, China
         img:
 
   - name: Website Chair
     members:
-      - name: Harrisen Scells (UQ)
+      - name: Harrisen Scells
+        org: The University of Queensland, Australia
         img: /img/oc/harry.jpeg
 
   - name: Local and Online Chair
     members:
-      - name: Kathleen Williamson (UQ)
+      - name: Kathleen Williamson
+        org: The University of Queensland, Australia
         img:
 
   - name: Proceedings Chair
     members:
-      - name: Kevin Roitero (UNIUD)
+      - name: Kevin Roitero
+        org: University of Udine, Italy
         img:
