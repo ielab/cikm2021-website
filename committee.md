@@ -24,3 +24,21 @@ layout: default
 {% endfor %}
 </div>
 {% endfor %}
+
+## Steering Committee
+
+Steering committee members serve a four-year term, and are limited to two terms. SIG liaisons and Honorary members have no fixed term of service.
+
+The current members of the CIKM Steering Committee include (in alphabetical order by surname):
+
+ - Dr. Rakesh Agrawal, USA, first term began 2014
+ - Dr. Ricardo Baeza-Yates, Spain, first term began 2013
+ - Dr. Nick Craswell,  USA, first term began 2013
+ - Prof. Ying Ding, USA, first term began 2019
+ - Prof. Jaap Kamps, Netherlands, SIGIR liaison since 2017
+ - Dr. Qi He, LinkedIn, USA, first term began 2018
+ - Prof. Alistair Moffat, Steering Committee Chair, Australia, first term began 2017
+ - Prof. Charles Nicholas, USA, SIGWEB liaison since 2007, Honorary
+ - Prof. E.K. Park, USA, Honorary
+ - Dr. James Shanahan, USA, first term began 2013
+ - Prof. Marianne Winslett, USA, first term began 2013.
