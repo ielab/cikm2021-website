@@ -1,6 +1,6 @@
 dates:
 
-  - name: Workshops Submission Deadline
+  - name: Workshops Proposal Deadline
     date: 21 Apr 2021
     occurred: false
 
@@ -28,7 +28,7 @@ dates:
     date: 16 Jun 2021
     occurred: false
 
-  - name: Tutorial Papers Deadline
+  - name: Tutorial Proposals Deadline
     date: 30 Jun 2021
     occurred: false
 
