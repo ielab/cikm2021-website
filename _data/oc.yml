@@ -76,7 +76,7 @@ chairs:
         img:
       - name: Min Zhang
         org: Tsinghua University, China
-        img:
+        img: /img/oc/MinZhang-photo.jpg
 
   - name: Website Chair
     members:
