@@ -9,7 +9,7 @@ Workshops will complement the main CIKM conference to be held online and hosted 
 
 ## Submission Guidelines
 
-Please use the [CIKM 2021 Workshop Proposal Template](https://drive.google.com/file/d/1kRT7vM6qrqNh8vmt1uB_p9OSgcGLbJQJ/view?usp=sharing) for your submission. Send the proposal to [cikm2021-workshop@easychair.org](mailto:cikm2021-workshop@easychair.org) with subject “CIKM2021 – YOURACRONYM Workshop Proposal”.  Workshop proposals are reviewed based on the quality of the proposal, their relation to the main CIKM topics, and the likelihood to attract enough participants as well as the hosting capacity of the conference.
+Please use the [CIKM 2021 Workshop Proposal Template](/dl/CIKM2021-Workshop-Proposal-Template.docx) for your submission. Send the proposal to [cikm2021-workshop@easychair.org](mailto:cikm2021-workshop@easychair.org) with subject “CIKM2021 – YOURACRONYM Workshop Proposal”.  Workshop proposals are reviewed based on the quality of the proposal, their relation to the main CIKM topics, and the likelihood to attract enough participants as well as the hosting capacity of the conference.
 
 ### Proposal submission dates:
 
