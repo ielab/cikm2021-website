@@ -78,6 +78,15 @@ chairs:
         org: Tsinghua University, China
         img: /img/oc/MinZhang-photo.jpg
 
+  - name: Publicity Chairs
+    members:
+      - name: Aldo Lipani
+        org: University College London, United Kingdom
+        img: /img/oc/aldo_lipani.jpg
+      - name: Shengyao Zhuang
+        org: The University of Queensland, Australia
+        img: /img/oc/Shengyao_zhuang.jpg
+
   - name: Website Chair
     members:
       - name: Harrisen Scells
