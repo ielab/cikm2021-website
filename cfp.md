@@ -8,5 +8,6 @@ layout: default
 
  - [Full Papers](/cfp/full-papers)
  - [Short Papers](/cfp/short-papers)
+ - [Demonstration Papers](/cfp/demo-papers)
  - [Tutorials](/cfp/tutorials)
  - [Workshop Proposals](/cfp/workshops)
