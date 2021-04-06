@@ -1,0 +1,14 @@
+{%- for date in site.data.important-dates.dates -%}
+{%- if date.name == include.name -%}
+<tr>
+    <td>{{- date.name -}}</td>
+    <td>
+        {%- if date.occurred -%}
+        <del>{{- date.date -}}</del>
+        {%- else -%}
+        {{- date.date -}}
+        {%- endif -%}
+    </td>
+</tr>
+{%- endif -%}
+{%- endfor -%}
