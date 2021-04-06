@@ -1,5 +1,7 @@
 # Call for Short Papers
 
+[https://easychair.org/conferences/?conf=cikm2021](https://easychair.org/conferences/?conf=cikm2021)
+
 The Conference on Information and Knowledge Management (CIKM) provides a unique venue for industry and academia to present and discuss state-of-the-art research on artificial intelligence, search and discovery, data mining and database systems, all at a single conference. CIKM is uniquely situated to highlight technologies and insights that materialize the big data and artificial intelligence vision of the future. CIKM 2021 will take place online in a lively and interactive manner. 
 
 ## Key Dates
