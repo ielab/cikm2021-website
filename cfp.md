@@ -4,4 +4,6 @@ layout: default
 
 # Call for Papers 
 
-To come soon.
+ - [Full Papers](/cfp/full-papers)
+ - [Short Papers](/cfp/short-papers)
+ - [Workshop Proposals](/cfp/workshops)
