@@ -51,6 +51,8 @@ links:
     dropdown:
       - name: Full Papers
         url: /cfp/full-papers
+      - name: Applied Papers
+        url: /cfp/applied-papers
       - name: Short Papers
         url: /cfp/short-papers
       - name: Demonstration Papers
