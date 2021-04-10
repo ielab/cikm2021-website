@@ -12,6 +12,8 @@ We encourage proposals for both half- and full-day tutorials from active researc
 
 CIKM 2021 will provide free registration for at least one tutorial organizer. Please consider the submission guidelines shown below. 
 
+**AUTHORS TAKE NOTE:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)
+
 ## Submission Guidelines
 
 Each tutorial proposal must include the following information.

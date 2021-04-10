@@ -4,6 +4,8 @@
 
 The Conference on Information and Knowledge Management (CIKM) provides a unique venue for industry and academia to present and discuss state-of-the-art research on artificial intelligence, search and discovery, data mining and database systems, all at a single conference. CIKM is uniquely situated to highlight technologies and insights that materialize the big data and artificial intelligence vision of the future. CIKM 2021 will take place online in a lively and interactive manner. 
 
+**AUTHORS TAKE NOTE:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)
+
 ## Key Dates
 
 
