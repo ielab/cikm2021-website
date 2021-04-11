@@ -10,5 +10,6 @@ layout: default
  - [Applied Papers](/cfp/applied-papers)
  - [Short Papers](/cfp/short-papers)
  - [Demonstration Papers](/cfp/demo-papers)
+ - [Resource Papers](/cfp/resource-papers)
  - [Tutorials](/cfp/tutorials)
  - [Workshop Proposals](/cfp/workshops)
