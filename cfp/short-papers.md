@@ -74,6 +74,6 @@ All authors and participants must adhere the the ACM discrimination policy. For 
 For more information, contact the appropriate PC chairs:
  - Short Paper Track Email: [cikm2021-short@easychair.org](mailto:cikm2021-short@easychair.org)
  
- - Krisztian Baalog, University of Stavanger, Norway
+ - Krisztian Balog, University of Stavanger, Norway
  - Louiqa Raschid, University of Maryland, USA
  - Lina Yao, University of New South Wales, Australia
