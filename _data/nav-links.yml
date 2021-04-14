@@ -53,12 +53,12 @@ links:
         url: /cfp/full-papers
       - name: Applied Papers
         url: /cfp/applied-papers
+      - name: Resource Papers
+        url: /cfp/resource-papers
       - name: Short Papers
         url: /cfp/short-papers
       - name: Demonstration Papers
         url: /cfp/demo-papers
-      - name: Resource Papers
-        url: /cfp/resource-papers
       - name: Tutorials
         url: /cfp/tutorials
       - name: Workshops
