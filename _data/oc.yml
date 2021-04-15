@@ -47,9 +47,9 @@ chairs:
       - name: Zhifeng Bao
         org: Royal Melbourne Institute of Technology, Australia
         img: /img/oc/ZhifengBao.png
-      - name: Julia Kiselova
-        org: Microsoft
-        img:
+      - name: Julia Kiseleva
+        org: Microsoft Research
+        img: /img/oc/julia.jpeg
 
   - name: Resource Track Chairs
     members:
