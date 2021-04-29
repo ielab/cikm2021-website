@@ -100,7 +100,7 @@
                 {%- for date in site.data.important-dates.dates -%}
                 <tr>
                     <td>{{- date.name -}}</td>
-                    <td>
+                    <td style="text-align:right;">
                         {%- if date.occurred -%}
                         <del>{{- date.date -}}</del>
                         {%- else -%}
