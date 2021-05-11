@@ -78,6 +78,12 @@ chairs:
         org: Tsinghua University, China
         img: /img/oc/MinZhang-photo.jpg
 
+  - name: Analyticup Chair
+    members:
+      - name: Miao Xu
+        org: The University of Queensland, Australia
+        img:
+
   - name: Publicity Chairs
     members:
       - name: Aldo Lipani
