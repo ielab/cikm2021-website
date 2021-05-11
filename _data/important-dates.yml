@@ -2,11 +2,11 @@ dates:
 
   - name: Workshops Proposal Deadline
     date: 21 Apr 2021
-    occurred: false
+    occurred: true
 
   - name: Workshops Notifications
     date: 7 May 2021
-    occurred: false
+    occurred: true
 
   - name: Full & Applied Papers Abstract Deadline
     date: 19 May 2021
