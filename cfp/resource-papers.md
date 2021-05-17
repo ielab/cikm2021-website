@@ -27,7 +27,7 @@ Historically, CIKM has published research in all of these areas. The goal of the
 
 All dates are in the [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe) timezone.
 <ul>
-<li>{% include deadline.html name="Resource & Demo Papers Deadline" %}</li>
+<li>{% include deadline.html name="Resource Papers Deadline" %}</li>
 <li>{% include deadline.html name="Papers Notifications" %}</li>
 <li>{% include deadline.html name="Camera Ready Deadline" %}</li>
 </ul>
