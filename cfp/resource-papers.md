@@ -25,7 +25,7 @@ Historically, CIKM has published research in all of these areas. The goal of the
 
 ## Key Dates
 
-All dates are in the [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe) timezone.
+All deadlines are at 11:59pm in the <a href="https://www.timeanddate.com/time/zones/aoe">Anywhere on Earth</a> timezone.
 <ul>
 <li>{% include deadline.html name="Resource Papers Deadline" %}</li>
 <li>{% include deadline.html name="Papers Notifications" %}</li>

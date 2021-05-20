@@ -51,3 +51,8 @@ footer img, img.sponsor {
     height: 60px;
     margin: 30px;
 }
+
+.anchor {
+    padding-top: 50px;
+    margin-top: -50px;
+}

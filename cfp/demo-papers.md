@@ -8,7 +8,7 @@ The Conference on Information and Knowledge Management (CIKM) provides a unique 
 
 ## Key Dates
 
-All dates are in the [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe) timezone.
+All deadlines are at 11:59pm in the <a href="https://www.timeanddate.com/time/zones/aoe">Anywhere on Earth</a> timezone.
 <ul>
 <li>{% include deadline.html name="Demo Papers Deadline" %}</li>
 <li>{% include deadline.html name="Papers Notifications" %}</li>

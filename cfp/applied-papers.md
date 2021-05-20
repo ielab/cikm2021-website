@@ -13,7 +13,7 @@ The Applied Research Track is distinct from the Research Track in that submissio
 
 ## Key Dates
 
-All dates are in the [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe) timezone.
+All deadlines are at 11:59pm in the <a href="https://www.timeanddate.com/time/zones/aoe">Anywhere on Earth</a> timezone.
 <ul>
 <li>{% include deadline.html name="Full & Applied Papers Abstract Deadline" %}</li>
 <li>{% include deadline.html name="Full & Applied Papers Final Deadline" %}</li>
