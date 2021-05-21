@@ -26,4 +26,18 @@ A: No, please upload the abstract by the abstract deadline, and update your exis
 
 Q: <a href="#faq-4" id="faq-4" class="anchor">What time do submissions close for my deadline?</a>
 
-A: All submission deadlines (abstract deadline, final deadline, etc.) are at **11:59pm** of the respective date. 
+A: All submission deadlines (abstract deadline, final deadline, etc.) are at **11:59pm** of the respective date.
+
+---
+
+Q: <a href="#faq-5" id="faq-5" class="anchor">Should the abstract be included in the paper?</a>
+
+A: There was a typo in earlier "author guidance" that mistakenly said abstract instead of appendix. An abstract should be included in the paper.
+
+> Adhere to the 9 content pages + references formatting rule. No abstracts are allowed.
+
+and should be:
+
+> Adhere to the 9 content pages + references formatting rule. No appendix is allowed.
+
+That was the wrong sentence in the author guidelines that was sent via email to authors that submitted abstracts to full paper track
