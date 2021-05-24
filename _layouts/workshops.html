@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+{%if page.website%}
+<p><b>Workshop Website <a href="{{page.website}}">{{page.website}}</a></b></p>
+{%else%}
+<p><b>Workshop Website to come soon.</b></p>
+{%endif%}
+<p><b>Workshop Organisers</b></p>
+<ul>
+    {%for organiser in page.organisers%}
+    <li>
+        <div>{{organiser.name}}</div>
+        <div>{{organiser.affiliation}}</div>
+    </li>
+    {%endfor%}
+</ul>
+<p><b>Workshop Abstract</b></p>
+<p>{{content}}</p>

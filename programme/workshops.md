@@ -2,4 +2,8 @@
 layout: default
 ---
 
-To come soon.
+# Accepted Workshops
+
+{%for workshop in site.workshops%}
+ - [{{workshop.title}}]({{workshop.url}})
+{%endfor%}

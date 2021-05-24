@@ -12,11 +12,11 @@ links:
 
   # Comment/uncomment these menu items depending on conf dates.
 
-#  - name: Programme
-#    url: /programme
-#    dropdown:
-#      - name: Workshops
-#        url: /programme/workshops
+  - name: Programme
+    url: /programme
+    dropdown:
+      - name: Workshops
+        url: /programme/workshops
 #      - name: Tutorials
 #        url: /programme/tutorials
 #      - name: Keynote Speakers
