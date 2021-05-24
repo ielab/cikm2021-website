@@ -14,7 +14,7 @@ dates:
 
   - name: Full & Applied Papers Abstract Deadline
     date: 19 May 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Full & Applied Papers Final Deadline
