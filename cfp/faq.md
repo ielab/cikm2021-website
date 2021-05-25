@@ -14,7 +14,7 @@ A: ArXiV is not forbidden but understand the risks and you should at least modif
 
 Q: <a href="#faq-2" id="faq-2" class="anchor">Can papers have an appendix?</a>
 
-A: If you choose to have an appendix, it has to be within the page limit. Full papers are 9 pages with as many pages as needed for the bibliography.
+A:  Full papers must be 9 pages of content. Papers that include an appendix that exceeds the 9 page content limitation will be desk rejected (we recommend adding the appendix before references to make it clear to reviewers the paper fits within page limits; in the camera-ready, you will be able to move it after the references, but still within the content size limits). Our suggestion is not to have any appendices and put whatever you were going to write there into the relevant section of your paper (this approach is far more likely to be read carefully by reviewers and essential details are far less likely to be missed).
 
 ---
 
