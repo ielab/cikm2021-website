@@ -36,3 +36,35 @@ A: There was a typo in earlier "author guidance" that mistakenly said abstract i
 The sentence in the author guidelines that was sent via email to authors that submitted abstracts to the full paper track should have read:
 
 > Adhere to the 9 content pages + references formatting rule. No appendix is allowed.
+
+---
+
+Q: <a href="#faq-6" id="faq-6" class="anchor">What template should I use?</a>
+
+A: The [ACM website](https://www.acm.org/publications/proceedings-template) contains templates for Word and LaTeX (including overleaf). Use the "sigconf" proceedings template for LaTeX and the Interim Template for Word.
+
+If you are using LaTeX, the document class you should use is:
+ 
+```tex
+\documentclass[sigconf,natbib=true,anonymous=true]{acmart}
+```
+
+You may also find natbib=true and review=true. Neither are required but can be helpful.
+
+---
+
+Q: <a href="#faq-7" id="faq-7" class="anchor">What front matter should be included in my paper manuscripts when I submit it for review?</a>
+
+A: For the review, you can use the default ACM copyright information in the template. CCS concepts and keywords are not required for review but may be required if accepted and published by the ACM.
+
+---
+
+Q: <a href="#faq-8" id="faq-8" class="anchor">Can I change the track that my paper is submitted to?</a>
+
+A: Due the the volume of papers and current timeline differences, we are not able to move papers between tracks.
+
+
+
+
+
+
