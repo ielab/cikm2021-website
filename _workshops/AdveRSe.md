@@ -1,6 +1,6 @@
 ---
 title: "AdveRSe 2021: International Workshop on Adversarial Machine  Learning for Recommendation and Search"
-website: 
+website: "https://sisinflab.github.io/adverse2021/"
 organisers:
  - name: "Battista Biggio"
    affiliation: "University of Cagliari, Italy"

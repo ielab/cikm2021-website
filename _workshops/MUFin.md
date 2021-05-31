@@ -1,6 +1,6 @@
 ---
-title: "International Workshop on Modelling Uncertainty in the Financial World (ModUnFin) "
-website: 
+title: "International Workshop on Modelling Uncertainty in the Financial World (MUFin21) "
+website: "https://sites.google.com/view/mufin21/home"
 organisers:
  - name: "Srikanta Bedathur"
    affiliation: "IIT-Delhi, India"
