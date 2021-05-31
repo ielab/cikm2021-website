@@ -19,7 +19,7 @@ dates:
 
   - name: Full & Applied Papers Final Deadline
     date: 26 May 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Short Papers Abstract Deadline
