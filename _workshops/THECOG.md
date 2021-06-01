@@ -1,6 +1,6 @@
 ---
 title: "THECOG - Transforms in beHavioral and affectivE COmputinG"
-website: 
+website: "https://easychair.org/cfp/thecog2021"
 organisers:
  - name: "Eleanna Kafeza"
    affiliation: "Zayed University, UAE"
