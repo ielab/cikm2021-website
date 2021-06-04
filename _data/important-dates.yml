@@ -24,7 +24,7 @@ dates:
 
   - name: Short Papers Abstract Deadline
     date: 2 Jun 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Short Papers Final Deadline
