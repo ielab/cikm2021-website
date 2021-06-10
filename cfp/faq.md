@@ -67,7 +67,7 @@ A: Due the the volume of papers and current timeline differences, we are not abl
 
 Q: <a href="#faq-9" id="faq-9" class="anchor">Can I include acknowledgments in my CIKM paper submitted for peer review?</a>
 
-A: No. all submissions need to be anonymous. Including an acknowledgment, e.g., to funding sources, will break anonymity to various extent. Please do not include acknowledgments in the submitted version; you will be able to include them in the camera ready. If you need a placeholder for the camera ready, you can state that you will add an acknowledgment if the paper is accepted that will take n lines.
+A: If you are submitting a full, short, or applied paper, no: these submissions need to be anonymous. Including an acknowledgment, e.g., to funding sources, will break anonymity to various extent. Please do not include acknowledgments in the submitted version; you will be able to include them in the camera ready. If you need a placeholder for the camera ready, you can state that you will add an acknowledgment if the paper is accepted that will take n lines.
 
 
 
