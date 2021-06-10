@@ -29,7 +29,7 @@ dates:
 
   - name: Short Papers Final Deadline
     date: 9 Jun 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Resource & Demo Papers Deadline
