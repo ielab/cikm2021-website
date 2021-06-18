@@ -34,7 +34,7 @@ dates:
 
   - name: Resource & Demo Papers Deadline
     date: 16 Jun 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Tutorial Proposals Deadline
@@ -56,10 +56,10 @@ dates:
 
   - name: Resource Papers Deadline
     date: 16 Jun 2021
-    occurred: false
+    occurred: true
     visible: false
 
   - name: Demo Papers Deadline
     date: 16 Jun 2021
-    occurred: false
+    occurred: true
     visible: false
