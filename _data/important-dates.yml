@@ -39,7 +39,7 @@ dates:
 
   - name: Tutorial Proposals Deadline
     date: 30 Jun 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Papers Notifications
