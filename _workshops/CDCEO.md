@@ -18,7 +18,7 @@ organisers:
    affiliation: "Earth Observation Data Centre for Water Resources Monitoring, Austria"
    email: "Christian.Briese@eodc.eu"
  - name: "Andrzej Kucik"
-   affiliation: "European Space Agency Centre for Earth Observation, Italy"
+   affiliation: "Φ-lab, European Space Agency, Italy"
    email: "Andrzej.Kucik@esa.int"
  - name: "Michael Kopp"
    affiliation: "Institute of Advanced Research in Artificial Intelligence, Austria; Here Technologies, Switzerland"
