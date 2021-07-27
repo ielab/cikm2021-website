@@ -1,3 +1,7 @@
+.content {
+    font-size:1.8rem;
+}
+
 img.keynote {
 	border: thin solid black;
 	width: 100px;
@@ -55,4 +59,9 @@ footer img, img.sponsor {
 .anchor {
     padding-top: 50px;
     margin-top: -50px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
