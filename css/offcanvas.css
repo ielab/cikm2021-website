@@ -45,16 +45,17 @@ footer {
 
   .row-offcanvas-right.active {
     right: 77%; /* 6 columns */
+    margin-right:2px;
   }
 
   .row-offcanvas-left.active {
     left: 77%; /* 6 columns */
+    margin-right:2px;
   }
 
   .sidebar-offcanvas {
     position: absolute;
     top: 0;
     width: 77%; /* 6 columns */
-    margin-right:1em;
   }
 }
