@@ -10,6 +10,9 @@ links:
   - name: Code of Conduct
     url: https://www.acm.org/about-acm/policy-against-harassment
 
+  - name: "<b>Call for Sponsors</b>"
+    url: /call-for-sponsors
+
   # Comment/uncomment these menu items depending on conf dates.
 
   - name: Programme
@@ -74,4 +77,3 @@ links:
     url: /committee
   - name: Sponsors
     url: /sponsors
-
