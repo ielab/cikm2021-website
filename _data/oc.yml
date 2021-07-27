@@ -37,10 +37,10 @@ chairs:
     members:
       - name: Miriam Redi
         org: Wikimedia Foundation
-        img:
+        img: /img/oc/MiriamRedi.jpg
       - name: Chris Welty
         org: Google AI, USA
-        img:
+        img: /img/oc/ChrisWelty.jpg
 
   - name: Demonstrations Chairs
     members:
