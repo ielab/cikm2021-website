@@ -49,25 +49,25 @@ links:
 #  - name: Proceedings
 #    url: /proceedings
 
-#  - name: Submit
-#    url: /cfp
-#    dropdown:
-#      - name: FAQ
-#        url: /cfp/faq
-#      - name: Full Papers
-#        url: /cfp/full-papers
-#      - name: Applied Papers
-#        url: /cfp/applied-papers
-#      - name: Resource Papers
-#        url: /cfp/resource-papers
-#      - name: Short Papers
-#        url: /cfp/short-papers
-#      - name: Demonstration Papers
-#        url: /cfp/demo-papers
-#      - name: Tutorials
-#        url: /cfp/tutorials
-#      - name: Workshops
-#        url: /cfp/workshops
+  - name: Submit
+    url: /cfp
+    dropdown:
+      - name: FAQ
+        url: /cfp/faq
+      - name: Full Papers
+        url: /cfp/full-papers
+      - name: Applied Papers
+        url: /cfp/applied-papers
+      - name: Resource Papers
+        url: /cfp/resource-papers
+      - name: Short Papers
+        url: /cfp/short-papers
+      - name: Demonstration Papers
+        url: /cfp/demo-papers
+      - name: Tutorials
+        url: /cfp/tutorials
+      - name: Workshops
+        url: /cfp/workshops
 
 #  - name: Registration
 #    url: /registration
