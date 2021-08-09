@@ -8,6 +8,12 @@
 
 tiers:
 
+  - level: Bronze Tier
+    sponsors:
+      - name: Go1
+        img_url: /img/sponsors/go1.png
+        url: https://www.go1.com
+
   - level: Supported By
     sponsors:
       - name: ACM
