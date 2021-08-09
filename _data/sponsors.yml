@@ -10,6 +10,9 @@ tiers:
 
   - level: Bronze Tier
     sponsors:
+      - name: The University of Queensland
+        img_url: /img/uq_logo.png
+        url: https://www.uq.edu.au/
       - name: Go1
         img_url: /img/sponsors/go1.png
         url: https://www.go1.com
@@ -25,6 +28,3 @@ tiers:
       - name: SIGWEB
         img_url: /img/sigweb_logo.png
         url: https://www.sigweb.org/
-      - name: The University of Queensland
-        img_url: /img/uq_logo.png
-        url: https://www.uq.edu.au/
