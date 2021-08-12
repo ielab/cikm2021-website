@@ -26,7 +26,7 @@ This year’s AnalytiCup is organized by QQ Browser, Tencent. Official task page
 
 ## Awards
 
-### Track 1 Multimodal Content Understanding
+### Track 1 Multimodal Video Understanding
 
  - 1st place: RMB 200,000 per team
  - 2nd place: RMB 50,000 per team
