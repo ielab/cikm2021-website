@@ -1,5 +1,12 @@
 # Submission FAQ
 
+
+Q: <a href="#faq-10" id="faq-10" class="anchor">When should authors of accepted submissions expect to receive e-mails from ACM about copyright forms and camera ready instructions?</a>
+
+A: Monday, 16th August.
+
+---
+
 Q: <a href="#faq-0" id="faq-0" class="anchor">When should full papers be submitted?</a>
 
 A: Authors must submit a complete abstract by the abstract deadline (19 May anywhere in the world). All placeholder abstracts will be deleted and authors will not be able to submit a paper.
