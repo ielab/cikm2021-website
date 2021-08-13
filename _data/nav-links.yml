@@ -25,29 +25,30 @@ links:
 #      - name: Keynote Speakers
 #        url: /programme/keynote-speakers
 
-  - name: Analyticup
-    url: /analyticup
-
-#  - name: Accepted Papers
-#    url: /accepted-papers
-#    dropdown:
+  - name: Accepted Papers
+    url: /accepted-papers
+    dropdown:
 #      - name: Best Paper Nominees
 #        url: /accepted-papers/best-paper-nominees
-#      - name: Full Papers
-#        url: /accepted-papers/full
-#      - name: Short Papers
-#        url: /accepted-papers/short
-#      - name: Applied Research Papers
-#        url: /accepted-papers/applied-research
-#      - name: Resource Track Papers
-#        url: /accepted-papers/resource-track
-#      - name: Doctoral consortium
-#        url: /accepted-papers/doctoral-consortium
-#      - name: Posters and Demos
-#        url: /accepted-papers/posters-and-demos
-
+      - name: Full Papers
+        url: /accepted-papers/full
+      - name: Short Papers
+        url: /accepted-papers/short
+      - name: Applied Research Papers
+        url: /accepted-papers/applied
+      - name: Resource Track Papers
+        url: /accepted-papers/resource
+      - name: Demos
+        url: /accepted-papers/demos
+      - name: Tutorials
+        url: /accepted-papers/tutorials
+      - name: Workshops
+        url: /programme/workshops
 #  - name: Proceedings
 #    url: /proceedings
+
+  - name: Analyticup
+    url: /analyticup
 
   - name: Submit
     url: /cfp
