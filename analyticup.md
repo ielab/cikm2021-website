@@ -7,7 +7,7 @@ layout: default
 
 CIKM 2021 AnalytiCup is an open competition including compelling data challenges aimed at members of the industry and academia interested in information and knowledge management. The challenges will be rolled out progressively and last for several months. The final solutions will be presented at the CIKM 2021 AnalytiCup which is to be held in conjunction with the CIKM conference during November 2021. the world.
 
-This year’s AnalytiCup is organized by QQ Browser, Tencent. Official task page can be found [here](https://algo.browser.qq.com/#en). There are two tracks, ‘Multimodal Video Similarity’ and ‘Automated Hyperparameter Optimization', in this competition. We are looking forward to the great ideas and solutions from industry and academia all around.
+This year’s AnalytiCup is organized by QQ Browser, Tencent. Official task page can be found [here](https://algo.browser.qq.com/#en). There are two tracks, ‘Multimodal Video Understanding’ and ‘Automated Hyperparameter Optimization of Recommendation System', in this competition. We are looking forward to the great ideas and solutions from industry and academia all around.
 
 ## Schedule
 
@@ -26,7 +26,7 @@ This year’s AnalytiCup is organized by QQ Browser, Tencent. Official task page
 
 ## Awards
 
-### Track 1 Multimodal Content Understanding
+### Track 1 Multimodal Video Understanding
 
  - 1st place: RMB 200,000 per team
  - 2nd place: RMB 50,000 per team
@@ -36,7 +36,7 @@ This year’s AnalytiCup is organized by QQ Browser, Tencent. Official task page
 
 The top team will have a chance to give a presentation in CIKM.
 
-### Track 2: HPO of recommendation System 
+### Track 2: Automated Hyperparameter Optimization of Recommendation System
 
  - 1st place: RMB 30,000 per team
  - 2nd place: RMB 15,000 per team

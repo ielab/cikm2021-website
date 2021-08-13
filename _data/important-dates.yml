@@ -44,7 +44,7 @@ dates:
 
   - name: Papers Notifications
     date: 9 Aug 2021
-    occurred: false
+    occurred: true
     visible: true
 
   - name: Camera Ready Deadline
