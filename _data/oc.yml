@@ -64,7 +64,7 @@ chairs:
     members:
       - name: Gao Cong
         org: Nanyang Technological University, Singapore
-        img:
+        img: /img/oc/gao.jpg
       - name: Maya Ramanath
         org: Indian Institute of Technology Delhi, India
         img: /img/oc/MayaRamanath.jpg
@@ -111,7 +111,7 @@ chairs:
         org: The University of Queensland, Australia
         img: /img/oc/KathleenWilliamson.jpeg
 
-  - name: Proceedings Chair
+  - name: Proceedings Chairs
     members:
       - name: Kevin Roitero
         org: University of Udine, Italy
