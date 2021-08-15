@@ -7,6 +7,18 @@ A: Monday, 16th August.
 
 ---
 
+Q: <a href="#faq-11" id="faq-11" class="anchor">Can the camera ready version surpass 9 pages?</a>
+
+A: No, the camera ready version needs to respect the CFP limits.
+
+---
+
+Q: <a href="#faq-12" id="faq-12" class="anchor">Can the emails on paper be different from the ones in submission system?</a>
+
+A: Yes.
+
+---
+
 Q: <a href="#faq-0" id="faq-0" class="anchor">When should full papers be submitted?</a>
 
 A: Authors must submit a complete abstract by the abstract deadline (19 May anywhere in the world). All placeholder abstracts will be deleted and authors will not be able to submit a paper.
