@@ -7,15 +7,29 @@ A: Monday, 16th August.
 
 ---
 
-Q: <a href="#faq-11" id="faq-11" class="anchor">Can the camera ready version surpass 9 pages?</a>
+Q: <a href="#faq-11" id="faq-11" class="anchor">Can the camera ready version of my paper go beyond the page limit?</a>
 
-A: No, the camera ready version needs to respect the CFP limits.
+A: No, the camera ready version needs to respect the limits per paper type specified in the CFP.
 
 ---
 
 Q: <a href="#faq-12" id="faq-12" class="anchor">Can the emails on paper be different from the ones in submission system?</a>
 
 A: Yes.
+
+---
+
+Q: <a href="#faq-12" id="faq-12" class="anchor">Can I still update the authors on my paper?</a>
+
+A: You may only make the following changes to the authors on your paper:
+
+ - Change author affiliations
+ - Change author emails
+ - Change author order
+ 
+You may not add or remove any authors or change the names of any authors.
+
+**You must make these changes on the forms you submit to the ACM. No further changes are possible once the camera ready version and associated forms are submitted to the ACM.**
 
 ---
 
