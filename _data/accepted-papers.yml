@@ -10074,6 +10074,17 @@ short-papers:
     Networks'
 tutorials:
 - authors:
+  - affiliation: Rutgers University
+    country: USA
+    name: Yunqi Li
+  - affiliation: Rutgers University
+    country: USA
+    name: Yingqiang Ge
+  - affiliation: Rutgers University
+    country: USA
+    name: Yongfeng Zhang
+  title: "Tutorial on Fairness of Machine Learning in Recommender Systems"
+- authors:
   - affiliation: Alibaba Group
     country: USA
     name: Yaliang Li
