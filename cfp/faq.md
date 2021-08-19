@@ -19,7 +19,7 @@ A: Yes.
 
 ---
 
-Q: <a href="#faq-12" id="faq-12" class="anchor">Can I still update the authors on my paper?</a>
+Q: <a href="#faq-13" id="faq-13" class="anchor">Can I still update the authors on my paper?</a>
 
 A: You may only make the following changes to the authors on your paper:
 
@@ -30,6 +30,12 @@ A: You may only make the following changes to the authors on your paper:
 You may not add or remove any authors or change the names of any authors.
 
 **You must make these changes on the forms you submit to the ACM. No further changes are possible once the camera ready version and associated forms are submitted to the ACM.**
+
+---
+
+Q: <a href="#faq-14" id="faq-14" class="anchor">Do authors need to upload a pre-recorded video as part of their camera-ready submission?</a>
+
+A: You have the option to upload a video for inclusion in the ACM digital library for long-term availability together with the PDF file, but it is not mandatory to do so. You will be required later to prepare and upload pre-recorded video presentations to the online conference platform for use during the conference week. More details about length requirements for the conference videos will follow.
 
 ---
 
