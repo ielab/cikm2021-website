@@ -9,8 +9,7 @@ applied-papers:
   - affiliation: National Taiwan University
     country: Taiwan
     name: Shou De Lin
-  title: "Toward an Effective Black-Box Adversarial Attack on Functional JavaScript\
-    \ Malware against\n            Commercial Anti-Virus"
+  title: "Toward an Effective Black-Box Adversarial Attack on Functional JavaScript Malware against Commercial Anti-Virus"
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -53,8 +52,7 @@ applied-papers:
   - affiliation: Technion
     country: Israel
     name: Avigdor Gal
-  title: "From Limited Annotated Raw Material Data to Quality Production Data: A Case\
-    \ Study in the Milk\n            Industry"
+  title: "From Limited Annotated Raw Material Data to Quality Production Data: A Case Study in the Milk Industry"
 - authors:
   - affiliation: Ant Group
     country: China
@@ -77,8 +75,7 @@ applied-papers:
   - affiliation: Ant Group
     country: China
     name: Zhe Zhang
-  title: "'Could You Describe the Reason for the Transfer?': A Reinforcement Learning\
-    \ Based\n            Voice-Enabled Bot Protecting Customers from Financial Frauds"
+  title: "'Could You Describe the Reason for the Transfer?': A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds"
 - authors:
   - affiliation: Peking University
     country: China
@@ -98,8 +95,7 @@ applied-papers:
   - affiliation: Peking University
     country: China
     name: Shikun Zhang
-  title: "Distilling Knowledge from BERT into Simple Fully Connected Neural Networks\
-    \ for Efficient Vertical\n            Retrieval"
+  title: "Distilling Knowledge from BERT into Simple Fully Connected Neural Networks for Efficient Vertical Retrieval"
 - authors:
   - affiliation: University of Western Australia
     country: Australia
@@ -136,8 +132,7 @@ applied-papers:
   - affiliation: University of Technology, Sydney
     country: Australia
     name: Fang Chen
-  title: Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal
-    Failure Series
+  title: Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal Failure Series
 - authors:
   - affiliation: Technion
     country: Israel
@@ -177,8 +172,7 @@ applied-papers:
   - affiliation: Huawei Noah's Ark Lab
     country: China
     name: Xiuqiang He
-  title: "Enhancing Explicit and Implicit Feature Interactions via Information Sharing\
-    \ for Parallel Deep CTR\n            Models"
+  title: "Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models"
 - authors:
   - affiliation: University of Science and Technology of China
     country: China
@@ -249,8 +243,7 @@ applied-papers:
   - affiliation: Adobe Research
     country: USA
     name: Gang Wu
-  title: "From Closing Triangles to Higher-Order Motif Closures for Better Unsupervised\
-    \ Online Link\n            Prediction"
+  title: "From Closing Triangles to Higher-Order Motif Closures for Better Unsupervised Online Link Prediction"
 - authors:
   - affiliation: Alibaba
     country: Singapore
@@ -285,8 +278,7 @@ applied-papers:
   - affiliation: Alibaba Group
     country: China
     name: Wei Lin
-  title: 'EasyTransfer: A Simple and Scalable Deep Transfer Learning Platform for
-    NLP Applications'
+  title: 'EasyTransfer: A Simple and Scalable Deep Transfer Learning Platform for NLP Applications'
 - authors:
   - affiliation: Institute of Computing Technology, Chinese Academy of Sciences
     country: China
@@ -300,8 +292,7 @@ applied-papers:
   - affiliation: Institute of Computing Technology, Chinese Academy of Sciences
     country: China
     name: Ping Luo
-  title: 'Jura: Towards Automatic Compliance Assessment for Annual Reports of Listed
-    Companies'
+  title: 'Jura: Towards Automatic Compliance Assessment for Annual Reports of Listed Companies'
 - authors:
   - affiliation: Baidu Inc.
     country: China
@@ -324,8 +315,7 @@ applied-papers:
   - affiliation: Harbin Institute of Technology
     country: China
     name: Bing Qin
-  title: "GEDIT: Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and\
-    \ Accessibility Extraction\n            at Baidu Maps"
+  title: "GEDIT: Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and Accessibility Extraction at Baidu Maps"
 - authors:
   - affiliation: Nanjing University
     country: China
@@ -348,8 +338,7 @@ applied-papers:
   - affiliation: "Huawei Noah\u2019s Ark Lab"
     country: China
     name: Jia Zeng
-  title: 'Learning to Pack: A Data-Driven Tree Search Algorithm for Large-Scale 3D
-    Bin Packing Problem'
+  title: 'Learning to Pack: A Data-Driven Tree Search Algorithm for Large-Scale 3D Bin Packing Problem'
 - authors:
   - affiliation: Alibaba Inc.
     country: China
@@ -461,8 +450,7 @@ applied-papers:
   - affiliation: Alibaba Group
     country: China
     name: Xiaoyi Zeng
-  title: "Self-Supervised Learning on Users\u2019 Spontaneous Behaviors for Multi-Scenario\
-    \ Ranking in E-commerce"
+  title: "Self-Supervised Learning on Users\u2019 Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce"
 - authors:
   - affiliation: Tencent
     country: China
@@ -513,8 +501,7 @@ applied-papers:
   - affiliation: Worcester Polytechnic Institute
     country: USA
     name: Elke A. Rundensteiner
-  title: 'AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for
-    Depression Screening'
+  title: 'AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening'
 - authors:
   - affiliation: Xi'an Jiaotong University
     country: China
@@ -532,8 +519,7 @@ applied-papers:
       University
     country: China
     name: Minnan Luo
-  title: "SATAR: A Self-supervised Approach to Twitter Account Representation Learning\
-    \ and its Application in\n            Bot Detection"
+  title: "SATAR: A Self-supervised Approach to Twitter Account Representation Learning and its Application in Bot Detection"
 - authors:
   - affiliation: Yahoo Research
     country: USA
@@ -576,8 +562,7 @@ applied-papers:
   - affiliation: NEC LABORATORIES AMERICA, INC
     country: USA
     name: Haifeng Chen
-  title: Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic
-    Graphs
+  title: Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs
 - authors:
   - affiliation: West Virginia University
     country: USA
@@ -594,8 +579,7 @@ applied-papers:
   - affiliation: Case Western Reserve University
     country: USA
     name: Yanfang Ye
-  title: "Detection of Illicit Drug Trafficking Events on Instagram: A Deep Multimodal\
-    \ Multilabel Learning\n            Approach"
+  title: "Detection of Illicit Drug Trafficking Events on Instagram: A Deep Multimodal Multilabel Learning Approach"
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -615,8 +599,7 @@ applied-papers:
   - affiliation: Alibaba Group
     country: China
     name: Ji Zhang
-  title: 'K-AID: Enhancing Pre-trained Language Models with DomainKnowledge for Question
-    Answering'
+  title: 'K-AID: Enhancing Pre-trained Language Models with DomainKnowledge for Question Answering'
 - authors:
   - affiliation: science-miner
     country: France
@@ -633,8 +616,7 @@ applied-papers:
   - affiliation: University of Texas at Austin
     country: USA
     name: James Howison
-  title: "Mining Software Entities in Scientific Literature: Document-level NER for\
-    \ an Extremely Imbalance\n            and Large-scale Task"
+  title: "Mining Software Entities in Scientific Literature: Document-level NER for an Extremely Imbalance and Large-scale Task"
 - authors:
   - affiliation: Ukrainian Catholic University
     country: Ukraine
@@ -642,8 +624,7 @@ applied-papers:
   - affiliation: Wikimedia Foundation
     country: Spain
     name: Diego Saez-Trumper
-  title: 'WikiCheck: An end-to-end open source Automatic Fact-Checking API based on
-    Wikipedia'
+  title: 'WikiCheck: An end-to-end open source Automatic Fact-Checking API based on Wikipedia'
 - authors:
   - affiliation: LinkedIn
     country: USA
@@ -695,8 +676,7 @@ applied-papers:
   - affiliation: University of Alberta
     country: Canada
     name: Di Niu
-  title: Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture
-    Search
+  title: Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search
 - authors:
   - affiliation: Salesforce
     country: Singapore
@@ -725,8 +705,7 @@ applied-papers:
   - affiliation: Salesforce
     country: Singapore
     name: Steven Hoi
-  title: "On the Diversity and Explainability of Recommender Systems: A Practical\
-    \ Framework for Enterprise\n            App Recommendation"
+  title: "On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation"
 - authors:
   - affiliation: Microsoft Research
     country: China
@@ -743,8 +722,7 @@ applied-papers:
   - affiliation: Microsoft Research
     country: China
     name: Tie-Yan Liu
-  title: 'HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend
-    Forecasting'
+  title: 'HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting'
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -767,8 +745,7 @@ applied-papers:
   - affiliation: Nanyang Technological University
     country: Singapore
     name: Chunyan Miao
-  title: Unsupervised Categorical Representation Learning for Package Arrival Time
-    Prediction
+  title: Unsupervised Categorical Representation Learning for Package Arrival Time Prediction
 - authors:
   - affiliation: Walmart Global Tech
     country: India
@@ -791,8 +768,7 @@ applied-papers:
   - affiliation: Walmart Global Tech
     country: India
     name: Vijay Srinivas Agneeswaran
-  title: "From Pixels To Words: A Scalable Journey Of Text Information From Product\
-    \ Images To Retail\n            Catalog"
+  title: "From Pixels To Words: A Scalable Journey Of Text Information From Product Images To Retail Catalog"
 - authors:
   - affiliation: LinkedIn
     country: USA
@@ -820,8 +796,7 @@ applied-papers:
   - affiliation: Palo Alto Networks
     country: USA
     name: William Hewlett
-  title: 'AutoCombo: Automatic Malware Signature Generation Through Combination Rule
-    Mining'
+  title: 'AutoCombo: Automatic Malware Signature Generation Through Combination Rule Mining'
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -856,8 +831,7 @@ applied-papers:
   - affiliation: Alibaba Group
     country: China
     name: Xiaoqiang Zhu
-  title: 'One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain
-    CTR Prediction'
+  title: 'One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction'
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -996,8 +970,7 @@ applied-papers:
   - affiliation: Renmin University of China
     country: China
     name: Ji-Rong Wen
-  title: Contrastive Curriculum Learning for Sequential User Behavior Modeling via
-    Data Augmentation
+  title: Contrastive Curriculum Learning for Sequential User Behavior Modeling via Data Augmentation
 - authors:
   - affiliation: Baidu Research
     country: China
@@ -1023,8 +996,7 @@ applied-papers:
   - affiliation: Baidu
     country: USA
     name: Ping Li
-  title: Efficient Learning to Learn a Robust CTR Model for Web-scale Online Sponsored
-    Search Advertising
+  title: Efficient Learning to Learn a Robust CTR Model for Web-scale Online Sponsored Search Advertising
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -1047,8 +1019,7 @@ applied-papers:
   - affiliation: alibaba cloud
     country: China
     name: Jun Huang
-  title: 'Learning to Expand: Reinforced Response Expansion for Information-seeking
-    Conversations'
+  title: 'Learning to Expand: Reinforced Response Expansion for Information-seeking Conversations'
 - authors:
   - affiliation: University College London
     country: United Kingdom
@@ -1088,8 +1059,7 @@ applied-papers:
   - affiliation: Alibaba Group
     country: China
     name: Quan Lu
-  title: "SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation\
-    \ in Hundreds of\n            Travel Scenarios"
+  title: "SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios"
 - authors:
   - affiliation: DeepMind
     country: USA
@@ -1232,12 +1202,10 @@ applied-papers:
   - affiliation: Georgia Institute of Technology
     country: USA
     name: Tuo Zhao
-  - affiliation: "Department of Computer Science and Engineering, Hong Kong University\
-      \ of Science and\n                        Technology"
+  - affiliation: "Department of Computer Science and Engineering, Hong Kong University of Science and Technology"
     country: China
     name: Qiang Yang
-  title: "QUEACO: Borrowing Treasures from Weakly-labeled Behavior Data for Query\
-    \ Attribute Value\n            Extraction"
+  title: "QUEACO: Borrowing Treasures from Weakly-labeled Behavior Data for Query Attribute Value Extraction"
 - authors:
   - affiliation: Yahoo Research
     country: Israel
@@ -1271,8 +1239,7 @@ applied-papers:
   - affiliation: University of California, Los Angeles
     country: USA
     name: Wei Wang
-  title: "You Are What and Where You Are: Graph Enhanced AttentionNetwork for Explainable\
-    \ POI\n            Recommendation"
+  title: "You Are What and Where You Are: Graph Enhanced AttentionNetwork for Explainable POI Recommendation"
 - authors:
   - affiliation: Spotify NYC
     country: USA
@@ -1295,8 +1262,7 @@ applied-papers:
   - affiliation: Spotify
     country: United Kingdom
     name: Mounia Lalmas
-  title: Leveraging Semantic Information to Facilitate the Discovery of Underserved
-    Podcasts
+  title: Leveraging Semantic Information to Facilitate the Discovery of Underserved Podcasts
 - authors:
   - affiliation: Google Inc
     country: USA
@@ -1374,8 +1340,7 @@ applied-papers:
   - affiliation: Virginia Tech
     country: USA
     name: Ismini Lourentzou
-  title: 'SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale
-    Corpus Expansion'
+  title: 'SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale Corpus Expansion'
 - authors:
   - affiliation: Yonsei university
     country: Republic of Korea
@@ -1456,7 +1421,10 @@ applied-papers:
     country: USA
     name: Inderjit Dhillon
   title: Enabling Efficiency-Precision Trade-offs for Label Trees in Extreme Classification
-- authors: []
+- authors:
+  - affiliation: Spotify Research
+    country: United Kingdom
+    name: Rishabh Mehrotra
   title: Algorithmic Balancing of Familiarity, Similarity, & Discovery in Music Recommendations
 - authors:
   - affiliation: Wikimedia Foundation
@@ -1474,8 +1442,7 @@ applied-papers:
   - affiliation: NYU Abu Dhabi
     country: United Arab Emirates
     name: Djellel Difallah
-  title: Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop
-    Approach
+  title: Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach
 - authors:
   - affiliation: Visa Research
     country: USA
@@ -1501,8 +1468,7 @@ applied-papers:
   - affiliation: Visa Research
     country: USA
     name: Wei Zhang
-  title: Online Multi-horizon Transaction Metric Estimation with Multi-modal Learning
-    in Payment Networks
+  title: Online Multi-horizon Transaction Metric Estimation with Multi-modal Learning in Payment Networks
 - authors:
   - affiliation: Linkedin AI
     country: India
@@ -1628,8 +1594,7 @@ demo-papers:
   - affiliation: Xiamen University
     country: China
     name: Xiaoli Wang
-  title: 'IMAS++: An Intelligent Medical Analysis System Enhanced with Deep Graph
-    Neural Networks'
+  title: 'IMAS++: An Intelligent Medical Analysis System Enhanced with Deep Graph Neural Networks'
 - authors:
   - affiliation: CNRS
     country: France
@@ -1737,8 +1702,7 @@ demo-papers:
   - affiliation: Tencent Jarvis Lab
     country: China
     name: Yefeng Zheng
-  title: 'PRASEMap: A Probabilistic Reasoning and Semantic Embedding based Knowledge
-    Graph Alignment System'
+  title: 'PRASEMap: A Probabilistic Reasoning and Semantic Embedding based Knowledge Graph Alignment System'
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -1767,8 +1731,7 @@ demo-papers:
   - affiliation: Alibaba Group
     country: China
     name: Xing Tang
-  title: 'From Community Search to Community Understanding: A Multimodal Community
-    Query Engine'
+  title: 'From Community Search to Community Understanding: A Multimodal Community Query Engine'
 - authors:
   - affiliation: Arizona State University
     country: USA
@@ -1785,8 +1748,7 @@ demo-papers:
   - affiliation: Arizona State University
     country: USA
     name: K. Selcuk Candan
-  title: "CauseBox: A Causal Inference Toolbox for BenchmarkingTreatment Effect Estimators\
-    \ with Machine\n            Learning Methods"
+  title: "CauseBox: A Causal Inference Toolbox for BenchmarkingTreatment Effect Estimators with Machine Learning Methods"
 - authors:
   - affiliation: Xidian University
     country: China
@@ -1800,8 +1762,7 @@ demo-papers:
   - affiliation: Xidian University
     country: China
     name: Jiangtao Cui
-  title: 'SaDes: An Interactive System for Sensitivity-aware Desensitization towards
-    Tabular Data'
+  title: 'SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data'
 - authors:
   - affiliation: American University of Beirut
     country: Lebanon
@@ -1832,8 +1793,7 @@ demo-papers:
   - affiliation: East China Normal University
     country: China
     name: Aoying Zhou
-  title: "Beamer: An End-to-End Deep Learning Framework for Unifying Data Cleaning\
-    \ in DNN Model Training and\n            Inference"
+  title: "Beamer: An End-to-End Deep Learning Framework for Unifying Data Cleaning in DNN Model Training and Inference"
 - authors:
   - affiliation: The University of New South Wales
     country: Australia
@@ -1855,18 +1815,18 @@ demo-papers:
   - affiliation: University of Technology Sydney
     country: Australia
     name: Li He
+  - affiliation: eBay Research America
+    country: USA
+    name: Dingxian Wang
+  - affiliation: eBay Research America
+    country: USA
+    name: Hanzhang Wang
   - affiliation: University of Technology Sydney
     country: Australia
     name: Hongxu Chen
   - affiliation: University of Technology Sydney
     country: Australia
     name: Guandong Xu
-  - affiliation: eBay Research America
-    country: USA
-    name: Hanzhang Wang
-  - affiliation: eBay Research America
-    country: USA
-    name: Dingxian Wang
   title: 'TagPick: A System for Bridging Micro-Video Hashtags and E-commerce Categories'
 - authors:
   - affiliation: Charles University
@@ -1927,8 +1887,7 @@ demo-papers:
   - affiliation: Inria, Institut Polytechnique de Paris
     country: France
     name: Youssr Youssef
-  title: Discovering Conflicts of Interest across Heterogeneous Data Sources with
-    ConnectionLens
+  title: Discovering Conflicts of Interest across Heterogeneous Data Sources with ConnectionLens
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -1968,8 +1927,7 @@ demo-papers:
   - affiliation: The University of Reading
     country: United Kingdom
     name: Zehao Liu
-  title: 'Health Claims Unpacked: A toolkit to Enhance the Communication of Health
-    Claims for food'
+  title: 'Health Claims Unpacked: A toolkit to Enhance the Communication of Health Claims for food'
 - authors:
   - affiliation: L3S Research Center
     country: Germany
@@ -1980,8 +1938,7 @@ demo-papers:
   - affiliation: L3S Research Center
     country: Germany
     name: Avishek Anand
-  title: 'FaxPlainAC: A Fact-checking tool based on eXPLAINable models with humAn
-    Correction in the loop'
+  title: 'FaxPlainAC: A Fact-checking tool based on eXPLAINable models with humAn Correction in the loop'
 - authors:
   - affiliation: CSIRO
     country: Australia
@@ -2020,8 +1977,7 @@ demo-papers:
   - affiliation: Ryerson University
     country: Canada
     name: Ebrahim Bagheri
-  title: 'OpenAttHetRL: An Open Source Toolkit for Attributed Heterogeneous Network
-    Representation Learning'
+  title: 'OpenAttHetRL: An Open Source Toolkit for Attributed Heterogeneous Network Representation Learning'
 - authors:
   - affiliation: Wharton Research Data Services (WRDS), The Wharton School, UPenn
     country: USA
@@ -2055,7 +2011,7 @@ demo-papers:
   - affiliation: Trinity College Dublin
     country: Ireland
     name: Nicole Baker
-  - affiliation: Health Service Executive, ireland
+  - affiliation: Health Service Executive
     country: Ireland
     name: Brendan Leen
   - affiliation: TU Dublin
@@ -2118,8 +2074,7 @@ demo-papers:
   - affiliation: East China Normal University
     country: China
     name: Aoying Zhou
-  title: 'Jasmine: Exploring the Dependency-Aware Execution on Distributed Shared
-    Memory'
+  title: 'Jasmine: Exploring the Dependency-Aware Execution on Distributed Shared Memory'
 - authors:
   - affiliation: SIAT, Chinese Academy of Sciences
     country: China
@@ -2166,8 +2121,7 @@ demo-papers:
   - affiliation: National Technical University of Athens
     country: Greece
     name: Verena Kantere
-  title: 'SPARQL-vision: A platform for Querying, Visualising and Exploring SPARQL
-    endpoints'
+  title: 'SPARQL-vision: A platform for Querying, Visualising and Exploring SPARQL endpoints'
 full-papers:
 - authors:
   - affiliation: University of Massachusetts Amherst
@@ -2219,8 +2173,7 @@ full-papers:
   - affiliation: Jilin University
     country: China
     name: Haomeng Wu
-  title: Discovering Urban Functions of High-Definition Zoning with Continuous Human
-    Traces
+  title: Discovering Urban Functions of High-Definition Zoning with Continuous Human Traces
 - authors:
   - affiliation: Tsinghua University
     country: China
@@ -2243,7 +2196,7 @@ full-papers:
   - affiliation: Huawei Noah's Ark Lab
     country: China
     name: Xiuqiang He
-  title: 'SimpleX: A Simple and Strong Baseline Model for Neural Collaborative Filtering'
+  title: 'SimpleX: A Simple and Strong Baseline for Collaborative Filtering'
 - authors:
   - affiliation: Tsinghua University
     country: China
@@ -2263,8 +2216,7 @@ full-papers:
   - affiliation: Huawei Noah's Ark Lab
     country: China
     name: Xiuqiang He
-  title: "Refined Learning of Relationships for Recommendation with Ultra Simplified\
-    \ Graph Convolutional\n            Network"
+  title: 'UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation'
 - authors:
   - affiliation: Jilin University
     country: China
@@ -2351,8 +2303,7 @@ full-papers:
   - affiliation: Nanjing University
     country: China
     name: Yizheng Zhao
-  title: Tracking Semantic Evolutionary Changes in Large-Scale Ontological Knowledge
-    Bases
+  title: Tracking Semantic Evolutionary Changes in Large-Scale Ontological Knowledge Bases
 - authors:
   - affiliation: University of New South Wales
     country: Australia
@@ -2403,8 +2354,7 @@ full-papers:
   - affiliation: JD.com
     country: China
     name: Rui Lin
-  title: "Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based\
-    \ Framework with Attention\n            Mechanism"
+  title: "Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism"
 - authors:
   - affiliation: Nanjing University
     country: China
@@ -2438,8 +2388,7 @@ full-papers:
   - affiliation: Peking University
     country: China
     name: Zhifang Sui
-  title: 'Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot
-    Event Classification'
+  title: 'Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification'
 - authors:
   - affiliation: Peking University
     country: China
@@ -2453,8 +2402,7 @@ full-papers:
   - affiliation: Sogou Inc.
     country: China
     name: Ting Yao
-  - affiliation: "National Engineering Research Center for Software Engineering, Peking\
-      \ University,\n                        Beijing, China"
+  - affiliation: "National Engineering Research Center for Software Engineering, Peking University"
     country: China
     name: Junfei Liu
   title: 'Cycle or Minkowski: Which is More Appropriate for Knowledge Gragh Embedding?'
@@ -2497,8 +2445,7 @@ full-papers:
   - affiliation: University of Illinois at Chicago
     country: USA
     name: Philip S. Yu
-  title: Improving Chinese Character Representation with Formation Graph Attention
-    Network
+  title: Improving Chinese Character Representation with Formation Graph Attention Network
 - authors:
   - affiliation: University of Utah
     country: USA
@@ -2506,8 +2453,7 @@ full-papers:
   - affiliation: University of Utah
     country: USA
     name: Lakshmi Narayanan.R
-  title: Model-agnostic vs. Model-intrinsic Interpretability for Explainable Product
-    Search
+  title: Model-agnostic vs. Model-intrinsic Interpretability for Explainable Product Search
 - authors:
   - affiliation: HKUST
     country: Hong Kong
@@ -2530,8 +2476,7 @@ full-papers:
   - affiliation: The University of New South Wales
     country: Australia
     name: Xuemin Lin
-  title: Privacy-Preserving Batch-based Task Assignment in Spatial Crowdsourcing with
-    Untrusted Server
+  title: Privacy-Preserving Batch-based Task Assignment in Spatial Crowdsourcing with Untrusted Server
 - authors:
   - affiliation: The University of Hong Kong
     country: Hong Kong
@@ -2590,7 +2535,7 @@ full-papers:
   - affiliation: Maynooth University
     country: Ireland
     name: Guangyuan Piao
-  - affiliation: Bell Labs, Ireland
+  - affiliation: Bell Labs
     country: Ireland
     name: Alessandra Sala
   title: Geometric Heuristics for Transfer Learning in Decision Trees
@@ -2616,8 +2561,7 @@ full-papers:
   - affiliation: University of Electronic Science and Technology of China
     country: China
     name: Han Su
-  title: "PATROL: A Velocity Control Framework for Autonomous Vehicle via Spatial-Temporal\
-    \ Reinforcement\n            Learning"
+  title: "PATROL: A Velocity Control Framework for Autonomous Vehicle via Spatial-Temporal Reinforcement Learning"
 - authors:
   - affiliation: Hunan University
     country: China
@@ -2633,10 +2577,10 @@ full-papers:
   - affiliation: University College London
     country: United Kingdom
     name: Mengyue Yang
-  - affiliation: Noah's Ark Lab, Huawei
+  - affiliation: Noah's Ark Lab, Huawei Technologies
     country: China
     name: Quanyu Dai
-  - affiliation: Noah's ark lab, Huawei Technologies
+  - affiliation: Noah's Ark Lab, Huawei Technologies
     country: China
     name: Zhenhua Dong
   - affiliation: Renmin University of China
@@ -2676,19 +2620,16 @@ full-papers:
     name: Jun Zhou
   title: Counterfactual Review-based Recommendation
 - authors:
-  - affiliation: "State Key Laboratory of Networking and Switching Technology, Beijing\
-      \ University of\n                        Posts and Telecommunications"
+  - affiliation: "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications"
     country: China
     name: Jiale Han
-  - affiliation: "State Key Laboratory of Networking and Switching Technology, Beijing\
-      \ University of\n                        Posts and Telecommunications"
+  - affiliation: "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications"
     country: China
     name: Bo Cheng
   - affiliation: StatNLP Research Group, Singapore University of Technology and Design
     country: Singapore
     name: Guoshun Nan
-  title: Learning Discriminative and Unbiased Representations for Few-Shot Relation
-    Extraction
+  title: Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction
 - authors:
   - affiliation: DAMO Academy, Alibaba Group
     country: China
@@ -2719,8 +2660,7 @@ full-papers:
   - affiliation: NetEase Cloud Music
     country: China
     name: Chuanjiang Luo
-  title: 'Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for
-    Recommender Systems'
+  title: 'Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems'
 - authors:
   - affiliation: Nanjing University of Aeronautics and Astronautics
     country: China
@@ -2740,8 +2680,7 @@ full-papers:
   - affiliation: The University of Queensland
     country: Australia
     name: Xue Li
-  title: Multi-hop Reading on Memory Neural Network with Selective Coverage for Medication
-    Recommendation
+  title: Multi-hop Reading on Memory Neural Network with Selective Coverage for Medication Recommendation
 - authors:
   - affiliation: Wuhan University
     country: China
@@ -2755,8 +2694,7 @@ full-papers:
   - affiliation: Macquarie University
     country: Australia
     name: Jia Wu
-  title: 'DynSTGAT: Dynamic Spatial-Temporal Graph Attention Network for Traffic Signal
-    Control'
+  title: 'DynSTGAT: Dynamic Spatial-Temporal Graph Attention Network for Traffic Signal Control'
 - authors:
   - affiliation: Peking University
     country: China
@@ -2787,8 +2725,7 @@ full-papers:
   - affiliation: East China Normal University
     country: China
     name: Man Lan
-  title: "Are Negative Samples Necessary in Entity Alignment? An Approach with High\
-    \ Performance, Scalability\n            and Robustness"
+  title: "Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness"
 - authors:
   - affiliation: University of Montreal
     country: Canada
@@ -2814,8 +2751,7 @@ full-papers:
   - affiliation: Huawei Poisson Lab.
     country: China
     name: Hao Jiang
-  title: Contrastive Learning of User Behavior Sequence for Context-Aware Document
-    Ranking
+  title: Contrastive Learning of User Behavior Sequence for Context-Aware Document Ranking
 - authors:
   - affiliation: University of Amsterdam
     country: Netherlands
@@ -2858,8 +2794,7 @@ full-papers:
   - affiliation: Tencent
     country: China
     name: Junpeng Ye
-  title: Multi-Relational Graph based Heterogeneous Multi-Task Learning in Community
-    Question Answering
+  title: Multi-Relational Graph based Heterogeneous Multi-Task Learning in Community Question Answering
 - authors:
   - affiliation: Michigan State University
     country: USA
@@ -2909,7 +2844,7 @@ full-papers:
   - affiliation: Beijing Institute of Technology
     country: China
     name: Guoren Wang
-  - affiliation: Taiyuan University of Technology, China
+  - affiliation: Taiyuan University of Technology
     country: China
     name: Weihua Yang
   - affiliation: Beijing Institute of Technology
@@ -3015,8 +2950,7 @@ full-papers:
   - affiliation: The University of British Columbia
     country: Canada
     name: Victor Leung
-  title: "Spatial-Temporal-Social Multi-Feature-based Fine Grained Hot Spots Prediction\
-    \ for Content Delivery\n            Services in 5G Era"
+  title: "Spatial-Temporal-Social Multi-Feature-based Fine Grained Hot Spots Prediction for Content Delivery Services in 5G Era"
 - authors:
   - affiliation: Beihang University
     country: China
@@ -3059,8 +2993,7 @@ full-papers:
   - affiliation: DataSpark
     country: Singapore
     name: Richard Ellison
-  title: 'Robust Road Network Representation Learning: When Traffic Patterns Meet
-    Traveling Semantics'
+  title: 'Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics'
 - authors:
   - affiliation: Jilin University
     country: China
@@ -3074,8 +3007,7 @@ full-papers:
   - affiliation: Jilin University
     country: China
     name: Yiming Wang
-  title: "Detecting the Fake Candidate Instances: Ambiguous Label Learning with Generative\
-    \ Adversarial\n            Networks"
+  title: "Detecting the Fake Candidate Instances: Ambiguous Label Learning with Generative Adversarial Networks"
 - authors:
   - affiliation: IBM TJ Watson
     country: USA
@@ -3120,8 +3052,7 @@ full-papers:
   - affiliation: University of Pittsburgh & JD Finance America Corporation
     country: USA
     name: Heng Huang
-  title: 'Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient
-    Based Algorithm'
+  title: 'Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm'
 - authors:
   - affiliation: National University of Defense Technology
     country: China
@@ -3175,8 +3106,7 @@ full-papers:
   - affiliation: UCLA
     country: USA
     name: Wei Wang
-  title: "#StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal\
-    \ Dynamic\n            Graphs"
+  title: "#StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs"
 - authors:
   - affiliation: SUNY Buffalo
     country: USA
@@ -3190,8 +3120,7 @@ full-papers:
   - affiliation: Purdue University
     country: USA
     name: Jing Gao
-  title: A Lightweight Knowledge Graph Embedding Framework for Efficient Inference
-    and Storage
+  title: A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage
 - authors:
   - affiliation: Xiamen University
     country: China
@@ -3228,8 +3157,7 @@ full-papers:
   - affiliation: Tsinghua University
     country: China
     name: Wenwu Zhu
-  title: 'AutoIAS: Automatic Integrated Architecture Searcher For Click-Trough Rate
-    Prediction'
+  title: 'AutoIAS: Automatic Integrated Architecture Searcher For Click-Trough Rate Prediction'
 - authors:
   - affiliation: Nanjing University
     country: China
@@ -3303,8 +3231,7 @@ full-papers:
   - affiliation: The University of New South Wales
     country: Australia
     name: Wenjie Zhang
-  title: 'Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph
-    Neural Network Model'
+  title: 'Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph Neural Network Model'
 - authors:
   - affiliation: STEVENS INSTITUTE OF TECHNOLOGY
     country: USA
@@ -3359,19 +3286,19 @@ full-papers:
     name: Kai Zheng
   title: Task Assignment with Worker Churn Prediction for Spatial Crowdsourcing
 - authors:
-  - affiliation: School of Cyber Engineering, Xidian University, Xi'an, China
+  - affiliation: School of Cyber Engineering, Xidian University, Xi'an
     country: China
     name: Zhihong Liu
-  - affiliation: School of Cyber Engineering, Xidian University, Xi'an, China
+  - affiliation: School of Cyber Engineering, Xidian University, Xi'an
     country: China
     name: Huiyu Li
-  - affiliation: School of Cyber Engineering, Xidian University, Xi'an, China
+  - affiliation: School of Cyber Engineering, Xidian University, Xi'an
     country: China
     name: Ruixin Li
-  - affiliation: School of Cyber Engineering, Xidian University, Xi'an, China
+  - affiliation: School of Cyber Engineering, Xidian University, Xi'an
     country: China
     name: Yong Zeng
-  - affiliation: School of Cyber Engineering, Xidian University, Xi'an, China
+  - affiliation: School of Cyber Engineering, Xidian University, Xi'an
     country: China
     name: Jianfeng Ma
   title: Graph Embedding Based on Euclidean Distance Matrix and its Applications
@@ -3379,8 +3306,7 @@ full-papers:
   - affiliation: Shanghai Jiao Tong University
     country: China
     name: Lizhi Cheng
-  - affiliation: "BNU-UIC Institute of Artificial Intelligence and Future Networks\
-      \ Beijing Normal\n                        University"
+  - affiliation: "BNU-UIC Institute of Artificial Intelligence and Future Networks Beijing Normal University"
     country: China
     name: Weijia Jia
   - affiliation: Shanghai Jiao Tong University
@@ -3400,8 +3326,7 @@ full-papers:
   - affiliation: Wuhan University of Technology
     country: China
     name: Luo Zhong
-  title: "Learning Joint Embedding with Modality Alignments for Cross-Modal Retrieval\
-    \ of Recipes and Food\n            Images"
+  title: "Learning Joint Embedding with Modality Alignments for Cross-Modal Retrieval of Recipes and Food Images"
 - authors:
   - affiliation: Fudan University
     country: China
@@ -3457,8 +3382,7 @@ full-papers:
   - affiliation: University of Amsterdam
     country: Netherlands
     name: Ilya Markov
-  title: Mixture-Based Correction for Position and Trust Bias in Counterfactual Learning
-    to Rank
+  title: Mixture-Based Correction for Position and Trust Bias in Counterfactual Learning to Rank
 - authors:
   - affiliation: KAUST
     country: China
@@ -3502,8 +3426,7 @@ full-papers:
   - affiliation: Beihang University
     country: China
     name: Hongren Huang
-  - affiliation: "National Computer Network Emergency Response Technical Team Coordination\
-      \ Center of\n                        China"
+  - affiliation: "National Computer Network Emergency Response Technical Team Coordination Center of China"
     country: China
     name: Shu Guo
   - affiliation: Beihang University
@@ -3512,15 +3435,13 @@ full-papers:
   - affiliation: Institute of Information Engineering, Chinese Academy of Sciences
     country: China
     name: Jiawei Sheng
-  - affiliation: "National Computer Network Emergency Response Technical Team Coordination\
-      \ Center of\n                        China"
+  - affiliation: "National Computer Network Emergency Response Technical Team Coordination Center of China"
     country: China
     name: Lihong Wang
   - affiliation: Beihang University
     country: China
     name: Jianxin Li
-  - affiliation: "National Computer Network Emergency Response Technical Team Coordination\
-      \ Center of\n                        China"
+  - affiliation: "National Computer Network Emergency Response Technical Team Coordination Center of China"
     country: China
     name: Jing Liu
   - affiliation: Beihang University
@@ -3543,8 +3464,7 @@ full-papers:
   - affiliation: Shanghai Jiao Tong University
     country: China
     name: Guihai Chen
-  title: 'Seq2Bubbles: Region-Based Embedding Learning for User Behaviors in Sequential
-    Recommenders'
+  title: 'Seq2Bubbles: Region-Based Embedding Learning for User Behaviors in Sequential Recommenders'
 - authors:
   - affiliation: The Pennsylvania State University
     country: USA
@@ -3564,8 +3484,7 @@ full-papers:
   - affiliation: The Pennsylvania State University
     country: USA
     name: Fenglong Ma
-  title: "MedRetriever: Target-Driven Interpretable Health Risk Prediction via Retrieving\
-    \ Unstructured\n            Medical Text"
+  title: "MedRetriever: Target-Driven Interpretable Health Risk Prediction via Retrieving Unstructured Medical Text"
 - authors:
   - affiliation: East China Normal University
     country: China
@@ -3599,8 +3518,7 @@ full-papers:
   - affiliation: Shanghai Jiao Tong University
     country: China
     name: Jiadi Yu
-  title: Enhancing User Interest Modeling over Knowledge-Enriched Itemsets with Sequential
-    Recommendation
+  title: Enhancing User Interest Modeling over Knowledge-Enriched Itemsets with Sequential Recommendation
 - authors:
   - affiliation: The Pennsylvania State University
     country: USA
@@ -3645,8 +3563,7 @@ full-papers:
   - affiliation: University of Illinois at Chicago
     country: USA
     name: Philip Yu
-  title: Continuous-Time Sequential Recommendation with Temporal Graph Collaborative
-    Transformer
+  title: Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer
 - authors:
   - affiliation: George Washington University
     country: USA
@@ -3728,8 +3645,7 @@ full-papers:
   - affiliation: University of Virginia
     country: USA
     name: Aidong Zhang
-  title: 'HetMAML: Task-Heterogeneous Model-Agnostic Meta-Learning for Few-Shot Learning
-    Across Modalities'
+  title: 'HetMAML: Task-Heterogeneous Model-Agnostic Meta-Learning for Few-Shot Learning Across Modalities'
 - authors:
   - affiliation: University of San Francisco
     country: USA
@@ -3749,8 +3665,7 @@ full-papers:
   - affiliation: Lehigh University
     country: USA
     name: Sihong Xie
-  title: Certification and Trade-off of Multiple Fairness Criteria in Graph-based
-    Spam Detection
+  title: Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection
 - authors:
   - affiliation: CyberAgent, Inc.
     country: Japan
@@ -3812,8 +3727,7 @@ full-papers:
   - affiliation: NEC Laboratories America
     country: USA
     name: Haifeng Chen
-  title: "Interpreting Convolutional Sequence Model by Learning Local Prototypes with\
-    \ Adaptation\n            Regularization"
+  title: "Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization"
 - authors:
   - affiliation: National University of Defense Technology
     country: China
@@ -3855,8 +3769,7 @@ full-papers:
   - affiliation: Univerisity of Sydney
     country: Australia
     name: Dong Yuan
-  title: Dynamic Early Exit Scheduling for Deep Neural Network Inference through Contextual
-    Bandits
+  title: Dynamic Early Exit Scheduling for Deep Neural Network Inference through Contextual Bandits
 - authors:
   - affiliation: USC/Information Sciences Institute
     country: USA
@@ -3870,8 +3783,7 @@ full-papers:
   - affiliation: USC/Information Sciences Institute
     country: USA
     name: Pedro Szekely
-  title: 'AMPPERE: A Universal Abstract Machine for Privacy-Preserving Entity Resolution
-    Evaluation'
+  title: 'AMPPERE: A Universal Abstract Machine for Privacy-Preserving Entity Resolution Evaluation'
 - authors:
   - affiliation: University of Alberta
     country: Canada
@@ -3900,31 +3812,24 @@ full-papers:
   - affiliation: University of Alberta
     country: Canada
     name: Di Niu
-  title: 'L^2NAS: Learning to Optimize Neural Architectures via Continuous-Action
-    Reinforcement Learning'
+  title: 'L^2NAS: Learning to Optimize Neural Architectures via Continuous-Action Reinforcement Learning'
 - authors:
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences;"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences;"
     country: China
     name: Shuchang Tao
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences;"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences;"
     country: China
     name: Qi Cao
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences;"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences;"
     country: China
     name: Huawei Shen
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences;"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences;"
     country: China
     name: Junjie Huang
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences;"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences;"
     country: China
     name: Yunfan Wu
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences;"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences;"
     country: China
     name: Xueqi Cheng
   title: Single Node Injection Attack against Graph Neural Networks
@@ -3938,8 +3843,7 @@ full-papers:
   - affiliation: TCS Research
     country: India
     name: Harshad Khadilkar
-  title: Revisiting State Augmentation methods for Reinforcement Learning with Stochastic
-    Delays
+  title: Revisiting State Augmentation methods for Reinforcement Learning with Stochastic Delays
 - authors:
   - affiliation: University of Shanghai for Science and Technology
     country: China
@@ -3950,8 +3854,7 @@ full-papers:
   - affiliation: Fudan University
     country: China
     name: Wei Wang
-  title: Comprehensively Computing Link-based Similarities by Building A Random Surfer
-    Graph
+  title: Comprehensively Computing Link-based Similarities by Building A Random Surfer Graph
 - authors:
   - affiliation: Northeastern University
     country: China
@@ -3968,15 +3871,12 @@ full-papers:
   - affiliation: Northeastern University
     country: China
     name: Daling Wang
-  title: Adaptive Posterior Knowledge Selection for Improving Knowledge-Grounded Dialogue
-    Generation
+  title: Adaptive Posterior Knowledge Selection for Improving Knowledge-Grounded Dialogue Generation
 - authors:
-  - affiliation: School of Computer Science and Engineering, Nanyang Technological
-      University
+  - affiliation: School of Computer Science and Engineering, Nanyang Technological University
     country: Singapore
     name: Yongjie Wang
-  - affiliation: Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological
-      University
+  - affiliation: Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological University
     country: Singapore
     name: Qinxu Ding
   - affiliation: School of Computing Science,Simon Fraser University
@@ -3991,16 +3891,13 @@ full-papers:
   - affiliation: Alibaba Group
     country: China
     name: Jinglong Wang
-  - affiliation: Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological
-      University
+  - affiliation: Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological University
     country: Singapore
     name: Yong Liu
-  - affiliation: School of Computer Science and Engineering, Nanyang Technological
-      University
+  - affiliation: School of Computer Science and Engineering, Nanyang Technological University
     country: Singapore
     name: Chunyan Miao
-  title: The Skyline of Counterfactual Explanations for Machine Learning Decision
-    Models
+  title: The Skyline of Counterfactual Explanations for Machine Learning Decision Models
 - authors:
   - affiliation: Ant Group
     country: China
@@ -4078,8 +3975,7 @@ full-papers:
   - affiliation: Shanghai Jiao Tong University
     country: China
     name: Shuai Li
-  title: Clustering of Conversational Bandits for Coarse-to-Fine Grained Preference
-    Elicitation
+  title: Clustering of Conversational Bandits for Coarse-to-Fine Grained Preference Elicitation
 - authors:
   - affiliation: Sun Yat-sen University
     country: China
@@ -4093,8 +3989,7 @@ full-papers:
   - affiliation: Sun Yat-sen University
     country: China
     name: Gang Chen
-  title: Understanding the Property of Long Term Memory for the LSTM with Attention
-    Mechanism
+  title: Understanding the Property of Long Term Memory for the LSTM with Attention Mechanism
 - authors:
   - affiliation: Beihang University
     country: China
@@ -4206,8 +4101,7 @@ full-papers:
   - affiliation: Tsinghua University
     country: China
     name: Wenwu Zhu
-  title: "Conditional Graph Attention Networks for Distilling and Refining Knowledge\
-    \ Graphs in\n            Recommendation"
+  title: "Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation"
 - authors:
   - affiliation: Singapore Management University
     country: Singapore
@@ -4235,8 +4129,7 @@ full-papers:
   - affiliation: The Hong Kong University of Science and Technology, Guangzhou
     country: China
     name: Wei Wang
-  title: "Relation Prediction via Graph Neural Network in Heterogeneous Information\
-    \ Networks with Missing\n            Type Information"
+  title: "Relation Prediction via Graph Neural Network in Heterogeneous Information Networks with Missing Type Information"
 - authors:
   - affiliation: ETH Zurich
     country: Switzerland
@@ -4252,8 +4145,7 @@ full-papers:
   - affiliation: Ruhr University Bochum
     country: Germany
     name: Maribel Acosta
-  title: Predicting Instance Type Assertions in Knowledge Graphs Using Stochastic
-    Neural Networks
+  title: Predicting Instance Type Assertions in Knowledge Graphs Using Stochastic Neural Networks
 - authors:
   - affiliation: National University of Singapore
     country: Singapore
@@ -4267,14 +4159,12 @@ full-papers:
   - affiliation: National University of Singapore
     country: Singapore
     name: See Kiong Ng
-  title: Unsupervised Domain Adaptation for Static Malware Detection based on Gradient
-    Boosting Trees
+  title: Unsupervised Domain Adaptation for Static Malware Detection based on Gradient Boosting Trees
 - authors:
   - affiliation: National University of Defense Technology
     country: China
     name: Huanhuan Yang
-  - affiliation: "Defense Innovation Institute; Tianjin Arti\uFB01cial Intelligence\
-      \ Innovation Center"
+  - affiliation: "Defense Innovation Institute; Tianjin Arti\uFB01cial Intelligence Innovation Center"
     country: China
     name: Dianxi Shi
   - affiliation: National University of Defense Technology
@@ -4286,10 +4176,9 @@ full-papers:
   - affiliation: National University of Defense Technology
     country: China
     name: Shaowu Yang
-  title: "CIExplore: Curiosity and Influence-based Exploration in Multi-Agent Cooperative\
-    \ Scenarios with\n            Sparse Rewards"
+  title: "CIExplore: Curiosity and Influence-based Exploration in Multi-Agent Cooperative Scenarios with Sparse Rewards"
 - authors:
-  - affiliation: Dipartimento di Matematica, University of Padova, Italy
+  - affiliation: Dipartimento di Matematica, University of Padova
     country: Italy
     name: Francesco Ranzato
   - affiliation: INRIA
@@ -4318,8 +4207,7 @@ full-papers:
   - affiliation: Tsinghua University
     country: China
     name: Shaoping Ma
-  title: Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval
-    Performance
+  title: Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance
 - authors:
   - affiliation: Imperial College London
     country: United Kingdom
@@ -4367,8 +4255,7 @@ full-papers:
   - affiliation: Xiamen University
     country: China
     name: Run-Qing Chen
-  - affiliation: School of Computing and Information Systems, Singapore Management
-      University
+  - affiliation: School of Computing and Information Systems, Singapore Management University
     country: Singapore
     name: Chong-Wah Ngo
   title: 'k-sums clustering: a stochastic optimization approach'
@@ -4397,8 +4284,7 @@ full-papers:
   - affiliation: South China University of Technology
     country: China
     name: Hengjie Song
-  title: "Multi-task Learning for Bias-Free Joint CTR Prediction and Market Price\
-    \ Modeling in Online\n            Advertising"
+  title: "Multi-task Learning for Bias-Free Joint CTR Prediction and Market Price Modeling in Online Advertising"
 - authors:
   - affiliation: Xiamen University
     country: China
@@ -4508,8 +4394,7 @@ full-papers:
   - affiliation: School of Computer Science and Technology, Soochow University
     country: China
     name: Lei Zhao
-  title: Meta-learning based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base
-    Embedding
+  title: Meta-learning based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base Embedding
 - authors:
   - affiliation: School of Computer Science and Technology, Soochow University
     country: China
@@ -4529,8 +4414,7 @@ full-papers:
   - affiliation: School of Computer Science and Technology, Soochow University
     country: China
     name: Lei Zhao
-  title: 'When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over
-    Few-Shot Relations'
+  title: 'When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations'
 - authors:
   - affiliation: Tsinghua University
     country: China
@@ -4561,8 +4445,7 @@ full-papers:
   - affiliation: Hong Kong Baptist University
     country: Hong Kong
     name: Zitan Sun
-  title: 'Budget-constrained Truss Maximization over Large Graphs: A Component-based
-    Approach'
+  title: 'Budget-constrained Truss Maximization over Large Graphs: A Component-based Approach'
 - authors:
   - affiliation: Shanghai Jiao Tong University
     country: China
@@ -4628,8 +4511,7 @@ full-papers:
   - affiliation: Rutgers University
     country: USA
     name: Hui Xiong
-  title: An Interactive Neurual Network Approach to Keyphrase Extraction in Talent
-    Recruitment
+  title: An Interactive Neurual Network Approach to Keyphrase Extraction in Talent Recruitment
 - authors:
   - affiliation: Bar-Ilan University
     country: Israel
@@ -4651,8 +4533,7 @@ full-papers:
   - affiliation: Sungkyunkwan University
     country: Republic of Korea
     name: Youngjoong Ko
-  title: "Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge\
-    \ Graph based on a\n            Dictionary"
+  title: "Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary"
 - authors:
   - affiliation: The University of New South Wales
     country: Australia
@@ -4686,8 +4567,7 @@ full-papers:
   - affiliation: Renmin University of China
     country: China
     name: Ji-Rong Wen
-  title: 'PSSL: Self-supervised Learning for Personalized Search with Contrastive
-    Sampling'
+  title: 'PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling'
 - authors:
   - affiliation: Guangxi Normal University
     country: China
@@ -4776,12 +4656,12 @@ full-papers:
   - affiliation: University of Technology Sydney
     country: Australia
     name: Hongxu Chen
-  - affiliation: University of Essex
-    country: United Kingdom
-    name: Shoaib Jameel
   - affiliation: ebay.com
     country: USA
     name: Dingxian Wang
+  - affiliation: University of Essex
+    country: United Kingdom
+    name: Shoaib Jameel
   - affiliation: University of Illinois at Chicago
     country: USA
     name: Philip Yu
@@ -4808,8 +4688,7 @@ full-papers:
   - affiliation: Queen's University
     country: Canada
     name: Xiaodan Zhu
-  title: "Identifying Untrustworthy Samples: Data Filtering for Open-domain Dialogues\
-    \ with Bayesian\n            Optimization"
+  title: "Identifying Untrustworthy Samples: Data Filtering for Open-domain Dialogues with Bayesian Optimization"
 - authors:
   - affiliation: Beijing University of Posts and Telecommunications
     country: China
@@ -4913,8 +4792,7 @@ full-papers:
   - affiliation: IIT Delhi
     country: India
     name: Srikanta Bedathur
-  title: Computing and Maintaining Provenance of Query Result Probabilities in Uncertain
-    Knowledge Graphs
+  title: Computing and Maintaining Provenance of Query Result Probabilities in Uncertain Knowledge Graphs
 - authors:
   - affiliation: Tel Aviv University
     country: Israel
@@ -4985,8 +4863,7 @@ full-papers:
   - affiliation: Microsoft & Tel-Aviv University
     country: Israel
     name: Noam Koenigstein
-  title: Learning Entity Representations in the Long-Tail via Variational Bayesian
-    Networks
+  title: Learning Entity Representations in the Long-Tail via Variational Bayesian Networks
 - authors:
   - affiliation: Peking University
     country: China
@@ -5007,24 +4884,19 @@ full-papers:
     name: Hoda Eldardiry
   title: Zero-shot Relation Classification from Side Information
 - authors:
-  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307
-      Lens
+  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307 Lens
     country: France
     name: Ryma Boumazouza
-  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307
-      Lens
+  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307 Lens
     country: France
     name: Fahima Cheikh Alili
-  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307
-      Lens
+  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307 Lens
     country: France
     name: Bertrand Mazure
-  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307
-      Lens
+  - affiliation: Computer Science Research Lab (CRIL UMR 8188) ,Univ. Artois and CNRS,F62307 Lens
     country: France
     name: Karim Tabia
-  title: 'ASTERYX: a model-Agnostic SaT-basEd appRoach for sYmbolic and score-based
-    eXplanations'
+  title: 'ASTERYX: a model-Agnostic SaT-basEd appRoach for sYmbolic and score-based eXplanations'
 - authors:
   - affiliation: Poznan University of Technology
     country: Poland
@@ -5035,8 +4907,7 @@ full-papers:
   - affiliation: Poznan University of Technology
     country: Poland
     name: Agnieszka Lawrynowicz
-  title: "SeeQuery: An Automatic Method for Recommending Translations of Ontology\
-    \ Competency Questions into\n            SPARQL-OWL"
+  title: "SeeQuery: An Automatic Method for Recommending Translations of Ontology Competency Questions into SPARQL-OWL"
 - authors:
   - affiliation: California State University, Sacramento
     country: USA
@@ -5090,8 +4961,7 @@ full-papers:
   - affiliation: University of Electronic Science and Technology of China
     country: China
     name: Kai Zheng
-  title: 'Into the Unobservables: A Multi-range Encoder-decoder Framework for COVID-19
-    Prediction'
+  title: 'Into the Unobservables: A Multi-range Encoder-decoder Framework for COVID-19 Prediction'
 - authors:
   - affiliation: University of Chinese Academy of Sciences
     country: China
@@ -5179,8 +5049,7 @@ full-papers:
   - affiliation: University of Toronto
     country: Canada
     name: Marzyeh Ghassemi
-  title: 'Pulling Up by the Causal Bootstraps: Causal Data Augmentation for Pre-training
-    Debiasing.'
+  title: 'Pulling Up by the Causal Bootstraps: Causal Data Augmentation for Pre-training Debiasing.'
 - authors:
   - affiliation: Ant Financial Service Group
     country: China
@@ -5202,7 +5071,7 @@ full-papers:
   - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Xunqiang Jiang
-  - affiliation: WeChat Search Application Department, Tencent Inc. China
+  - affiliation: WeChat Search Application Department, Tencent Inc.
     country: China
     name: Yuanfu Lu
   - affiliation: Singapore Management University
@@ -5264,7 +5133,7 @@ full-papers:
     name: Lizhen Cui
   - affiliation: University of Illinois at Chicago
     country: USA
-    name: Phillip Yu
+    name: Philip Yu
   - affiliation: University of Technology Sydney
     country: Australia
     name: Guandong Xu
@@ -5299,8 +5168,7 @@ full-papers:
   - affiliation: Tsinghua University
     country: China
     name: Jianyong Wang
-  title: "Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction\
-    \ Graphs for Sequential\n            Recommendation"
+  title: "Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation"
 - authors:
   - affiliation: University of Electronic Science and Technology of China
     country: China
@@ -5365,8 +5233,7 @@ full-papers:
   - affiliation: The University of Queensland
     country: Australia
     name: Hongzhi Yin
-  title: A Knowledge-Aware Recommender with Attention-Enhanced Dynamic Convolutional
-    Network
+  title: A Knowledge-Aware Recommender with Attention-Enhanced Dynamic Convolutional Network
 - authors:
   - affiliation: The Hong Kong University of Science and Technology
     country: Hong Kong
@@ -5380,8 +5247,7 @@ full-papers:
   - affiliation: The Hong Kong University of Science and Technology
     country: Hong Kong
     name: Yangqiu Song
-  title: Neural PathSim for Inductive Similarity Search in Heterogeneous Information
-    Networks
+  title: Neural PathSim for Inductive Similarity Search in Heterogeneous Information Networks
 - authors:
   - affiliation: Worcester Polytechnic Institute
     country: USA
@@ -5529,7 +5395,7 @@ full-papers:
   - affiliation: Alibaba Group
     country: China
     name: Changlong Sun
-  - affiliation: Harbin Institute of Tecnology, China
+  - affiliation: Harbin Institute of Tecnology
     country: China
     name: Conghui Zhu
   - affiliation: Harbin Institute of Tecnology
@@ -5560,8 +5426,7 @@ full-papers:
   - affiliation: University of Nottingham
     country: United Kingdom
     name: Max Wilson
-  title: "POSSCORE: A Simple Yet Effective Evaluation of Conversational Search with\
-    \ Part of Speech\n            Labelling"
+  title: "POSSCORE: A Simple Yet Effective Evaluation of Conversational Search with Part of Speech Labelling"
 - authors:
   - affiliation: School of Computer Science and Engineering, Sun Yat-sen University
     country: China
@@ -5651,8 +5516,7 @@ full-papers:
   - affiliation: Huazhong University of Science and Technology
     country: China
     name: Ke Liu
-  title: 'XPM: An Explainable Deep Reinforcement Learning Framework for Portfolio
-    Management'
+  title: 'XPM: An Explainable Deep Reinforcement Learning Framework for Portfolio Management'
 - authors:
   - affiliation: Tokyo Institute of Technology
     country: Japan
@@ -5723,13 +5587,13 @@ full-papers:
   - affiliation: Wuhan University
     country: China
     name: Yu Tian
-  - affiliation: Kuaishou, China
+  - affiliation: Kuaishou
     country: China
     name: Changping Wang
-  - affiliation: Kuaishou, China
+  - affiliation: Kuaishou
     country: China
     name: Yanan Niu
-  - affiliation: Kuaishou, China
+  - affiliation: Kuaishou
     country: China
     name: Yang Song
   - affiliation: Wuhan University
@@ -5737,31 +5601,25 @@ full-papers:
     name: Chenliang Li
   title: Concept-Aware Denoising Graph Neural Network for Micro-Video Recommendation
 - authors:
-  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute\
-      \ of Defense\n                        Technology"
+  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute of Defense Technology"
     country: China
     name: Zhihui Hu
-  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute\
-      \ of Defense\n                        Technology"
+  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute of Defense Technology"
     country: China
     name: Guang Kou
-  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute\
-      \ of Defense\n                        Technology"
+  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute of Defense Technology"
     country: China
     name: Haoyu Zhang
-  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute\
-      \ of Defense\n                        Technology"
+  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute of Defense Technology"
     country: China
     name: Na Li
-  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute\
-      \ of Defense\n                        Technology"
+  - affiliation: "Artifcial Intelligence Research Center,National Innovation Institute of Defense Technology"
     country: China
     name: Ke Yang
   - affiliation: National University of Defense Technology
     country: China
     name: Lin Liu
-  title: 'Rectifying Pseudo Labels: Iterative Feature Clustering for Graph Representation
-    Learning'
+  title: 'Rectifying Pseudo Labels: Iterative Feature Clustering for Graph Representation Learning'
 - authors:
   - affiliation: The Chinese University of Hong Kong
     country: Hong Kong
@@ -5804,8 +5662,7 @@ full-papers:
   - affiliation: National University of Singapore
     country: Singapore
     name: Jiashi Feng
-  title: Understanding and Resolving Performance Degradation in Deep Graph Convolutional
-    Networks
+  title: Understanding and Resolving Performance Degradation in Deep Graph Convolutional Networks
 - authors:
   - affiliation: Peking University
     country: China
@@ -5836,8 +5693,7 @@ full-papers:
   - affiliation: College of Intelligence and Computing, Tianjin University
     country: China
     name: Ruifang Wang
-  title: 'SCMGR: Using Social Context and Multi-Granularity Relations for Unsupervised
-    Social Summarization'
+  title: 'SCMGR: Using Social Context and Multi-Granularity Relations for Unsupervised Social Summarization'
 - authors:
   - affiliation: Xidian University
     country: China
@@ -5851,8 +5707,7 @@ full-papers:
   - affiliation: Xidian University
     country: China
     name: Jiangtao Cui
-  title: 'Addressing the Hardness of k-Facility Relocation Problem: a Pair of Approximate
-    Solutions'
+  title: 'Addressing the Hardness of k-Facility Relocation Problem: a Pair of Approximate Solutions'
 - authors:
   - affiliation: Sun Yat-sen University
     country: China
@@ -5869,8 +5724,7 @@ full-papers:
   - affiliation: National Taiwan University
     country: Taiwan
     name: Shih-Wei Liao
-  title: 'Node2Grids: A Cost-Efficient Uncoupled Training Framework for Large-Scale
-    Graph Learning'
+  title: 'Node2Grids: A Cost-Efficient Uncoupled Training Framework for Large-Scale Graph Learning'
 - authors:
   - affiliation: University of Tokyo / NTT Communication Science Laboratories
     country: Japan
@@ -5884,8 +5738,7 @@ full-papers:
   - affiliation: University of Tokyo
     country: Japan
     name: Akira Tanaka
-  title: "A Projected Gradient Method for Opinion Optimization with Limited Changes\
-    \ of Susceptibility to\n            Persuasion"
+  title: "A Projected Gradient Method for Opinion Optimization with Limited Changes of Susceptibility to Persuasion"
 - authors:
   - affiliation: Institut de Recherche en Informatique de Toulouse, UMR5505 CNRS,
       INSPE, UT2J
@@ -5894,8 +5747,7 @@ full-papers:
   - affiliation: CNRS
     country: France
     name: Md Zia Ullah
-  title: "Defining an Optimal Configuration Set for Selective Search Strategy \u2013\
-    \ A Risk-Sensitive Approach"
+  title: "Defining an Optimal Configuration Set for Selective Search Strategy \u2013\ A Risk-Sensitive Approach"
 - authors:
   - affiliation: Department of Electronic Engineering, Tsinghua University
     country: China
@@ -5962,8 +5814,7 @@ full-papers:
   - affiliation: Huazhong University of Science and Technology
     country: China
     name: Guohui Li
-  title: 'HASTE: A Distributed System for Hybrid and Adaptive Processing on Streaming
-    Spatial-Textual Data'
+  title: 'HASTE: A Distributed System for Hybrid and Adaptive Processing on Streaming Spatial-Textual Data'
 - authors:
   - affiliation: Nanjing University
     country: China
@@ -5983,8 +5834,7 @@ full-papers:
   - affiliation: Nanjing University
     country: China
     name: Chongjun Wang
-  title: Semi-Supervised and Self-Supervised Classification with Multi-View Graph
-    Neural Networks
+  title: Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks
 - authors:
   - affiliation: Michigan State University
     country: USA
@@ -6047,8 +5897,7 @@ full-papers:
   - affiliation: Renmin University of China
     country: China
     name: Ji-Rong Wen
-  title: 'USER: A Unified Information Search and Recommendation Model based on Integrated
-    Behavior Sequence'
+  title: 'USER: A Unified Information Search and Recommendation Model based on Integrated Behavior Sequence'
 - authors:
   - affiliation: Sapienza University of Rome
     country: Italy
@@ -6093,7 +5942,7 @@ full-papers:
   - affiliation: The University of Queensland
     country: Australia
     name: Hongzhi Yin
-  title: Double-Scale Self-Supervised Hypergraph Convolutional Network for Group Recommendation
+  title: Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation
 - authors:
   - affiliation: Siemens Technology
     country: Germany
@@ -6116,8 +5965,7 @@ full-papers:
   - affiliation: Siemens Technology
     country: Germany
     name: Mitchell Joblin
-  title: 'Power to the Relational Inductive Bias: Graph Neural Networks in Electrical
-    Power Grids'
+  title: 'Power to the Relational Inductive Bias: Graph Neural Networks in Electrical Power Grids'
 - authors:
   - affiliation: Gran Sasso Science Institute
     country: Italy
@@ -6192,8 +6040,7 @@ full-papers:
   - affiliation: National University of Singapore
     country: Singapore
     name: Xiaokui Xiao
-  title: "Random Sampling Plus Fake Data: Multidimensional Frequency Estimates With\
-    \ Local Differential\n            Privacy"
+  title: "Random Sampling Plus Fake Data: Multidimensional Frequency Estimates With Local Differential Privacy"
 - authors:
   - affiliation: Peking University
     country: China
@@ -6218,8 +6065,7 @@ full-papers:
   - affiliation: University of Southern California
     country: USA
     name: Jay Pujara
-  title: Tabular Functional Block Detection with Embedding-based Agglomerative Cell
-    Clustering
+  title: Tabular Functional Block Detection with Embedding-based Agglomerative Cell Clustering
 - authors:
   - affiliation: Southwest Jiaotong University
     country: China
@@ -6241,8 +6087,7 @@ full-papers:
   - affiliation: University of Padova
     country: Italy
     name: Fabio Vandin
-  title: 'odeN: Simultaneous Approximation of Multiple Motif Counts in Large Temporal
-    Networks'
+  title: 'odeN: Simultaneous Approximation of Multiple Motif Counts in Large Temporal Networks'
 - authors:
   - affiliation: Google Research
     country: India
@@ -6253,8 +6098,7 @@ full-papers:
   - affiliation: Google
     country: United Kingdom
     name: Filip Radlinski
-  title: "Disentangling Preference Representations for Recommendation Critiquing with\
-    \ \u03B2-VAE"
+  title: "Disentangling Preference Representations for Recommendation Critiquing with \u03B2-VAE"
 - authors:
   - affiliation: "Ecole Polytechnique F\xE9d\xE9rale de Lausanne"
     country: Switzerland
@@ -6265,8 +6109,7 @@ full-papers:
   - affiliation: "Ecole Polytechnique F\xE9d\xE9rale de Lausanne"
     country: Switzerland
     name: Karl Aberer
-  title: 'SciClops: Detecting and Contextualizing Scientific Claims for Assisting
-    Manual Fact-Checking'
+  title: 'SciClops: Detecting and Contextualizing Scientific Claims for Assisting Manual Fact-Checking'
 - authors:
   - affiliation: Virginia Tech
     country: USA
@@ -6308,8 +6151,7 @@ full-papers:
   - affiliation: University of Massachusetts Amherst
     country: USA
     name: James Allan
-  title: "Mixed Attention Transformer for Leveraging Word-Level Knowledge to Neural\
-    \ Cross-Lingual Information\n            Retrieval"
+  title: "Mixed Attention Transformer for Leveraging Word-Level Knowledge to Neural Cross-Lingual Information Retrieval"
 - authors:
   - affiliation: Reveal Data
     country: USA
@@ -6354,8 +6196,7 @@ full-papers:
   - affiliation: Rutgers University
     country: USA
     name: Yongfeng Zhang
-  title: 'Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender
-    Systems'
+  title: 'Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems'
 - authors:
   - affiliation: University of Massachusetts Amherst
     country: USA
@@ -6432,8 +6273,7 @@ full-papers:
   - affiliation: Microsoft Research Asia
     country: China
     name: Tie-Yan Liu
-  title: "Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning\
-    \ Approach with Adaptive\n            Fusion"
+  title: "Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion"
 - authors:
   - affiliation: University of Massachusetts Amherst
     country: USA
@@ -6484,44 +6324,38 @@ full-papers:
   - affiliation: Alibaba Group
     country: China
     name: Jun Huang
-  title: 'HORNET: Enriching Pre-trained Language Representations with Heterogeneous
-    Knowledge Sources'
+  title: 'HORNET: Enriching Pre-trained Language Representations with Heterogeneous Knowledge Sources'
 - authors:
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences"
+  - affiliation: 'Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences'
     country: China
     name: Qiang Sheng
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences"
+  - affiliation: 'Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences'
     country: China
     name: Xueyao Zhang
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences"
+  - affiliation: 'Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences'
     country: China
     name: Juan Cao
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences;\
-      \ University of Chinese\n                        Academy of Sciences"
+  - affiliation: 'Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences'
     country: China
     name: Lei Zhong
-  title: Integrating Pattern- and Fact-based Fake News Detection via Model Preference
-    Learning
+  title: Integrating Pattern- and Fact-based Fake News Detection via Model Preference Learning
 - authors:
-  - affiliation: Beijing University of Posts and Telecommunications, Beijing, China
+  - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Siyong Xu
-  - affiliation: Beijing University of Posts and Telecommunications, Beijing, China
+  - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Cheng Yang
-  - affiliation: Beijing University of Posts and Telecommunications, Beijing, China
+  - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Chuan Shi
   - affiliation: Singapore Management University
     country: China
     name: Yuan Fang
-  - affiliation: Beijing University of Posts and Telecommunications, Beijing, China
+  - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Yuxin Guo
-  - affiliation: Beijing University of Posts and Telecommunications, Beijing, China
+  - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Tianchi Yang
   - affiliation: Meituan
@@ -6547,8 +6381,7 @@ full-papers:
   - affiliation: Indraprastha Institute of Information Technology, Delhi
     country: India
     name: Tanmoy Chakraborty
-  title: 'DESYR: Definition and Syntactic Representation Based Claim Detection on
-    the Web'
+  title: 'DESYR: Definition and Syntactic Representation Based Claim Detection on the Web'
 - authors:
   - affiliation: The University of Tokyo
     country: Japan
@@ -6574,8 +6407,7 @@ full-papers:
   - affiliation: The University of Tokyo
     country: Japan
     name: Ryosuke Shibasaki
-  title: Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident
-    Co-Prediction
+  title: Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction
 - authors:
   - affiliation: Fudan University
     country: China
@@ -6592,18 +6424,15 @@ full-papers:
   - affiliation: Fudan university
     country: China
     name: Yanghua Xiao
-  title: "WebKE: Knowledge Triple Extraction from Semi-structured Web with Pre-trained\
-    \ Markup Language\n            Models"
+  title: "WebKE: Knowledge Triple Extraction from Semi-structured Web with Pre-trained Markup Language Models"
 - authors:
   - affiliation: Peking University
     country: China
     name: Han Yang
-  - affiliation: "National Engineering Research Center for Software Engineering, Peking\
-      \ University,\n                        Beijing, China"
+  - affiliation: "National Engineering Research Center for Software Engineering, Peking University"
     country: China
     name: Junfei Liu
-  title: 'Knowledge Graph Representation Learning as Groupoid: Unifying TransE, RotatE,
-    QuatE, ComplEx'
+  title: 'Knowledge Graph Representation Learning as Groupoid: Unifying TransE, RotatE, QuatE, ComplEx'
 - authors:
   - affiliation: Washington University in St. Louis
     country: USA
@@ -6623,8 +6452,7 @@ full-papers:
   - affiliation: Washington University in St. Louis
     country: USA
     name: Chenyang Lu
-  title: "Integrating Static and Time-Series Data in Deep Recurrent Models for Oncology\
-    \ Early Warning\n            Systems"
+  title: "Integrating Static and Time-Series Data in Deep Recurrent Models for Oncology Early Warning Systems"
 - authors:
   - affiliation: Jilin University
     country: China
@@ -6717,8 +6545,7 @@ full-papers:
   - affiliation: Games24x7
     country: India
     name: Tridib Mukherjee
-  title: "ScarceGAN: Discriminative Classification Framework for Rare Class Identification\
-    \ for Longitudinal\n            Data with Weak Prior"
+  title: "ScarceGAN: Discriminative Classification Framework for Rare Class Identification for Longitudinal Data with Weak Prior"
 - authors:
   - affiliation: Hanyang University
     country: Republic of Korea
@@ -6798,8 +6625,7 @@ resource-papers:
   - affiliation: University of Bonn
     country: Germany
     name: Jens Lehmann
-  title: DistRDF2ML - Scalable Distributed In-Memory Machine Learning Pipelines for
-    RDF Knowledge Graphs
+  title: DistRDF2ML - Scalable Distributed In-Memory Machine Learning Pipelines for RDF Knowledge Graphs
 - authors:
   - affiliation: Georgia Institute of Technology
     country: USA
@@ -6851,8 +6677,7 @@ resource-papers:
   - affiliation: The University of Edinburgh
     country: United Kingdom
     name: Rik Sarkar
-  title: 'PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural
-    Machine Learning Models'
+  title: 'PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models'
 - authors:
   - affiliation: UC MERCED
     country: USA
@@ -6877,8 +6702,7 @@ resource-papers:
   - affiliation: Shanghai Jiao Tong University
     country: China
     name: Zhouhan Lin
-  title: 'LiteratureQA: A Qestion Answering Corpus with GraphKnowledge on Academic
-    Literature'
+  title: 'LiteratureQA: A Qestion Answering Corpus with GraphKnowledge on Academic Literature'
 - authors:
   - affiliation: Shanghai Jiao Tong University
     country: China
@@ -6907,8 +6731,7 @@ resource-papers:
   - affiliation: Shanghai Jiao Tong University
     country: China
     name: Xinbing Wang
-  - affiliation: "Institute of Geographical Science and Natural Resources Research,\
-      \ Chinese Academy of\n                        Sciences"
+  - affiliation: "Institute of Geographical Science and Natural Resources Research, Chinese Academy of Sciences"
     country: China
     name: Chenghu Zhou
   title: 'GAKG: A Multimodal GeoScience Academic Knowledge Graph'
@@ -6974,8 +6797,7 @@ resource-papers:
   - affiliation: The University of Tokyo
     country: Japan
     name: Ryosuke Shibasaki
-  title: 'DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic
-    Prediction'
+  title: 'DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction'
 - authors:
   - affiliation: Xi'an Jiaotong University
     country: China
@@ -7051,8 +6873,7 @@ resource-papers:
   - affiliation: Tsinghua University
     country: China
     name: Maosong Sun
-  title: 'MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in
-    MOOCs'
+  title: 'MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs'
 - authors:
   - affiliation: University of Utah
     country: USA
@@ -7076,12 +6897,10 @@ resource-papers:
     name: Evangelos Kanoulas
   title: 'VerbCL: A Dataset of Verbatim Quotes for Highlight Extraction in Case Law'
 - authors:
-  - affiliation: "Istituto di Scienza e Tecnologie dell\u2019Informazione \u201CA.\
-      \ Faedo\u201D"
+  - affiliation: "Istituto di Scienza e Tecnologie dell\u2019Informazione \u201CA. Faedo\u201D"
     country: Italy
     name: Alejandro Moreo
-  - affiliation: "Istituto di Scienza e Tecnologie dell\u2019Informazione \u201CA.\
-      \ Faedo\u201D"
+  - affiliation: "Istituto di Scienza e Tecnologie dell\u2019Informazione \u201CA. Faedo\u201D"
     country: Italy
     name: Andrea Esuli
   - affiliation: Italian National Council of Research
@@ -7101,8 +6920,7 @@ resource-papers:
   - affiliation: University of Rostock
     country: Germany
     name: "Frank Kr\xFCger"
-  title: "SoMeSci\u2014A 5 Star Open Data Gold Standard Knowledge Graph of Software\
-    \ Mentions in Scientific\n            Articles"
+  title: "SoMeSci\u2014A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles"
 - authors:
   - affiliation: University of Glasgow
     country: United Kingdom
@@ -7165,8 +6983,7 @@ resource-papers:
   - affiliation: "University of S\xE3o Paulo"
     country: Brazil
     name: Fabio G. Cozman
-  title: "Pir\xE1: A Bilingual Portuguese-English Dataset for Question-Answering about\
-    \ the Ocean"
+  title: "Pir\xE1: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean"
 - authors:
   - affiliation: University of Waterloo
     country: Canada
@@ -7177,8 +6994,7 @@ resource-papers:
   - affiliation: Ryerson University
     country: Canada
     name: Ebrahim Bagheri
-  title: 'MSMarco Chameleons: Challenging the MSMarco Leaderboard with Extremely Obstinate
-    Queries'
+  title: 'MSMarco Chameleons: Challenging the MSMarco Leaderboard with Extremely Obstinate Queries'
 - authors:
   - affiliation: Universite Jean-Jaures, CLLE
     country: France
@@ -7235,8 +7051,7 @@ resource-papers:
   - affiliation: Ryerson University
     country: Canada
     name: Ebrahim Bagheri
-  title: 'Matches Made in Heaven: Toolkit and Large-Scale Datasets for Supervised
-    Query Reformulation'
+  title: 'Matches Made in Heaven: Toolkit and Large-Scale Datasets for Supervised Query Reformulation'
 - authors:
   - affiliation: NTU
     country: Taiwan
@@ -7244,8 +7059,7 @@ resource-papers:
   - affiliation: National Taiwan University
     country: Taiwan
     name: An-Zi Yen
-  - affiliation: "Department of Computer Science and Information Engineering, National\
-      \ Taiwan University,\n                        Taipei, Taiwan"
+  - affiliation: "Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan"
     country: Taiwan
     name: Wei-Hong Ang
   - affiliation: National Chengchi University
@@ -7265,25 +7079,21 @@ resource-papers:
   - affiliation: Bonn University
     country: Germany
     name: Elena Demidova
-  title: 'GeoVectors: a Linked Open Corpus of OpenStreetMap Embeddings on a World
-    Scale'
+  title: 'GeoVectors: a Linked Open Corpus of OpenStreetMap Embeddings on a World Scale'
 - authors:
-  - affiliation: Data Science & Intelligent Systems Group (DSIS), University of Bonn,
-      Germany
+  - affiliation: Data Science & Intelligent Systems Group (DSIS), University of Bonn
     country: Germany
     name: Alishiba Dsouza
-  - affiliation: "L3S Research Center, Leibniz Universit\xE4t Hannover, Germany"
+  - affiliation: "L3S Research Center, Leibniz Universit\xE4t Hannover"
     country: Germany
     name: Nicolas Tempelmeier
-  - affiliation: Data Science & Intelligent Systems Group (DSIS), University of Bonn,
-      Germany
+  - affiliation: Data Science & Intelligent Systems Group (DSIS), University of Bonn
     country: Germany
     name: Ran Yu
-  - affiliation: "L3S Research Center, Leibniz Universit\xE4t Hannover, Germany"
+  - affiliation: "L3S Research Center, Leibniz Universit\xE4t Hannover"
     country: Germany
     name: Simon Gottschalk
-  - affiliation: Data Science & Intelligent Systems Group (DSIS), University of Bonn,
-      Germany
+  - affiliation: Data Science & Intelligent Systems Group (DSIS), University of Bonn
     country: Germany
     name: Elena Demidova
   title: 'WorldKG: A World-Scale Geographic Knowledge Graph'
@@ -7345,8 +7155,7 @@ resource-papers:
   - affiliation: Renmin University of China
     country: China
     name: Ji-Rong Wen
-  title: 'RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation
-    Algorithms'
+  title: 'RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms'
 short-papers:
 - authors:
   - affiliation: Peking University
@@ -7361,8 +7170,7 @@ short-papers:
   - affiliation: Huawei Technologies Co.,Ltd.
     country: China
     name: Zhu Wang
-  title: Talking Face Generation Based on Information Bottleneck and Complementary
-    Representations
+  title: Talking Face Generation Based on Information Bottleneck and Complementary Representations
 - authors:
   - affiliation: Dartmouth College
     country: USA
@@ -7438,8 +7246,7 @@ short-papers:
   - affiliation: University of Electronic Science and Technology of China
     country: China
     name: Kai Zheng
-  title: 'Historical Inertia: A Neglected but Powerful Baseline for Long Sequence
-    Time-series Forecasting'
+  title: 'Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting'
 - authors:
   - affiliation: Rice University
     country: USA
@@ -7501,8 +7308,7 @@ short-papers:
   - affiliation: Ant Group
     country: China
     name: Jun Zhou
-  title: 'Learning Representations of Inactive Users: A Cross Domain Approach with
-    Graph Neural Networks'
+  title: 'Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks'
 - authors:
   - affiliation: Department of Computer Science, Harbin Institute of Technology (Shenzhen)
     country: China
@@ -7627,8 +7433,7 @@ short-papers:
   - affiliation: Institute of Computing Technology, Chinese Academy of Sciences
     country: China
     name: Qing He
-  title: Adversarial Domain Adaptation for Cross-lingual Information Retrieval with
-    Multilingual BERT
+  title: Adversarial Domain Adaptation for Cross-lingual Information Retrieval with Multilingual BERT
 - authors:
   - affiliation: Meituan
     country: China
@@ -7642,8 +7447,7 @@ short-papers:
   - affiliation: Meituan
     country: China
     name: Jinpeng Wang
-  title: 'ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest
-    Recommendation'
+  title: 'ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation'
 - authors:
   - affiliation: Harbin Institute of Technology
     country: China
@@ -7683,8 +7487,7 @@ short-papers:
   - affiliation: East China Normal University
     country: China
     name: Mengzhen Fan
-  title: "Leveraging Domain Information to Classify Financial Documents via Unsupervised\
-    \ Graph Momentum\n            Contrast"
+  title: "Leveraging Domain Information to Classify Financial Documents via Unsupervised Graph Momentum Contrast"
 - authors:
   - affiliation: Yonsei University
     country: Republic of Korea
@@ -7701,8 +7504,7 @@ short-papers:
   - affiliation: Seoul National University
     country: Republic of Korea
     name: Byung-Gon Chun
-  title: 'SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual
-    Transfer'
+  title: 'SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer'
 - authors:
   - affiliation: McMaster University
     country: Canada
@@ -7769,8 +7571,7 @@ short-papers:
   - affiliation: Beihang University
     country: China
     name: Weisheng Zhao
-  title: 'FedSkel: Efficient Federated Learning on Heterogeneous Systems with Skeleton
-    Gradients Update'
+  title: 'FedSkel: Efficient Federated Learning on Heterogeneous Systems with Skeleton Gradients Update'
 - authors:
   - affiliation: Institute of Automation, Chinese Academy of Sciences
     country: China
@@ -7781,19 +7582,16 @@ short-papers:
   - affiliation: Institute of Automation , Chinese Academy of Sciences
     country: China
     name: Yubo Chen
-  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation,\
-      \ Chinese Academy of\n                        Sciences"
+  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation, Chinese Academy of Sciences"
     country: China
     name: Kang Liu
-  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation,\
-      \ Chinese Academy of\n                        Sciences"
+  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation, Chinese Academy of Sciences"
     country: China
     name: Jun Zhao
   - affiliation: Tencent AI Lab
     country: China
     name: Wei Bi
-  title: Uncertainty-Aware Self-Training for Semi-Supervised Event Temporal Relation
-    Extraction
+  title: Uncertainty-Aware Self-Training for Semi-Supervised Event Temporal Relation Extraction
 - authors:
   - affiliation: The University of Sydney
     country: Australia
@@ -7846,8 +7644,7 @@ short-papers:
   - affiliation: University of Warwick
     country: United Kingdom
     name: Yulan He
-  title: Supervised Contrastive Learning for Multi-modal UnreliableNews Detection
-    in COVID-19 Pandemic
+  title: Supervised Contrastive Learning for Multi-modal UnreliableNews Detection in COVID-19 Pandemic
 - authors:
   - affiliation: Politecnico di Bari
     country: Italy
@@ -7948,8 +7745,7 @@ short-papers:
   - affiliation: University of Virginia
     country: USA
     name: Aidong Zhang
-  title: 'SCI: Subspace Learning Based Counterfactual Inference for Individual Treatment
-    Effect Estimation'
+  title: 'SCI: Subspace Learning Based Counterfactual Inference for Individual Treatment Effect Estimation'
 - authors:
   - affiliation: University of Minnesota
     country: USA
@@ -8052,8 +7848,7 @@ short-papers:
   - affiliation: Meituan
     country: China
     name: Jun Lei
-  title: Trilateral Spatiotemporal Attention Network for User Behavior Modeling in
-    Location-based Search
+  title: Trilateral Spatiotemporal Attention Network for User Behavior Modeling in Location-based Search
 - authors:
   - affiliation: University of Helsinki
     country: Finland
@@ -8087,8 +7882,7 @@ short-papers:
   - affiliation: Harbin Institute of Technology, Shenzhen
     country: China
     name: Xuan Wang
-  title: "Student can also be a good teacher: Extracting knowledge from Vision-and-Language\
-    \ model for\n            Cross-Modal Retrieval"
+  title: "Student can also be a good teacher: Extracting knowledge from Vision-and-Language model for Cross-Modal Retrieval"
 - authors:
   - affiliation: National Taiwan University
     country: Taiwan
@@ -8129,30 +7923,25 @@ short-papers:
     name: Hsin-Hsi Chen
   title: Constructing Noise Free Economic Policy Uncertainty Index
 - authors:
-  - affiliation: "Institute of Artificial Intelligence, School of Computer Science\
-      \ and Technology,\n                        Soochow University, Suzhou, China"
+  - affiliation: "Institute of Artificial Intelligence, School of Computer Science and Technology, Soochow University, Suzhou"
     country: China
     name: Jiaan Wang
   - affiliation: King Abdullah University of Science and Technology
     country: Saudi Arabia
     name: Qiang Yang
-  - affiliation: "Institute of Artificial Intelligence, School of Computer Science\
-      \ and Technology,\n                        Soochow University, Suzhou, China"
+  - affiliation: "Institute of Artificial Intelligence, School of Computer Science and Technology, Soochow University, Suzhou"
     country: China
     name: Jianfeng Qu
-  - affiliation: "Institute of Artificial Intelligence, School of Computer Science\
-      \ and Technology,\n                        Soochow University, Suzhou, China"
+  - affiliation: "Institute of Artificial Intelligence, School of Computer Science and Technology, Soochow University, Suzhou"
     country: China
     name: Zhixu Li
-  - affiliation: State Key Laboratory of Cognitive Intelligence, iFLYTEK Research,
-      China
+  - affiliation: State Key Laboratory of Cognitive Intelligence, iFLYTEK Research
     country: China
     name: Zhigang Chen
   - affiliation: Anhui Toycloud Technology, Hefei
     country: China
     name: Qingsheng Liu
-  - affiliation: State Key Laboratory of Cognitive Intelligence, iFLYTEK Research,
-      China
+  - affiliation: State Key Laboratory of Cognitive Intelligence, iFLYTEK Research
     country: China
     name: Guoping Hu
   title: 'SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary'
@@ -8216,8 +8005,7 @@ short-papers:
   - affiliation: Tsinghua University
     country: China
     name: Lin Zhang
-  title: 'OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal
-    Retrieval'
+  title: 'OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal Retrieval'
 - authors:
   - affiliation: Alibaba Group
     country: China
@@ -8263,8 +8051,7 @@ short-papers:
   - affiliation: Alibaba Group
     country: China
     name: Bo Zheng
-  title: Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based
-    Layer
+  title: Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer
 - authors:
   - affiliation: Utah State University
     country: USA
@@ -8352,7 +8139,7 @@ short-papers:
   - affiliation: University of Electronic Science and Technology of China
     country: China
     name: Fan Zhou
-  - affiliation: Zhengzhou Aiwen Computer Technology Co., Ltd., China.
+  - affiliation: Zhengzhou Aiwen Computer Technology Co., Ltd.
     country: China
     name: Yong Wang
   title: Vector-Quantized Autoencoder With Copula for Collaborative Filtering
@@ -8377,8 +8164,7 @@ short-papers:
   - affiliation: Seoul National University
     country: Republic of Korea
     name: U Kang
-  title: Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing
-    Values
+  title: Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing Values
 - authors:
   - affiliation: The Hong Kong Polytechnic University
     country: Hong Kong
@@ -8491,8 +8277,7 @@ short-papers:
   - affiliation: Alibaba Group
     country: China
     name: Bo Zheng
-  title: "AutoHERI: Automated Hierarchical Representation Integration for Post-Click\
-    \ Conversion Rate\n            Estimation"
+  title: "AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation"
 - authors:
   - affiliation: University of Alberta
     country: Canada
@@ -8525,12 +8310,10 @@ short-papers:
     name: Partha Pratim Das
   title: 'HiCoVA: Hierarchical Conditional Variational Autoencoder for Keyphrase Generation'
 - authors:
-  - affiliation: "Institute of Automation Chinese Academy of Sciences, University\
-      \ of Chinese Academy of\n                        Sciences"
+  - affiliation: "Institute of Automation Chinese Academy of Sciences, University of Chinese Academy of Sciences"
     country: China
     name: Shuai Wang
-  - affiliation: "Institute of Automation Chinese Academy of Sciences, University\
-      \ of Chinese Academy of\n                        Sciences"
+  - affiliation: "Institute of Automation Chinese Academy of Sciences, University of Chinese Academy of Sciences"
     country: China
     name: Wenji Mao
   title: Modeling Inter-Claim Interactions for Verifying Multiple Claims
@@ -8541,8 +8324,7 @@ short-papers:
   - affiliation: SungkyunKwan University
     country: Republic of Korea
     name: Youngjoong Ko
-  title: Using Topic Modeling and Adversarial Neural Networks for Fake News Video
-    Detection
+  title: Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection
 - authors:
   - affiliation: National Taiwan University
     country: Taiwan
@@ -8556,8 +8338,7 @@ short-papers:
   - affiliation: National Taiwan University
     country: Taiwan
     name: Winston Hsu
-  title: "Multivariate and Propagation Graph Attention Network for Spatial-Temporal\
-    \ Prediction with Outdoor\n            Cellular Traffic"
+  title: "Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic"
 - authors:
   - affiliation: Microsoft
     country: Israel
@@ -8585,8 +8366,7 @@ short-papers:
   - affiliation: Harbin Institute of Technology, Shenzhen
     country: China
     name: Yang Qin
-  title: "AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence\
-    \ Time-Series\n            Forecasting"
+  title: "AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting"
 - authors:
   - affiliation: University of Mannheim
     country: Germany
@@ -8594,8 +8374,7 @@ short-papers:
   - affiliation: University of Mannheim
     country: Germany
     name: Heiko Paulheim
-  title: Evidential Relational-Graph Convolutional Networks for Entity Classification
-    in Knowledge Graphs
+  title: Evidential Relational-Graph Convolutional Networks for Entity Classification in Knowledge Graphs
 - authors:
   - affiliation: IIT Kanpur
     country: India
@@ -8606,8 +8385,7 @@ short-papers:
   - affiliation: IIT Kanpur
     country: India
     name: Arnab Bhattacharya
-  title: "VERSACHI: Finding Statistically Significant Subgraph Matches using Chebyshev\u2019\
-    s Inequality"
+  title: "VERSACHI: Finding Statistically Significant Subgraph Matches using Chebyshev's Inequality"
 - authors:
   - affiliation: University of Illinois Urbana-Champaign
     country: USA
@@ -8715,8 +8493,7 @@ short-papers:
   - affiliation: Ryerson University
     country: Canada
     name: Ebrahim Bagheri
-  title: 'BERT-QPP: Contextualized Pre-trained transformers for Query Performance
-    Prediction'
+  title: 'BERT-QPP: Contextualized Pre-trained transformers for Query Performance Prediction'
 - authors:
   - affiliation: China Jiliang University
     country: China
@@ -8758,8 +8535,7 @@ short-papers:
   - affiliation: Lehigh University
     country: USA
     name: Lichao Sun
-  title: 'DSKReG: Differentiable Sampling on Knowledge Graph for Recommendation with
-    Relational GNN'
+  title: 'DSKReG: Differentiable Sampling on Knowledge Graph for Recommendation with Relational GNN'
 - authors:
   - affiliation: Uppsala University
     country: China
@@ -8813,8 +8589,7 @@ short-papers:
   - affiliation: Zhejiang Lab
     country: China
     name: Chenhao Lu
-  title: "DAMA-Net: A Novel Predictive Model for IrregularlyAsynchronously and Sparsely\
-    \ Sampled Multivariate\n            Time Series"
+  title: "DAMA-Net: A Novel Predictive Model for IrregularlyAsynchronously and Sparsely Sampled Multivariate Time Series"
 - authors:
   - affiliation: Institute of Automation, Chinese Academy of Sciences
     country: China
@@ -8844,16 +8619,13 @@ short-papers:
     name: Jianbo Yuan
   title: Review-Aware Neural Recommendation with Cross-Modality Mutual Attention
 - authors:
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences &\
-      \ University of\n                        Chinese Academy of Sciences"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences & University of Chinese Academy of Sciences"
     country: China
     name: Qiong Nan
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences &\
-      \ University of\n                        Chinese Academy of Sciences"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences & University of Chinese Academy of Sciences"
     country: China
     name: Juan Cao
-  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences &\
-      \ University of\n                        Chinese Academy of Sciences"
+  - affiliation: "Institute of Computing Technology, Chinese Academy of Sciences & University of Chinese Academy of Sciences"
     country: China
     name: Yongchun Zhu
   - affiliation: Institute of Computing Technology, Chinese Academy of Sciences
@@ -8909,8 +8681,7 @@ short-papers:
   - affiliation: Southeast University
     country: China
     name: Weiwei Wu
-  - affiliation: "National Research Council of Italy (CNR), Institute for Applied\
-      \ Mathematics, Rome,\n                        Italy"
+  - affiliation: "National Research Council of Italy (CNR), Institute for Applied Mathematics, Rome"
     country: Italy
     name: Christine Nardini
   title: Attention Based Subgraph Classification for Link Prediction by Network Re-weighting
@@ -9010,7 +8781,7 @@ short-papers:
     name: Jinjie Gu
   title: Adversarial Learning for Incentive Optimization in Mobile Payment Marketing
 - authors:
-  - affiliation: Information technology university, lahore, Pakistan
+  - affiliation: Information technology university, lahore
     country: Pakistan
     name: Sameen Mansha
   - affiliation: Information technology university, lahore
@@ -9025,11 +8796,10 @@ short-papers:
   - affiliation: GIK Institute of Engineering, sciences and Technology, Topi
     country: Pakistan
     name: Syed Fawad Hussain
-  - affiliation: University of Queensland, Brisbane.
+  - affiliation: University of Queensland, Brisbane
     country: Australia
     name: Hongzhi Yin
-  title: 'GDFM: Gene Vectors Embodied Deep Attentional Factorization Machines for
-    Interaction prediction'
+  title: 'GDFM: Gene Vectors Embodied Deep Attentional Factorization Machines for Interaction prediction'
 - authors:
   - affiliation: Athena Research and Innovation Center
     country: Greece
@@ -9066,8 +8836,7 @@ short-papers:
   - affiliation: Tianjin University
     country: China
     name: Wenjun Wang
-  title: Adversarial Framework of Higher-order and Local Features for Role-based Network
-    Embedding
+  title: Adversarial Framework of Higher-order and Local Features for Role-based Network Embedding
 - authors:
   - affiliation: Faculty of Engineering of University of Porto
     country: Portugal
@@ -9101,8 +8870,7 @@ short-papers:
   - affiliation: University of Science and Technology of China
     country: China
     name: Enhong Chen
-  title: 'SIFN: A Sentiment-aware Interactive Fusion Network for Review-based Item
-    Recommendation'
+  title: 'SIFN: A Sentiment-aware Interactive Fusion Network for Review-based Item Recommendation'
 - authors:
   - affiliation: School of Computer Science and Engineering, Northeastern University
     country: China
@@ -9110,7 +8878,7 @@ short-papers:
   - affiliation: Singapore Management University
     country: Singapore
     name: Wei Gao
-  - affiliation: Northeastern University, China
+  - affiliation: Northeastern University
     country: China
     name: Shi Feng
   - affiliation: Northeastern University
@@ -9128,15 +8896,13 @@ short-papers:
   - affiliation: Institute of Automation , Chinese Academy of Sciences
     country: China
     name: Yubo Chen
-  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation,\
-      \ Chinese Academy of\n                        Sciences"
+  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation, Chinese Academy of Sciences"
     country: China
     name: Kang Liu
-  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation,\
-      \ Chinese Academy of\n                        Sciences"
+  - affiliation: "National Laboratory of Pattern Recognition,Institute of Automation, Chinese Academy of Sciences"
     country: China
     name: Jun Zhao
-  - affiliation: Ant Group, Hangzhou, China
+  - affiliation: Ant Group, Hangzhou
     country: China
     name: Taifeng Wang
   title: Multi-Sentence Argument Linking via An Event-Aware Hierarchical Encoder
@@ -9187,8 +8953,7 @@ short-papers:
   - affiliation: Faculty of Engineering of University of Porto
     country: Portugal
     name: Guilherme Ramos
-  title: Evaluating the Prediction Bias Induced by Label Imbalance in Multi-label
-    Classification
+  title: Evaluating the Prediction Bias Induced by Label Imbalance in Multi-label Classification
 - authors:
   - affiliation: IIT Delhi
     country: India
@@ -9213,8 +8978,7 @@ short-papers:
   - affiliation: NEC Corporation
     country: Japan
     name: Jianquan Liu
-  title: Multi-subspace Implicit Alignment for Cross-modal Retrieval on Cooking Recipes
-    and Food Images
+  title: Multi-subspace Implicit Alignment for Cross-modal Retrieval on Cooking Recipes and Food Images
 - authors:
   - affiliation: Sungkyunkwan University
     country: Republic of Korea
@@ -9280,8 +9044,7 @@ short-papers:
   - affiliation: Amazon
     country: Germany
     name: Adria de Gispert
-  title: 'Question Rewriting for Open-Domain Conversational QA: Best Practices and
-    Limitations'
+  title: 'Question Rewriting for Open-Domain Conversational QA: Best Practices and Limitations'
 - authors:
   - affiliation: Singapore University of Technology and Design
     country: Singapore
@@ -9346,8 +9109,7 @@ short-papers:
   - affiliation: Carnegie Mellon University
     country: USA
     name: Jamie Callan
-  title: Improving Query Representations for Dense Retrieval with Pseudo Relevance
-    Feedback
+  title: Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback
 - authors:
   - affiliation: University of Missouri-Columbia
     country: USA
@@ -9429,8 +9191,7 @@ short-papers:
   - affiliation: McGill University
     country: Canada
     name: Mark Coates
-  title: "Graph Structure Aware Contrastive Knowledge Distillation for Incremental\
-    \ Learning in Recommender\n            Systems"
+  title: "Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems"
 - authors:
   - affiliation: University of Oklahoma
     country: USA
@@ -9438,8 +9199,7 @@ short-papers:
   - affiliation: University of Bonn
     country: Germany
     name: Ran Yu
-  title: State-Aware Meta-Evaluation of Evaluation Metrics in Interactive Information
-    Retrieval
+  title: State-Aware Meta-Evaluation of Evaluation Metrics in Interactive Information Retrieval
 - authors:
   - affiliation: Lehigh University
     country: USA
@@ -9467,8 +9227,7 @@ short-papers:
   - affiliation: "Universit\xE9 de Paris"
     country: France
     name: Mohamed Nadif
-  title: "How to Leverage a Multi-layered Transformer Language Model for Text Clustering:\
-    \ an Ensemble\n            Approach"
+  title: "How to Leverage a Multi-layered Transformer Language Model for Text Clustering: an Ensemble Approach"
 - authors:
   - affiliation: Tsinghua University
     country: China
@@ -9507,8 +9266,7 @@ short-papers:
   - affiliation: New Mexico State University
     country: USA
     name: Yifan Hao
-  title: "Reevaluating the Change Point Detection Problem with Segment-Based Bayesian\
-    \ Online Change Point\n            Detection"
+  title: "Reevaluating the Change Point Detection Problem with Segment-Based Bayesian Online Change Point Detection"
 - authors:
   - affiliation: Oracle America, Inc.
     country: Netherlands
@@ -9530,16 +9288,16 @@ short-papers:
   - affiliation: Indian Institute of Technology Kharagpur
     country: India
     name: Soumyadeep Roy
-  - affiliation: Indian Institute of Technology Kharagpur
+  - affiliation: Indian Institute of Technology, Kharagpur
     country: India
     name: Sudip Chakraborty
-  - affiliation: Indian Institute of Technology Kharagpur
+  - affiliation: Indian Institute of Technology, Kharagpur
     country: India
     name: Aishik Mandal
   - affiliation: Indian Institute of Technology, Kharagpur
     country: India
     name: Gunjan Balde
-  - affiliation: Indian Institute of Technology Kharagpur
+  - affiliation: Indian Institute of Technology, Kharagpur
     country: India
     name: Prakhar Sharma
   - affiliation: Adobe
@@ -9593,8 +9351,7 @@ short-papers:
   - affiliation: Tianjin University
     country: China
     name: Guozheng Rao
-  title: 'CANCN-BERT: A Joint Pre-training Language Framework for Classical and Vernacular
-    Chinese'
+  title: 'CANCN-BERT: A Joint Pre-training Language Framework for Classical and Vernacular Chinese'
 - authors:
   - affiliation: University of Montreal
     country: Canada
@@ -9639,8 +9396,7 @@ short-papers:
   - affiliation: McGill University
     country: Canada
     name: Mark Coates
-  title: Structure Aware Experience Replay for Incremental Learning in Graph-based
-    Recommender Systems
+  title: Structure Aware Experience Replay for Incremental Learning in Graph-based Recommender Systems
 - authors:
   - affiliation: Samsung Research
     country: USA
@@ -9654,8 +9410,7 @@ short-papers:
   - affiliation: Samsung Electronics
     country: USA
     name: Hongxia Jin
-  title: "Using Neighborhood Context to Improve Information Extraction from Visual\
-    \ Documents Captured on\n            Mobile Phones"
+  title: "Using Neighborhood Context to Improve Information Extraction from Visual Documents Captured on Mobile Phones"
 - authors:
   - affiliation: RMIT University
     country: Australia
@@ -9694,7 +9449,7 @@ short-papers:
   - affiliation: Singapore Management University
     country: Singapore
     name: Wei Gao
-  - affiliation: Northeastern University, China
+  - affiliation: Northeastern University
     country: China
     name: Shi Feng
   - affiliation: Northeastern University
@@ -9717,8 +9472,7 @@ short-papers:
   - affiliation: University of Southern California
     country: USA
     name: Viktor Prasanna
-  title: "SeDyT: A General Framework for Multi-Step Event Forecasting via Sequence\
-    \ Modeling on Dynamic Entity\n            Embeddings"
+  title: "SeDyT: A General Framework for Multi-Step Event Forecasting via Sequence Modeling on Dynamic Entity Embeddings"
 - authors:
   - affiliation: Gunosy Inc
     country: Japan
@@ -9786,8 +9540,7 @@ short-papers:
   - affiliation: Seoul National University
     country: Republic of Korea
     name: Kyomin Jung
-  title: 'CrossAug: A Contrastive Data Augmentation Method for Debiasing Fact Verification
-    Models'
+  title: 'CrossAug: A Contrastive Data Augmentation Method for Debiasing Fact Verification Models'
 - authors:
   - affiliation: MSR India
     country: India
@@ -9818,8 +9571,7 @@ short-papers:
   - affiliation: Microsoft Research Asia
     country: China
     name: Dongmei Zhang
-  title: 'Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning for Semantic
-    Code Search'
+  title: 'Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning for Semantic Code Search'
 - authors:
   - affiliation: Yonsei University
     country: Republic of Korea
@@ -9872,8 +9624,7 @@ short-papers:
   - affiliation: xerox research center India
     country: India
     name: Manjira Sinha
-  title: "Determining Subjective Bias in Text through Linguistically Informed Transformer\
-    \ based Multi-Task\n            Network"
+  title: "Determining Subjective Bias in Text through Linguistically Informed Transformer based Multi-Task Network"
 - authors:
   - affiliation: Tata Consultancy Services
     country: India
@@ -9926,8 +9677,7 @@ short-papers:
   - affiliation: Beijing University of Posts and Telecommunications
     country: China
     name: Li Liangxun
-  title: 'GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android
-    Ecosystem Evolution'
+  title: 'GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution'
 - authors:
   - affiliation: University of Pisa
     country: Italy
@@ -9992,8 +9742,7 @@ short-papers:
   - affiliation: IIT Bombay
     country: India
     name: Soumen Chakrabarti
-  title: Integrating Transductive and Inductive Embeddings Improves Link Prediction
-    Accuracy
+  title: Integrating Transductive and Inductive Embeddings Improves Link Prediction Accuracy
 - authors:
   - affiliation: University of Glasgow
     country: United Kingdom
@@ -10046,8 +9795,7 @@ short-papers:
   - affiliation: University of Technology Sydney
     country: Australia
     name: Longbing Cao
-  title: Bidirectional Coupled Multivariate Learning of Irregular Time Series with
-    Missing Values
+  title: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values
 - authors:
   - affiliation: Monash University
     country: Australia
@@ -10070,8 +9818,7 @@ short-papers:
   - affiliation: Monash University
     country: Australia
     name: Shirui Pan
-  title: 'Projective Ranking: A Transferable Evasion Attack Method on Graph Neural
-    Networks'
+  title: 'Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks'
 tutorials:
 - authors:
   - affiliation: Rutgers University
@@ -10083,7 +9830,7 @@ tutorials:
   - affiliation: Rutgers University
     country: USA
     name: Yongfeng Zhang
-  title: "Tutorial on Fairness of Machine Learning in Recommender Systems"
+  title: 'Tutorial on Fairness of Machine Learning in Recommender Systems'
 - authors:
   - affiliation: Alibaba Group
     country: USA
@@ -10108,7 +9855,7 @@ tutorials:
   - affiliation: Qatar Computing Research Institute
     country: Italy
     name: Giovanni Da San Martino
-  title: Fake News, Disinformation, Propaganda, and Media Bias
+  title: 'Fake News, Disinformation, Propaganda, and Media Bias'
 - authors:
   - affiliation: Microsoft
     country: India
@@ -10116,7 +9863,7 @@ tutorials:
   - affiliation: MICROSOFT
     country: India
     name: Ranganath Kondapally
-  title: Large-Scale Information Extraction under Privacy-Aware Constraints
+  title: 'Large-Scale Information Extraction under Privacy-Aware Constraints'
 - authors:
   - affiliation: University of Glasgow
     country: United Kingdom
@@ -10127,7 +9874,7 @@ tutorials:
   - affiliation: University of Glasgow
     country: United Kingdom
     name: Sean MacAvaney
-  title: IR From Bag-of-words to BERT and Beyond through Practical Experiments
+  title: 'IR From Bag-of-words to BERT and Beyond through Practical Experiments'
 - authors:
   - affiliation: University of Exeter
     country: United Kingdom
@@ -10146,7 +9893,7 @@ tutorials:
   - affiliation: University of Illinois at Urbana-Champaign
     country: USA
     name: Hanghang Tong
-  title: Fair Graph Mining
+  title: 'Fair Graph Mining'
 - authors:
   - affiliation: Yahoo Research, Verizon Media
     country: USA
@@ -10157,8 +9904,7 @@ tutorials:
   - affiliation: Church and Duncan Group Inc, UC Berkeley
     country: USA
     name: James G. Shanahan
-  title: 'Online Advertising Incrementality Testing: Practical Lessons And Emerging
-    Challenges'
+  title: 'Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges'
 - authors:
   - affiliation: NYU Abu Dhabi
     country: United Arab Emirates
