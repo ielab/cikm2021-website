@@ -1,6 +1,11 @@
 # Submission FAQ
 
 
+Q: <a href="#faq-10" id="faq-15" class="anchor">How can authors register and when is the author registration deadline?</a>
+
+A: At this point, we are finalising the development of the registration system. We will contact all authors with more information when the registration link is ready.
+
+---
 Q: <a href="#faq-10" id="faq-10" class="anchor">When should authors of accepted submissions expect to receive e-mails from ACM about copyright forms and camera ready instructions?</a>
 
 A: Monday, 16th August.
