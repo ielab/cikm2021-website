@@ -5,8 +5,8 @@
 links:
 
   # These menu items should not be commented out.
-  - name: Home
-    url: /
+#  - name: Home
+#    url: /
   - name: Code of Conduct
     url: https://www.acm.org/about-acm/policy-against-harassment
 
@@ -14,6 +14,9 @@ links:
     url: /call-for-sponsors
 
   # Comment/uncomment these menu items depending on conf dates.
+
+  - name: Registration
+    url: /registration
 
   - name: Programme
     url: /programme
@@ -69,9 +72,6 @@ links:
         url: /cfp/tutorials
       - name: Workshops
         url: /cfp/workshops
-
-#  - name: Registration
-#    url: /registration
 
   # These menu items should not be commented out.
   - name: Organisation

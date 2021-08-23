@@ -13,6 +13,19 @@ footer {
   padding: 30px 0;
 }
 
+@media screen and (min-width: 767px) {
+    .navbar-nav {
+        float: initial;
+    }
+
+    .navbar-nav > li {
+        float: initial;
+    }
+
+    .nav > li {
+        display: inline-block;
+    }
+}
 /*
  * Off Canvas
  * --------------------------------------------------
