@@ -49,7 +49,7 @@ dates:
 
   - name: Camera Ready Deadline
     date: 22 Aug 2021
-    occurred: false
+    occurred: true
     visible: true
 
 # Dates that are not visible can still be used for templating purposes.
