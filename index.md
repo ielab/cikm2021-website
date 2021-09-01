@@ -2,7 +2,12 @@
 layout: homepage
 ---
 
-<div class="alert alert-success" role="alert"><b>Registration is now live!</b> <a href="/registration">click here</a> to register to attend CIKM 2021.</div> 
+<div class="alert alert-success" role="alert">
+<center>
+<p><b>Registration is now live!</b> <a href="/registration">click here</a> to register to attend CIKM 2021.</p>
+<p>Registrations close on the <b>25th October</b>.</p>
+</center>
+</div> 
 
 CIKM 2021 will take place online in a lively and interactive manner.
 Keep posted for more information, and we hope that you all stay safe in these exceptional circumstances.
