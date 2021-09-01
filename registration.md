@@ -8,7 +8,7 @@ The **30th ACM International Conference on Information and Knowledge Management 
 <p>Hosted online from Gold Coast, Queensland, Australia</p>
 <p>Email: <a href="mailto:cikm21@uq.edu.au">cikm21@uq.edu.au</a></p>
 
-<a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a>
+<!-- <a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a> -->
 </center> 
 
 ### Registration Fees
@@ -92,7 +92,7 @@ To receive the grant, students need to apply [here](https://unc.az1.qualtrics.co
 Please register through the online registration system. Methods of payment accepted include credit card and wire transfer. Any queries email: [cikm21@uq.edu.au](mailto:cikm21@uq.edu.au)
  
 <center>
-<a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a>
+<!-- <a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a> -->
 </center> 
 
 ### CIKM 2021 Terms & Conditions
@@ -132,5 +132,5 @@ To join SIGWEB as a member, please visit this [link](https://www.sigweb.org/abou
 For any registration-related issues or queries please send an email to: [cikm21@uq.edu.au](mailto:cikm21@uq.edu.au)
 
 <center>
-<a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a>
+<!-- <a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a> -->
 </center> 
