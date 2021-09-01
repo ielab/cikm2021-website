@@ -129,7 +129,7 @@ To join SIGWEB as a member, please visit this [link](https://www.sigweb.org/abou
 
 ### Contact Information
 
-For any registration-related issues or queries please send an email to: [registration@cikm21.org](mailto:registration@cikm21.org)
+For any registration-related issues or queries please send an email to: [cikm21@uq.edu.au](mailto:cikm21@uq.edu.au)
 
 <center>
 <a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a>
