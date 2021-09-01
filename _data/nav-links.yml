@@ -21,12 +21,12 @@ links:
   - name: Programme
     url: /programme
     dropdown:
+      - name: Keynote Speakers
+        url: /programme/keynote-speakers
       - name: Workshops
         url: /programme/workshops
-#      - name: Tutorials
-#        url: /programme/tutorials
-#      - name: Keynote Speakers
-#        url: /programme/keynote-speakers
+  #      - name: Tutorials
+  #        url: /programme/tutorials
 
   - name: Accepted Papers
     url: /accepted-papers
