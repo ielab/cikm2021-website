@@ -20,7 +20,7 @@ The **30th ACM International Conference on Information and Knowledge Management 
 <thead>
 <tr class="info">
 <th>Category - Author</th>
-<th>Author Registration (Until 15th September)</th>
+<th>Author Registration<br/>(Until 15th September)</th>
 </tr>
 </thead>
 <tbody>
@@ -33,15 +33,21 @@ The **30th ACM International Conference on Information and Knowledge Management 
     <td>Author Non-Member</td>
     <td>$329</td>
 </tr>
+</tbody>
+<thead>
+<tr class="info">
+<th>Category – Workshop Author</th>
+<th> Workshop Author Registration<br/>(Until 25 October)</th>
+</tr>
+</thead>
 <tr>
     <td>AUTHOR AnalytiCup or Workshop</td>
     <td>$49</td>
 </tr>
-</tbody>
 <thead>
 <tr class="info">
 <th>Category - Attendee</th>
-<th>Attendee Registration (Until 25 October)
+<th>Attendee Registration<br/>(Until 25 October)
 </th>
 </tr>
 </thead>
