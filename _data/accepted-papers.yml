@@ -9765,27 +9765,6 @@ resource-papers:
   - Dense Retrieval
   subtitle: null
   title: 'PyTerrier: Declarative Experimentation in Python from BM25 to Dense Retrieval'
-- acm_id: rsfp3132
-  authors:
-  - affiliation: Alibaba Group
-    country: China
-    name: Liangwei Li
-  - affiliation: Alibaba Group
-    country: China
-    name: Chenwei Weng
-  - affiliation: Alibaba Group
-    country: China
-    name: Chengfu Huo
-  - affiliation: Alibaba Group
-    country: China
-    name: Weijun Ren
-  keywords:
-  - Edge Computing
-  - Deep Learning
-  - Transformer
-  - E-commerce
-  subtitle: null
-  title: 'ECEdgeNet: A Large Scale Edge Computing Dataset in the Field of E-commerce'
 - acm_id: rsfp3136
   authors:
   - affiliation: "Universidade de S\xE3o Paulo"
