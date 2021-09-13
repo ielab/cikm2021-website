@@ -715,9 +715,6 @@ applied-papers:
   - affiliation: Xi'an Jiaotong University
     country: China
     name: Shangbin Feng
-  - affiliation: School of Computer Science and Technology, Xi'an Jiaotong University
-    country: China
-    name: Minnan Luo
   - affiliation: Xi'an Jiaotong University
     country: China
     name: Herun Wan
@@ -727,9 +724,9 @@ applied-papers:
   - affiliation: University of Virginia
     country: USA
     name: Jundong Li
-  - affiliation: School of Computer Science and Technology, Xi'an Jiaotong University
+  - affiliation: Xi'an Jiaotong University
     country: China
-    name: Qinghua Zheng
+    name: Minnan Luo
   keywords:
   - Twitter Bot Detection
   - Social Media
@@ -9581,11 +9578,10 @@ resource-papers:
     Prediction'
 - acm_id: rsfp3060
   authors:
-  - affiliation: Center for Intelligent Understanding of Communication Content, State
-      Key Laboratory of Communication Content Cognition
+  - affiliation: Xi'an Jiaotong University
     country: China
     name: Shangbin Feng
-  - affiliation: School of Computer Science and Technology, Xi'an Jiaotong University
+  - affiliation: Xi'an Jiaotong University
     country: China
     name: Herun Wan
   - affiliation: Xi'an Jiaotong University
@@ -9594,11 +9590,7 @@ resource-papers:
   - affiliation: University of Virginia
     country: USA
     name: Jundong Li
-  - affiliation: "MOE Key Lab for Intelligent Networks and Network Security, Xi\u2019\
-      an Jiaotong University"
-    country: China
-    name: Rui Li
-  - affiliation: School of Computer Science and Technology, Xi'an Jiaotong University
+  - affiliation: Xi'an Jiaotong University
     country: China
     name: Minnan Luo
   keywords:
