@@ -72,7 +72,7 @@ To join SIGWEB as a member, please visit [this link](https://www.sigweb.org/abou
  - Admission to all sessions, including workshops, tutorials, and AnalytiCup
  - Access to digital copy of the proceedings
  - Gift: CIKM-21 polo shirt. Register by the early deadline of 15 September to get the shirt before the conference
- 
+
 ### Author Registration Policy
 
  - All author registrations should be received by 15 September in order to have the papers included in the proceedings. Only papers covered by a registration will be included in the conference proceedings.
@@ -80,23 +80,10 @@ To join SIGWEB as a member, please visit [this link](https://www.sigweb.org/abou
 
 <div class="alert alert-danger" role="alert">Each accepted paper must have an author registration fee paid. For example, if you are the solo author of two papers, you should pay the registration fee twice. On the other hand, if you are an author of two papers, each with other co-author, you may decide to register yourself for one of the papers, and one of your co-authors for the other paper. </div> 
 
-
-### SIGIR Grant for Student Authors
-
-For CIKM 2021, SIGIR is pleased to cover the registration costs for student authors who are presenting at the conference. To be eligible, the student must:
-
- - Be a SIGIR member (the cost is US$15 per year). To join SIGIR as a member, please visit [this link](https://sigir.org/general-information/membership/).
- - Register as an author of a main conference paper (i.e., full, applied, resource, short, and demo are all included).
- - Be the main presenter of the paper at the conference.
- 
-The grant does not cover registration for student authors presenting at a workshop.
-
-To receive the grant, students need to apply [here](https://unc.az1.qualtrics.com/jfe/form/SV_eJt5lVcDsoN9M46?conference=CIKM2021). 
-
 ### Registration Methods
 
 Please register through the online registration system. Methods of payment accepted include credit card and wire transfer. Any queries email: [cikm21@uq.edu.au](mailto:cikm21@uq.edu.au)
- 
+
 <center>
 <a href="https://cvent.me/av1nnD" class="btn btn-primary btn-lg">Register</a>
 </center> 
@@ -106,7 +93,7 @@ Please register through the online registration system. Methods of payment accep
  - No booking will be confirmed until the registration payment is received in full.
  - CIKM 2021 Committee reserves the right to alter any of the program or other arrangements for this conference; including cancellation or postponement of the conference should unforeseen circumstances require it. The organisers accept no responsibility for resulting costs or inconvenience to participants in this case.
  - It is the responsibility of the author or participant to ensure that adequate internet connectivity is available at their place of viewing for the duration of the online conference.
- 
+
 ### Cancellation Policy
 
 Requests for cancellations or changes must be sent in writing to the registration desk: [cikm21@uq.edu.au](mailto:cikm21@uq.edu.au)
@@ -120,11 +107,11 @@ If you cancel your registration:
 ### ACM Policies
 
 Click to review [ACM's Privacy Policy](https://www.acm.org/about-acm/privacy-policy).  In participating, I acknowledge [ACM's Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at ACM Activities and agree that behaviour such as the following will constitute grounds for actions against me:
- 
+
  - Abusive action directed at an individual, such as threats intimidation, or bullying
  - Racism, homophobia, and other behaviour that discriminates against a group or class of people
  - Sexual harassment of any kind, such as unwelcome sexual advances or words/actions of a sexual nature
-  
+
 If you are involved in or witness any such incident, please inform the event organizers. 
 
 ### ACM Professional Membership
