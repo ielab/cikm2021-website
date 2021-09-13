@@ -1,0 +1,26 @@
+speakers:
+
+  - name: Leman Akoglu
+    title: "Anomaly Mining: Past, Present and Future"
+    website: "https://www.andrew.cmu.edu/user/lakoglu/"
+    organisation: Carnegie Mellon University
+    image: /img/keynote/lemanakoglu.jpg
+    abstract_link: /dl/keynote/kn0021-akogluSC.pdf
+    bio: "Leman Akoglu is the Heinz College Dean's Associate Professor. Her research broadly spans machine learning and data mining, and focuses on graph mining, pattern discovery and anomaly detection, with applications to fraud and event detection in many real-world domains. Dr. Akoglu is a recipient of the SDM/IBM Early Career Data Mining Research Award (2020), National Science Foundation CAREER Award (2015) and the US Army Research Office Young Investigator Award (2013). Her research has won several publication awards, most recently The Most Influential Paper (PAKDD 2020), Best Research Paper (SIAM SDM 2019), and Best Student Machine Learning Paper Runner-up (ECML PKDD 2018). Her research has been supported by the NSF, US ARO, DARPA, Adobe, Facebook, Northrop Grumman, PNC Bank, and PwC."
+    abstract: "Anomaly mining finds high-stakes applications in various real-world domains such as cybersecurity, finance, environmental monitoring, to name a few. Therefore, it has been studied widely and a large body of detection techniques exists. Today, many real-world settings necessitate detection at speed for streaming/evolving data, and/or detection at scale for massive datasets stored in a distributed environment. Despite the plethora of detection algorithms, selecting an algorithm to use on a new task as well as setting the values for its hyperparameter(s), known as the model selection problem, is an open challenge for unsupervised anomaly detection. This issue is only to be exacerbated with the recent advent of detectors based on deep neural networks that exhibit a long list of hyperparameters. The challenge stems from two main factors: the lack of labeled data and the lack of a widely accepted anomaly loss function. Toward automation, one can explore internal evaluation strategies, or capitalize on the experience from historical detection tasks through meta-learning. However, the problem remains far from solved. In deployment, many real-world use cases of anomaly detection require the flagged anomalies from a detector to be screened or audited by a human expert, typically for vetting purposes, where taking automatic actions can be costly (e.g. directly charging a flagged medical provider with fraud). While a vast majority of the literature focuses on novel detection algorithms, as humans are often involved with(in) the process, anomaly mining also concerns various human-centric problems that are beyond mere detection, namely explanation, human interaction, and fairness.  These aspects of the field are under-studied and pose many open challenges."
+
+  - name: Mark Johnson
+    website: "http://web.science.mq.edu.au/~mjohnson/"
+    organisation: Oracle
+    image:
+    abstract_link:
+    bio:
+    abstract:
+
+  - name: Himabindu Lakkaraju
+    website: "https://himalakkaraju.github.io/"
+    organisation: Harvard University
+    image:
+    abstract_link:
+    bio:
+    abstract:
