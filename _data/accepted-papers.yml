@@ -712,14 +712,13 @@ applied-papers:
     Depression Screening'
 - acm_id: afp0978
   authors:
-  - affiliation: Center for Intelligent Understanding of Communication Content, State
-      Key Laboratory of Communication Content Cognition
+  - affiliation: Xi'an Jiaotong University
     country: China
     name: Shangbin Feng
   - affiliation: School of Computer Science and Technology, Xi'an Jiaotong University
     country: China
     name: Minnan Luo
-  - affiliation: School of Computer Science and Technology, Xi'an Jiaotong University
+  - affiliation: Xi'an Jiaotong University
     country: China
     name: Herun Wan
   - affiliation: Xi'an Jiaotong University
@@ -7700,7 +7699,7 @@ full-papers:
     name: Alexandru Petrescu
   - affiliation: University Politehnica of Bucharest
     country: Romania
-    name: Ciprian-Octavian Truic?
+    name: Ciprian-Octavian Truică
   - affiliation: University Politehnica of Bucharest
     country: Romania
     name: Elena-Simona Apostol
