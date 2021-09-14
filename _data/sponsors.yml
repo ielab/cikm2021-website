@@ -8,6 +8,12 @@
 
 tiers:
 
+  - level: Silver Tier
+    sponsors:
+      - name: Google Research
+        img_url: /img/google.png
+        url: https://research.google/
+
   - level: Bronze Tier
     sponsors:
       - name: The University of Queensland
