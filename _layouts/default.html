@@ -94,27 +94,9 @@
         </div><!--/.col-xs-12.col-sm-9-->
 
         <div class="col-xs-6 col-sm-4 sidebar-offcanvas" id="sidebar">
-            <h3>Important Dates</h3>
-            <small><em>All deadlines are at 11:59pm in the <a href="https://www.timeanddate.com/time/zones/aoe">Anywhere on Earth</a> timezone.</em></small>
-            <!-- <table class="table table-hover"> -->
-            <table class="table table-condensed">
-                <tbody>
-                {%- for date in site.data.important-dates.dates -%}
-                {%- if date.visible -%}
-                <tr>
-                    <td>{{- date.name -}}</td>
-                    <td style="text-align:right;">
-                        {%- if date.occurred -%}
-                        <del>{{- date.date -}}</del>
-                        {%- else -%}
-                        {{- date.date -}}
-                        {%- endif -%}
-                    </td>
-                </tr>
-                {%- endif -%}
-                {%- endfor -%}
-                </tbody>
-            </table>
+            {% if site.show_important_dates %}
+            {% include important-dates.html %}
+            {% endif %}
 
 <!--            <h3>Latest Tweets by @{{- site.twitter_username -}}</h3>-->
 

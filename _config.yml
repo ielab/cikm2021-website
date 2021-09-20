@@ -33,6 +33,8 @@ conf_subtitle: 30th ACM International Conference on Information and Knowledge Ma
 conf_location: Online
 conf_date: 1-5 November 2021
 
+show_important_dates: False
+
 # Build settings
 plugins:
   - jekyll-feed
