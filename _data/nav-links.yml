@@ -10,71 +10,77 @@ links:
   - name: Code of Conduct
     url: https://www.acm.org/about-acm/policy-against-harassment
 
-  - name: "<b>Call for Sponsors</b>"
-    url: /call-for-sponsors
-
   # Comment/uncomment these menu items depending on conf dates.
 
   - name: Registration
     url: /registration
+
+  - name: Information for Authors
+    url: /information-for-authors
+
+  - name: Information for Attendees
+    url: /information-for-attendees
 
   - name: Programme
     url: /programme
     dropdown:
       - name: Keynote Speakers
         url: /programme/keynote-speakers
+      - name: Accepted Papers
+        url: /accepted-papers
       - name: Workshops
         url: /programme/workshops
   #      - name: Tutorials
   #        url: /programme/tutorials
-
-  - name: Accepted Papers
-    url: /accepted-papers
-    dropdown:
+#    url: /accepted-papers
+#    dropdown:
 #      - name: Best Paper Nominees
 #        url: /accepted-papers/best-paper-nominees
-      - name: Full Papers
-        url: /accepted-papers/full
-      - name: Short Papers
-        url: /accepted-papers/short
-      - name: Applied Research Papers
-        url: /accepted-papers/applied
-      - name: Resource Track Papers
-        url: /accepted-papers/resource
-      - name: Demos
-        url: /accepted-papers/demos
-      - name: Tutorials
-        url: /accepted-papers/tutorials
-      - name: Workshops
-        url: /programme/workshops
+#      - name: Full Papers
+#        url: /accepted-papers/full
+#      - name: Short Papers
+#        url: /accepted-papers/short
+#      - name: Applied Research Papers
+#        url: /accepted-papers/applied
+#      - name: Resource Track Papers
+#        url: /accepted-papers/resource
+#      - name: Demos
+#        url: /accepted-papers/demos
+#      - name: Tutorials
+#        url: /accepted-papers/tutorials
+#      - name: Workshops
+#        url: /programme/workshops
 #  - name: Proceedings
 #    url: /proceedings
 
   - name: Analyticup
     url: /analyticup
 
-  - name: Submit
-    url: /cfp
-    dropdown:
-      - name: FAQ
-        url: /cfp/faq
-      - name: Full Papers
-        url: /cfp/full-papers
-      - name: Applied Papers
-        url: /cfp/applied-papers
-      - name: Resource Papers
-        url: /cfp/resource-papers
-      - name: Short Papers
-        url: /cfp/short-papers
-      - name: Demonstration Papers
-        url: /cfp/demo-papers
-      - name: Tutorials
-        url: /cfp/tutorials
-      - name: Workshops
-        url: /cfp/workshops
+#  - name: Submit
+#    url: /cfp
+#    dropdown:
+#      - name: FAQ
+#        url: /cfp/faq
+#      - name: Full Papers
+#        url: /cfp/full-papers
+#      - name: Applied Papers
+#        url: /cfp/applied-papers
+#      - name: Resource Papers
+#        url: /cfp/resource-papers
+#      - name: Short Papers
+#        url: /cfp/short-papers
+#      - name: Demonstration Papers
+#        url: /cfp/demo-papers
+#      - name: Tutorials
+#        url: /cfp/tutorials
+#      - name: Workshops
+#        url: /cfp/workshops
 
   # These menu items should not be commented out.
   - name: Organisation
     url: /committee
   - name: Sponsors
     url: /sponsors
+    dropdown:
+    - name: Call for Sponsors
+      url: /call-for-sponsors

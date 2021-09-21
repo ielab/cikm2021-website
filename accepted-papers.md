@@ -2,6 +2,18 @@
 layout: default
 ---
 
+# Accepted Papers
+
+## Quick Links
+
+ - [Full Papers](/accepted-papers/full)
+ - [Applied Papers](/accepted-papers/applied)
+ - [Short Papers](/accepted-papers/short)
+ - [Demo Papers](/accepted-papers/demos)
+ - [Resource Papers](/accepted-papers/resource)
+ - [Tutorials](/accepted-papers/tutorials)
+ - [Workshops](/programme/workshops)
+
 <h2>Full Papers</h2>
 {% include papers.html papers=site.data.accepted-papers.full-papers %}
 
