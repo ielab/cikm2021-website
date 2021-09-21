@@ -2,9 +2,9 @@
 
 ## Video Information
 
-OPTIONAL:  **Deadline of 3 October** is for an optional video for the ACM Digital Library as part of the CIKM-21 Proceedings. The videos sent to ACM are meant for long-term / permanent preservation, like the camera-ready PDF authors submitted to ACM in August.
+OPTIONAL:  [**Deadline of 3 October**](http://www.scomminc.com/pp/acmsig/CIKM-present-video.htm) is for an optional video for the ACM Digital Library as part of the CIKM-21 Proceedings. [The videos sent to ACM](http://www.scomminc.com/pp/acmsig/CIKM-present-video.htm) are meant for long-term / permanent preservation, like the camera-ready PDF authors submitted to ACM in August.
 
-MANDATORY for ALL TRACKS except workshops and tutorials: The **deadline of 27 September** is for a video of a presentation for the conference. It will be played during the conference 2-4 November, and will be available for attendees to view 2 weeks before and 2 weeks after the conference. The presentation video is only meant for consumption by delegates during the conference.
+MANDATORY for ALL TRACKS except workshops and tutorials: The [**deadline of 27 September**](https://docs.google.com/presentation/d/17HrgWq5Snva0Kr5dy8nJ3ItyTwXdV6a4joy5lzxknqo/) is for a video of a presentation for the conference. It will be played during the conference 2-4 November, and will be available for attendees to view 2 weeks before and 2 weeks after the conference. The presentation video is only meant for consumption by delegates during the conference.
 
 Authors are welcome to submit the same video for the two different purposes though please carefully note the duration restrictions for online conference presentations:
 
