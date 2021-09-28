@@ -1,7 +1,7 @@
 ---
 title: "MODIMO: Workshop on Multi-Omics Data Integration for Modelling Biological Systems "
 website: "https://sites.google.com/view/modimo"
-date: "Monday"
+date_order: 0
 organisers:
  - name: "Marco Beccuti"
    affiliation: "University of Turin, Italy"

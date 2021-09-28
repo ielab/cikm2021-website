@@ -1,10 +1,5 @@
 <ul>
 {% for paper in include.papers %}
-    <li>
-        <b>{{-paper.title-}}</b> &dash;
-        {% for author in paper.authors %}
-        {{ author.name }} <span style="color:#999;">({{ author.affiliation }}, {{ author.country }})</span>{% if forloop.last %}{% else %},{% endif %}
-        {% endfor %}
-    </li>
+    <li>{% include paper.html paper=paper %}</li>
 {% endfor %}
 </ul>

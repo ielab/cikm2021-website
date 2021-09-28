@@ -1,23 +1,25 @@
----
-layout: default
----
-
 # Accepted Workshops
 
-####Monday 1st of November
+{% assign days = "" | split: "," %}
+{% for i in (0..6) %}
+    {% for workshop in site.workshops %}
+        {% if workshop.date_order == i %}
+            {% if days contains i %}{% else %}
+            {% assign days = days | push: i %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
 
-{%for workshop in site.workshops%}
-
-{%if workshop.date = Monday%}
-
+{% for day in days %}
+## {% include day_of_week.html day=day %}
+{% for workshop in site.workshops %}
+{% if workshop.date_order == day %}
  - [{{workshop.title}}]({{workshop.url}})
-{%endif%}{%endfor%}
+{% endif %}
+{% endfor %}
+{% endfor %}
 
-####Friday 5th of November
 
-{%for workshop in site.workshops%}
 
-{%if workshop.date = Friday%}
 
- - [{{workshop.title}}]({{workshop.url}})
-   {%endif%}{%endfor%}

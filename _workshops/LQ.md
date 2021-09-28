@@ -1,7 +1,7 @@
 ---
 title: "Learning to Quantify: Methods and Applications (LQ 2021)"
 website: "https://cikmlq2021.github.io/"
-date: "Friday"
+date_order: 4
 organisers:
  - name: "Juan José del Coz"
    affiliation: "Artificial Intelligence Center University of Oviedo, Spain"

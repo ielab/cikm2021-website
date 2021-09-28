@@ -1,7 +1,7 @@
 ---
 title: "Fourth Workshop on Knowledge-driven Analytics and Systems Impacting Human Quality of Life (KDAH-CIKM-2021)"
 website: "https://sites.google.com/view/kdah2021/home"
-date: "Friday"
+date_order: 4
 organisers:
  - name: "Leandro Marin"
    affiliation: "University of Murcia, Spain"

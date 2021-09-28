@@ -1,7 +1,7 @@
 ---
 title: "International Workshop on Privacy, Security and Trust in Computational Intelligence (PSTCI2021)"
-date: "Friday"
 website: "https://xuyun-zhang.github.io/pstci2021/"
+date_order: 4
 organisers:
  - name: "Guanfeng Liu"
    affiliation: "Macquarie University, Australia"
