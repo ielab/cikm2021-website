@@ -1,6 +1,7 @@
 ---
 title: "Second International Workshop on Learning During Web Search (IWILDS’21)"
 website: "https://iwilds2021.wordpress.com/"
+date_order: 0
 organisers:
  - name: "Irina Brich"
    affiliation: "IWM - Leibniz-Institut für Wissensmedien, Germany"

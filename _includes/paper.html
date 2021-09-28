@@ -1,0 +1,4 @@
+<b>{{-include.paper.title-}}</b> &dash;
+{% for author in include.paper.authors %}
+{{ author.name }} <span style="color:#999;">({{ author.affiliation }}, {{ author.country }})</span>{% if forloop.last %}{% else %},{% endif %}
+{% endfor %}

@@ -1,6 +1,7 @@
 ---
 title: "1<sup>st</sup> Workshop on Knowledge Injection in Neural Networks (KINN)"
 website: "https://sites.google.com/view/kinn2021/home"
+date_order: 0
 organisers:
  - name: "Vasudev Lal"
    affiliation: "Intel Labs, USA"
