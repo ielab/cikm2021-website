@@ -1,6 +1,7 @@
 ---
 title: "1st Workshop on Complex Data Challenges in Earth Observation (CDCEO)"
 website: "https://www.iarai.ac.at/events/workshop-on-complex-data-challenges-in-earth-observation/"
+date: "Monday"
 organisers:
  - name: "Aleksandra Gruca"
    affiliation: "Silesian University of Technology, Poland"

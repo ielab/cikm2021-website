@@ -1,5 +1,6 @@
 ---
 title: "International Workshop on Privacy, Security and Trust in Computational Intelligence (PSTCI2021)"
+date: "Friday"
 website: "https://xuyun-zhang.github.io/pstci2021/"
 organisers:
  - name: "Guanfeng Liu"
