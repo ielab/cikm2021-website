@@ -31,7 +31,7 @@ chairs:
         img: /img/oc/LouiqaRaschid.JPG
       - name: Lina Yao
         org: University of New South Wales, Australia
-        img:
+        img: /img/oc/lina_yao.jpg
 
   - name: Applied Research Track Chairs
     members:
@@ -58,7 +58,7 @@ chairs:
         img: /img/oc/ferro.jpg
       - name: Zhenhui Jessie Li
         org: Pennsylvania State University, USA
-        img:
+        img: /img/oc/zhenhui_li.png
 
   - name: Workshop Chairs
     members:
@@ -73,7 +73,7 @@ chairs:
     members:
       - name: Mohamed Sharaf
         org: United Arab Emirates University, UAE
-        img:
+        img: /img/oc/mohamed_sharaf.jpg
       - name: Min Zhang
         org: Tsinghua University, China
         img: /img/oc/MinZhang-photo.jpg
