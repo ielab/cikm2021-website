@@ -10325,29 +10325,6 @@ short-papers:
   - node classification
   subtitle: null
   title: Graph-based Semi-Supervised Learning by Strengthening Local Label Consistency
-- acm_id: rgsp1440
-  authors:
-  - affiliation: Beihang University
-    country: China
-    name: Chaozhuo Li
-  - affiliation: Central South University
-    country: China
-    name: Senzhang Wang
-  - affiliation: Jinan University
-    country: China
-    name: Feiran Huang
-  - affiliation: Beijing Foreign Studies University
-    country: China
-    name: Jie Xu
-  - affiliation: University of Illinois at Chicago
-    country: USA
-    name: Philip Yu
-  keywords:
-  - social identity linkage
-  - social network analysis
-  - deep learning
-  subtitle: null
-  title: Hubness-aware User Identity Linkage
 - acm_id: rgsp2011
   authors:
   - affiliation: RMIT University
