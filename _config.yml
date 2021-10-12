@@ -44,6 +44,9 @@ collections:
   workshops:
     output: true
     permalink: /programme/workshops/:path
+  tutorials:
+    output: true
+    permalink: /programme/tutorials/:path
 
 defaults:
   - scope:
@@ -51,6 +54,11 @@ defaults:
       type: "workshops"
     values:
       layout: workshops
+  - scope:
+      path: ""
+      type: "tutorials"
+    values:
+      layout: tutorials
 
 # Exclude from processing.
 # The following items will not be processed, by default.

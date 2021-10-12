@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{% for tutorial in site.data.accepted-papers.tutorials %}
+    {% if tutorial.acm_id == page.acm_id %}
+        {% assign accepted_tutorial = tutorial %}
+    {% endif %}
+{% endfor %}
+
+<h1>{{accepted_tutorial.title}}</h1>
+{% if page.website %}
+<p><b>Tutorial Website <a href="{{page.website}}">{{page.website}}</a></b></p>
+{% else %}
+<p><b>Tutorial Website to come soon.</b></p>
+{% endif %}
+
+{% if page.schedule %}
+<p><b>Tutorial Schedule</b></p>
+<ul>
+{% for event in page.schedule %}
+    <li>{{ event }}</li>
+{% endfor %}
+</ul>
+{% else %}
+<p><b>Tutorial schedule to come soon.</b></p>
+{% endif %}
+
+
+{% assign content = page.content | strip_newlines %}
+{% if content != "" %}
+<p><b>Tutorial Description</b></p>
+<p>{{content}}</p>
+{% endif %}
+
+<p><b>Tutorial Organisers</b></p>
+<ul>
+    {%for author in accepted_tutorial.authors %}
+    <li style="list-style:none;">
+        {% if page.author_imgs[forloop.index0] %}
+        <img style="width:120px" src="{{page.author_imgs[forloop.index0]}}" alt="Head shot of {{author.name}}">
+        {% endif %}
+        <div><b>{{author.name}}</b></div>
+        <div><em>{{author.affiliation}}</em></div>
+        <div>{{page.author_bios[forloop.index0]}}</div>
+    </li>
+    {%endfor%}
+    {%for author in page.additional_organisers %}
+    <li style="list-style:none;">
+        {% if author.img %}
+        <img style="width:120px" src="{{author.img}}" alt="Head shot of {{author.name}}">
+        {% endif %}
+        <div><b>{{author.name}}</b></div>
+        <div><em>{{author.affiliation}}</em></div>
+        <div>{{author.bio}}</div>
+    </li>
+    {%endfor%}
+</ul>
+<p><b>Tutorial Abstract</b></p>
+<p>{{page.abstract}}</p>
+

@@ -1,4 +1,6 @@
-# Accepted Workshops
+# Workshops Programme
+
+For more information about a workshop, please click on a relevant link below.
 
 {% assign days = "" | split: "," %}
 {% for i in (0..6) %}

@@ -30,26 +30,8 @@ links:
         url: /accepted-papers
       - name: Workshops
         url: /programme/workshops
-  #      - name: Tutorials
-  #        url: /programme/tutorials
-#    url: /accepted-papers
-#    dropdown:
-#      - name: Best Paper Nominees
-#        url: /accepted-papers/best-paper-nominees
-#      - name: Full Papers
-#        url: /accepted-papers/full
-#      - name: Short Papers
-#        url: /accepted-papers/short
-#      - name: Applied Research Papers
-#        url: /accepted-papers/applied
-#      - name: Resource Track Papers
-#        url: /accepted-papers/resource
-#      - name: Demos
-#        url: /accepted-papers/demos
-#      - name: Tutorials
-#        url: /accepted-papers/tutorials
-#      - name: Workshops
-#        url: /programme/workshops
+      - name: Tutorials
+        url: /programme/tutorials
 #  - name: Proceedings
 #    url: /proceedings
 
