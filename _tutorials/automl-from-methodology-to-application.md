@@ -12,7 +12,7 @@ additional_organisers:
  - name: Rong Zhu
    img: "/img/tutorials/automl/Rong Zhu.png"
    affiliation: Alibaba Group
-   bio: Dr.  is a research scientist in the Data Analtics and Intelligence Lab (DAIL) at Alibaba Group. He obtained the Ph.D. and B.S. degree from Harbin Institute of Technology in 2019 and 2013, respectively. His research focuses on data management and analytics, including graph data mining, graph processing system and intelligent databases. He is nominated the China Computer Federation (CCF) Outstanding Doctoral Dissertation Award in 2020. He has published more than 20 papers in top-tier conferences and journals, including VLDB Journal, VLDB, TKDE, ICDE, ICLR and etc, and served as PC members for KDD, CIKM, SDM and etc.
+   bio: Dr. Rong Zhu is a research scientist in the Data Analtics and Intelligence Lab (DAIL) at Alibaba Group. He obtained the Ph.D. and B.S. degree from Harbin Institute of Technology in 2019 and 2013, respectively. His research focuses on data management and analytics, including graph data mining, graph processing system and intelligent databases. He is nominated the China Computer Federation (CCF) Outstanding Doctoral Dissertation Award in 2020. He has published more than 20 papers in top-tier conferences and journals, including VLDB Journal, VLDB, TKDE, ICDE, ICLR and etc, and served as PC members for KDD, CIKM, SDM and etc.
 author_imgs:
  - "/img/tutorials/automl/Yaliang Li.png"
  - "/img/tutorials/automl/Zhen Wang.png"
@@ -21,6 +21,7 @@ author_imgs:
  - "/img/tutorials/automl/Kai Zeng.png"
  - "/img/tutorials/automl/Ce Zhang.png"
 schedule:
+ - times in UTC
  - 5:00AM–5:10AM Welcome from Organizers (by Yaliang Li)
  - 5:10AM–5:40AM Hyperparameter Optimization (HPO) (by Yaliang Li)
  - 5:40AM–6:15AM Neural Architecture Search (NAS) (by Zhen Wang)

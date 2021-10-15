@@ -1,7 +1,47 @@
 ---
 acm_id: tt3193
-website:
+website: "https://github.com/terrier-org/cikm2021tutorial"
 author_bios:
+ - Dr Craig Macdonald (m) (<a href='http://www.dcs.gla.ac.uk/~craigm/'>http://www.dcs.gla.ac.uk/~craigm/</a>) is a Senior Lecturer within the Information Retrieval Group at the University of Glasgow. He has co-authored over 230 publications in information retrieval, including on efficient and effective query processing, as well as on the practical deployments of learning-to-rank approaches. He has received best paper awards at both ECIR (2014) and SIGIR (2015). Craig has been joint coordinator of the TREC Blog, Microblog and Web tracks, is lead maintainer of the Terrier.org information retrieval platform and the new PyTerrier platform. He has presented tutorials at ECIR 2008, ECIR 2017, SIGIR 2018 and ECIR 2021. He lectures on Database Systems, Recommender Systems and Information Retrieval at the University of Glasgow, to 1st year- and BSc/Master-level cohorts, respectively.
+ - "Dr Nicola Tonellotto (m) (<a href='http://tonellotto.github.io/'>http://tonellotto.github.io/</a>) is assistant professor at the Information Engineering Department of the University of Pisa since 2019. From 2002 to 2019 he was researcher at the Information Science and Technologies Institute of the National Research Council of Italy. His main research interests include Cloud Computing, Web Search, Information Retrieval and Deep Learning. He co-authored more than 60 papers on these topics in peer reviewed international journals and conferences. He was co-recipient of the ACM's SIGIR 2015 Best Paper Award for the paper entitled \"QuickScorer: a Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees\". He taught or teaches BSc, MSc and PhD courses on computer architectures, cloud computing, distributed enabling platforms and information retrieval. He was also a co-presenter of the previous edition of this tutorial at ECIR 2021."
+ - "Dr Sean MacAvaney (m) (<a href='https://macavaney.us/'>https://macavaney.us/</a>) is a post-doctoral research associate in the Information Retrieval Group at the University of Glasgow, working with Iadh Ounis and Craig Macdonald. He received his PhD from the Information Retrieval Lab at Georgetown University, under the supervision of  Nazli Goharian and Ophir Frieder. His dissertation research involves using deep neural networks efficiently and effectively for document and passage ranking. He has co-authored more than ten peer-reviewed papers on this topic, which have received over 500 citation in the last 4 years. He was the recipient of the 2020 Allen Institute for AI Intern of the Year Award for his work on neural IR and was a co-contributor to the previous edition of this tutorial at ECIR 2021."
+author_imgs:
+ - /img/tutorials/terrier/craig.jpeg
+ - /img/tutorials/terrier/nicola.jpg
+ - /img/tutorials/terrier/sean.jpeg
+schedule:
+ - Times in UTC+1 (UK Time)
+ - 09:00-10:00 	    part 1 slides 	    (live) 	 
+ - 10:00-10.30 	    part 1 lab 	        (live) 	 
+ - 10:30-11:00 	    coffee 		                 
+ - 11:00-12:00 	    part 2 slides 	    (live) 	 
+ - 12:00-12.30 	    part2 lab 	        (live) 	 
+ - 12:30-13:30 	lunch 		                 
+ - 13:30-14:30 	part 3 slides 	    (live) 	 
+ - 14:30-15:00 	    part 3 lab      	(live) 	 
+ - 15:00-15:30 	    coffee 		                 
+ - 15:30-16:30 	part 4 slides    	(live) 	 
+ - 16:30-17:00 	    part 4 lab 	        (live) 	 
+ - REPLAY 		 				
+ - 18:00-19:00 	    part 1 slides 	    (recording)
+ - 19:00-19:30 	    part 1 lab 	        (live) 	 
+ - 19:30-20:00 	    coffee 		                 
+ - 20:00-21:00 	    part 2 slides 	    (recording)
+ - 21:00-21:30 	    part2 lab 	        (live) 	 
+ - 21:30-22:30 	lunch 		                 
+ - 22:30-23:30 	part 3 slides 	    (recording)
+ - 23:30-24:00 	    part 3 lab 	        (live) 	 
+ - 24:00-24:30 	    coffee 		                 
+ - 24:30-25:30 	part 4 slides 	    (recording)
+ - 25:30-26:00 	    part 4 lab 	        (live) 	 
 abstract: "The task of adhoc search is undergoing a renaissance, sparked by advances in natural language processing. In particular, pre-trained contextualized language models (such as BERT and T5) have consistently shown to be a highly-effective foundation upon which to build ranking models. These models are equipped with a far deeper understanding of language than the capabilities of bag-of-words (BoW) models. Applying these techniques to new tasks can be tricky, however, as they require knowledge of deep learning frameworks, and significant scripting and data munging.In this full-day tutorial, we build up from foundational retrieval principles to the latest neural ranking techniques. We first provide foundational background on classical bag-of-words methods. We then show how feature-based Learning to Rank methods can be used to re-rank these results. Finally, we cover contemporary approaches, such as BERT, doc2query, and dense retrieval. Throughout the process, we demonstrate how these can be easily experimentally applied to new search tasks in a declarative style of conducting experiments exemplified by the PyTerrier and OpenNIR search toolkits. This tutorial is interactive in nature for participants. It is broken into sessions, each of which mixes explanatory presentation with hands-on activities using prepared Jupyter notebooks running on the Google Colab platform. These activities give participants experience applying the techniques covered in the tutorial on the TREC COVID benchmark test collection.The tutorial is broken into four sessions. In the first session, we cover foundational retrieval concepts, including inverted indexing, retrieval, and scoring. We also demonstrate how evaluation can be conducted in a declarative fashion within PyTerrier, encapsulating ideas such as significance testing, and multiple correction, as promoted as IR best practices. In the second session, we build upon the core retrieval concepts to demonstrate how to re-write queries (e.g., using RM3) and re-rank documents (e.g., using learning-to-rank). In the third session, we introduce contextualized language models, such as BERT and show how they can be utilized for document re-ranking (e.g, using Vanilla/monoBERT and EPIC). Finally, in session four, we move beyond re-ranking and cover how approaches that modify documents (e.g., DeepCT) as well as efforts to replace the traditional inverted index with an embedding-based index (e.g., ANCE, ColBERT, and ColBERT-PRF). By the end of the tutorial, participants will have experience conducting IR experiments from classical bag-of-words models to contemporary BERT models and beyond."
 ---
 
+
+The task of adhoc search is undergoing a renaissance, sparked by advances in natural language processing. In particular, pre-trained contextualized language models (such as BERT and T5) have consistently shown to be a highly-effective foundation upon which to build ranking models. These models are equipped with a far deeper understanding of language than the capabilities of bag-of-words (BoW) models. Applying these techniques to new tasks can be tricky, however, as they require knowledge of deep learning frameworks, and significant scripting and data munging.
+
+In this full-day tutorial, we build up from foundational retrieval principles to the latest neural ranking techniques. We first provide foundational background on classical bag-of-words methods. We then show how feature-based Learning to Rank methods can be used to re-rank these results. Finally, we cover contemporary approaches, such as BERT, doc2query, learned sparse retrieval, and dense retrieval. Throughout the process, we demonstrate how these can be easily experimentally applied to new search tasks in a declarative style of conducting experiments exemplified by the PyTerrier and OpenNIR search toolkits.
+
+This tutorial is interactive in nature for participants. It is broken into four sessions, each of which mixes explanatory presentation with hands-on activities using prepared Jupyter notebooks running on the Google Colab platform. These activities give participants experience applying the techniques covered in the tutorial on the TREC COVID benchmark test collection.
+
+In the first session, we cover foundational retrieval concepts, including inverted indexing, retrieval, and scoring. We also demonstrate how evaluation can be conducted in a declarative fashion within PyTerrier, encapsulating ideas such as significance testing, and multiple correction, as promoted as IR best practices. In the second session, we build upon the core retrieval concepts to demonstrate how to re-write queries (e.g., using RM3) and re-rank documents (e.g., using learning-to-rank), while also demonstrating declarative manners of conducting research, such as fitting and learning pipelines. In the third session, we introduce contextualized language models, such as BERT and show how they can be utilized for document re-ranking (e.g, using Vanilla/monoBERT and EPIC). Moreover, we will cover approaches that modify documents (e.g. doc2query and docT5query). Finally, in session four, we move beyond re-ranking and present learned sparse retrieval strategies (e.g. DeepCT, DeepImpact, COIL) as well as efforts to replace the traditional inverted index with an embedding-based index (e.g., ANCE, ColBERT, and ColBERT-PRF). By the end of the tutorial, participants will have experience conducting IR experiments from classical bag-of-words models to contemporary BERT models and beyond.
