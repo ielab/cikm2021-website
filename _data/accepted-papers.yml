@@ -14014,7 +14014,7 @@ tutorials:
   - bias mitigation
   subtitle: null
   title: Fair Graph Mining
-  date_order: 0
+  date_order: 4
 - acm_id: tt3198
   authors:
   - affiliation: Yahoo Research, Verizon Media
