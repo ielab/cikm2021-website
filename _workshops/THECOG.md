@@ -2,6 +2,13 @@
 title: "THECOG - Transforms in beHavioral and affectivE COmputinG"
 website: "https://easychair.org/cfp/thecog2021"
 date_order: 4
+schedule:
+ - Friday, November 5th 2021/AEST time zone
+ - 15:00 - 15:30 keynote speech
+ - 15:30 - 15:45 Q&A for the keynote speaker
+ - 15:45 - 16:05 paper 42
+ - 16:05 - 16:25 paper 43
+ - 16:25 - 16:45 paper 44
 organisers:
  - name: "Eleanna Kafeza"
    affiliation: "Zayed University, UAE"
