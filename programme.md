@@ -7,6 +7,9 @@ layout: fullwidth
  - [Workshop programme](/programme/workshops)
  - [Tutorial programme](/programme/tutorials)
 
+Full programme to come soon.
+
+<!--
 ## Programme at a glance
 
 <div class="table-responsive">
@@ -98,3 +101,4 @@ layout: fullwidth
 </table>
 </div>
 
+-->
