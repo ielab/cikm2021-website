@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Session {{page.title | upcase}}: {{page.session}}</h1>
+
+<h2>Papers in this session</h2>
+
+<table class="table table-responsive table-bordered">
+    <tbody>
+    {% for paper in page.papers %}
+    <tr>
+        <td {%- if paper.flag== 1 %} class="success" {% elsif paper.flag == 2 %} class="warning" {%- endif -%}>
+            {% assign session_paper = site.data.accepted-papers.full-papers | where_exp: "item", "item.acm_id == paper.acm_id" | first%}
+            {{session_paper.title}}
+            {% assign session_paper = site.data.accepted-papers.applied-papers | where_exp: "item", "item.acm_id == paper.acm_id" | first%}
+            {{session_paper.title}}
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>

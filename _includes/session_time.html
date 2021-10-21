@@ -1,0 +1,3 @@
+{% assign session = site.sessions | where_exp: "item", "item.title == include.session" | first%}
+<p>First repeat: {{session.first_repeat_s}}-{{session.first_repeat_e}}</p>
+<p>Second repeat: {{session.second_repeat_s}}-{{session.second_repeat_e}}</p>

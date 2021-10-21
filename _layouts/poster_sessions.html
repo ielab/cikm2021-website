@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1>Poster Session {{page.title | upcase}}</h1>
+
+<h2>Papers in this session</h2>
+
+<table class="table table-responsive table-bordered">
+    <tbody>
+    {% for session in page.sessions %}
+    <tr>
+        <td class="info">{{session.session}}</td>
+    </tr>
+    {% for acm_id in session.papers %}
+    <tr>
+        <td {%- if paper.flag== 1 %} class="success" {% elsif paper.flag == 2 %} class="warning" {%- endif -%}>
+            {% assign session_paper = site.data.accepted-papers.short-papers | where_exp: "item", "item.acm_id == acm_id" | first%}
+            {{session_paper.title}}
+            {% assign session_paper = site.data.accepted-papers.demo-papers | where_exp: "item", "item.acm_id == acm_id" | first%}
+            {{session_paper.title}}
+            {% assign session_paper = site.data.accepted-papers.resource-papers | where_exp: "item", "item.acm_id == acm_id" | first%}
+            {{session_paper.title}}
+        </td>
+    </tr>
+    {% endfor %}
+    {% endfor %}
+    </tbody>
+</table>

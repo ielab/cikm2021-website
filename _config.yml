@@ -47,6 +47,9 @@ collections:
   tutorials:
     output: true
     permalink: /programme/tutorials/:path
+  sessions:
+    output: true
+    permalink: /programme/session/:path
 
 defaults:
   - scope:
@@ -59,6 +62,11 @@ defaults:
       type: "tutorials"
     values:
       layout: tutorials
+  - scope:
+      path: ""
+      type: "sessions"
+    values:
+      layout: sessions
 
 # Exclude from processing.
 # The following items will not be processed, by default.
