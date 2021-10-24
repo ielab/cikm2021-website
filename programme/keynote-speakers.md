@@ -23,7 +23,7 @@ layout: fullwidth
             </div>                
             <p><b class="text-uppercase">links</b></p>
             <ul style="list-style: inside">
-                <li><a href="{{speaker.abstract_link}}">Download abstract</a></li>
+                {%- if speaker.abstract_link -%}<li><a href="{{speaker.abstract_link}}">Download abstract</a></li>{%- endif -%} 
                 <li><a href="{{speaker.website}}">Personal website</a></li>
             </ul>
         </div>
