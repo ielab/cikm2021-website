@@ -93,6 +93,12 @@ chairs:
         org: The University of Queensland, Australia
         img: /img/oc/Shengyao_zhuang.jpg
 
+  - name: Diversity and Inclusion Scholarship Chair
+    members:
+      - name: Bhaskar Mitra
+        org: Microsoft Research, Canada
+        img: /img/oc/bhaskar.png
+
   - name: Website Chair
     members:
       - name: Harrisen Scells
