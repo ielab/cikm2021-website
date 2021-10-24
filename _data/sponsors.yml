@@ -34,3 +34,6 @@ tiers:
       - name: SIGWEB
         img_url: /img/sigweb_logo.png
         url: https://www.sigweb.org/
+      - name: QQ browser
+        img_url: /img/sponsors/QQ_Browser.png
+        url: https://browser.qq.com/

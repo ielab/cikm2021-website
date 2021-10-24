@@ -13,4 +13,6 @@ layout: default
     <img alt="{{- sponsor.name -}}" src="{{- sponsor.img_url -}}" style="max-height:120px">
 </a>
 {% endfor %}
+
+{% if forloop.last == false %} --- {% endif %}
 {% endfor %}
