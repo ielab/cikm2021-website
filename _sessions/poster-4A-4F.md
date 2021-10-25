@@ -2,11 +2,10 @@
 session: "4A-4F"
 layout: poster_sessions
 title: "4A-4F"
-date: "2021-10-02" 
-first_repeat_s: "13:00" 
-first_repeat_e: "14:10" 
-second_repeat_s: "01:00" 
-second_repeat_e: "02:10"
+first_repeat_s: "2021-11-03 13:00" 
+first_repeat_e: "2021-11-03 14:10" 
+second_repeat_s: "2021-11-03 01:00" 
+second_repeat_e: "2021-11-04 02:10"
 sessions:
  - session: "Graph Neural Networks"
    papers:

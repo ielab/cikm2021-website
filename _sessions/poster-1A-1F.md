@@ -2,11 +2,10 @@
 session: "1A-1F"
 layout: poster_sessions
 title: "1A-1F"
-date: "2021-10-02" 
-first_repeat_s: "11:50" 
-first_repeat_e: "12:50" 
-second_repeat_s: "23:50" 
-second_repeat_e: "00:50 (+1d)"
+first_repeat_s: "2021-11-02 11:50" 
+first_repeat_e: "2021-11-02 12:50" 
+second_repeat_s: "2021-11-02 23:50" 
+second_repeat_e: "2021-11-03 00:50"
 sessions:
  - session: "Search and Retrieval: focus on users and queries"
    papers:

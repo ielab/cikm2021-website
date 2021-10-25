@@ -1,0 +1,2 @@
+{% assign session = site.sessions | where_exp: "item", "item.title == include.session" | first%}
+<span>{{ session.session }}</span>

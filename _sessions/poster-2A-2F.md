@@ -2,11 +2,10 @@
 session: "2A-2F"
 layout: poster_sessions
 title: "2A-2F"
-date: "2021-10-02" 
-first_repeat_s: "13:00" 
-first_repeat_e: "14:10" 
-second_repeat_s: "01:00" 
-second_repeat_e: "02:10 (+1d)"
+first_repeat_s: "2021-11-02 13:00" 
+first_repeat_e: "2021-11-02 14:10" 
+second_repeat_s: "2021-11-03 01:00" 
+second_repeat_e: "2021-11-03 02:10"
 sessions:
  - session: "Domain-Specific & POI Recommendation"
    papers:

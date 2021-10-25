@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: programme
 ---
-
 <h1>Session {{page.title | upcase}}: {{page.session}}</h1>
+
+<span data-tz="{{page.first_repeat_s}}" class="tz-d">{{page.first_repeat_s}}</span>
+{% include session_time.html session=page.title %}
 
 <h2>Papers in this session</h2>
 
@@ -20,3 +22,10 @@ layout: default
     {% endfor %}
     </tbody>
 </table>
+
+<ul class="list-group">
+    <li class="list-group-item list-group-item-success">Papers highlighted in green indicate the paper is selected for a live spotlight presentation.</li>
+    <li class="list-group-item list-group-item-warning">Papers highlighted in gold indicate the paper has been shortlisted for a best paper award (and will also be presented live).</li>
+</ul>
+
+<small>This programme is indicative. Once registered, please refer to the session programme on Underline.</small>

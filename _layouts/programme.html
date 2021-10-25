@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<style>
+    #sidebar, #sidebar-button {
+        display:none;
+    }
+    #content-container {
+        width: 100% !important;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <small>Please choose the timezone that matches your location to ensure the dates and times below are correct. <em>This requires JavaScript enabled to work properly.</em></small>
+        <select class="form-control" id="timezone-selector" name="timezones" onchange="update_tz(this.value)"></select>
+    </div>
+</div>
+
+{{content}}
+
+<script src="/js/jquery.min.js"></script>
+<script src="/js/moment-with-locales.min.js"></script>
+<script src="/js/moment-timezone-with-data-10-year-range.js"></script>
+<script type="text/javascript">
+let timezoneSelectEl = document.getElementById("timezone-selector");
+let timezones = moment.tz.names()
+for (var i = 0; i < timezones.length; i++) {
+    var opt = document.createElement("option");
+    opt.value = timezones[i];
+    opt.innerHTML = timezones[i];
+    timezoneSelectEl.appendChild(opt);
+}
+
+let lsKey = "cikm2021tz"
+let currentUserTimezone = "Australia/Brisbane"
+if (localStorage.getItem(lsKey) !== null) {
+    currentUserTimezone = localStorage.getItem(lsKey)
+}
+
+function update_tz(timezone){
+    localStorage.setItem(lsKey, timezone)
+    timezoneSelectEl.value = timezone
+    let els = $(".tz")
+    for (var i = 0; i < els.length; i++) {
+        bne_time = els[i].dataset.tz
+        els[i].innerText = moment.tz(bne_time, "Australia/Brisbane").tz(timezone).format("HH:mm A")
+    }
+    els = $(".tz-d")
+    for (var i = 0; i < els.length; i++) {
+        bne_time = els[i].dataset.tz
+        els[i].innerText = moment.tz(bne_time, "Australia/Brisbane").tz(timezone).format("dddd, LL")
+    }
+}
+update_tz(currentUserTimezone)
+</script>

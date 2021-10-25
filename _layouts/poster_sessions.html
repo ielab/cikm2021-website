@@ -1,10 +1,15 @@
 ---
-layout: default
+layout: programme
 ---
 
 <h1>Poster Session {{page.title | upcase}}</h1>
 
+<span data-tz="{{page.first_repeat_s}}" class="tz-d">{{page.first_repeat_s}}</span>
+{% include session_time.html session=page.title %}
+
 <h2>Papers in this session</h2>
+
+<p>All full and applied papers in the corresponding sessions will have a poster here. In addition, there will also be these short/resource/demo papers:</p>
 
 <table class="table table-responsive table-bordered">
     <tbody>
@@ -27,3 +32,5 @@ layout: default
     {% endfor %}
     </tbody>
 </table>
+
+<small>These are not the only posters that are presented; poster sessions also includes full/applied papers.</small>

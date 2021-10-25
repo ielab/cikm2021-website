@@ -1,28 +1,43 @@
 ---
-layout: fullwidth
+layout: programme
 ---
 
 # Programme
 
- - [Workshop programme](/programme/workshops)
- - [Tutorial programme](/programme/tutorials)
+## Tutorial and Workshop Programmes
 
-Full programme to come soon.
+ - [Workshop programme](/programme/workshops) (<span data-tz="2021-11-01" class="tz-d">2021-11-01</span>/<span data-tz="2021-11-05" class="tz-d">2021-11-05</span>)
+ - [Tutorial programme](/programme/tutorials) (<span data-tz="2021-11-01" class="tz-d">2021-11-01</span>/<span data-tz="2021-11-05" class="tz-d">2021-11-05</span>)
 
-<!--
-## Programme at a glance
+## Main Conference Programme at a glance
 
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
+<col style="width:19%">
+<col style="width:27%">
+<col style="width:27%">
+<col style="width:27%">
 <thead>
 <tr>
-<th>Session Time (UTC+10)</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
+<th>Session Time</th>
+<th><span data-tz="2021-11-02" class="tz-d">2021-11-02</span></th>
+<th><span data-tz="2021-11-03" class="tz-d">2021-11-03</span></th>
+<th><span data-tz="2021-11-04" class="tz-d">2021-11-04</span></th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>{% include session_time.html session="Plenary1" %}</td>
+<td>{% include session_nolink.html session="Plenary1" %}</td>
+<td>{% include session_nolink.html session="Plenary2" %}</td>
+<td>{% include session_nolink.html session="Plenary3" %}</td>
+</tr>
+<tr>
+<td>{% include session_time.html session="Break1" %}</td>
+<td>{% include session_nolink.html session="Break1" %}</td>
+<td>{% include session_nolink.html session="Break3" %}</td>
+<td>{% include session_nolink.html session="Break5" %}</td>
+</tr>
 <tr>
 <td rowspan="6">{% include session_time.html session="1a" %}</td>
 <td>{% include session.html session="1a" %}</td>
@@ -58,7 +73,14 @@ Full programme to come soon.
 <td>{% include session_time.html session="1A-1F" %}</td>
 <td>{% include poster_session.html session="1A-1F" %}</td>
 <td>{% include poster_session.html session="3A-3F" %}</td>
-<td>{% include poster_session.html session="5A-5F" %}</td>
+<td>{% include poster_session.html session="5A-5E" %}
+<p>{% include session_nolink.html session="BusMet1" %}</p></td>
+</tr>
+<tr>
+<td>{% include session_time.html session="Break2" %}</td>
+<td>{% include session_nolink.html session="Break2" %}</td>
+<td>{% include session_nolink.html session="Break4" %}</td>
+<td>{% include session_nolink.html session="Break6" %}</td>
 </tr>
 <tr>
 <td rowspan="6">{% include session_time.html session="2a" %}</td>
@@ -100,5 +122,3 @@ Full programme to come soon.
 </tbody>
 </table>
 </div>
-
--->

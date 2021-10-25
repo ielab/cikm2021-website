@@ -15,16 +15,16 @@ layout: default
 <p><b>Tutorial Website to come soon.</b></p>
 {% endif %}
 
-{% if page.schedule %}
-<p><b>Tutorial Schedule</b></p>
-<ul>
-{% for event in page.schedule %}
-    <li>{{ event }}</li>
-{% endfor %}
-</ul>
-{% else %}
-<p><b>Tutorial schedule to come soon.</b></p>
-{% endif %}
+<!--{% if page.schedule %}-->
+<!--<p><b>Tutorial Schedule</b></p>-->
+<!--<ul>-->
+<!--{% for event in page.schedule %}-->
+<!--    <li>{{ event }}</li>-->
+<!--{% endfor %}-->
+<!--</ul>-->
+<!--{% else %}-->
+<!--<p><b>Tutorial schedule to come soon.</b></p>-->
+<!--{% endif %}-->
 
 
 {% assign content = page.content | strip_newlines %}

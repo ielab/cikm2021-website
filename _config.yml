@@ -36,10 +36,6 @@ conf_date: 1-5 November 2021
 show_important_dates: False
 days_of_week: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 
-# Build settings
-plugins:
-  - jekyll-feed
-
 collections:
   workshops:
     output: true

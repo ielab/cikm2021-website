@@ -1,12 +1,11 @@
 ---
-session: "5A-5F"
+session: "5A-5E"
 layout: poster_sessions
-title: "5A-5F"
-date: "2021-10-04" 
-first_repeat_s: "11:50" 
-first_repeat_e: "12:50" 
-second_repeat_s: "23:50" 
-second_repeat_e: "00:50"
+title: "5A-5E"
+first_repeat_s: "2021-11-04 11:50" 
+first_repeat_e: "2021-11-04 12:50" 
+second_repeat_s: "2021-11-04 23:50" 
+second_repeat_e: "2021-11-05 00:50"
 sessions:
  - session: "Cybersecurity, threats and frauds"
    papers:

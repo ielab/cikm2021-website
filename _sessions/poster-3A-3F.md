@@ -2,11 +2,10 @@
 session: "3A-3F"
 layout: poster_sessions
 title: "3A-3F"
-date: "2021-10-03" 
-first_repeat_s: "11:50" 
-first_repeat_e: "12:50" 
-second_repeat_s: "23:50" 
-second_repeat_e: "00:50"
+first_repeat_s: "2021-11-03 11:50" 
+first_repeat_e: "2021-11-03 12:50" 
+second_repeat_s: "2021-11-03 23:50" 
+second_repeat_e: "2021-11-04 00:50"
 sessions:
  - session: "Fake news, rumours and fact checking (harmful online content)"
    papers:

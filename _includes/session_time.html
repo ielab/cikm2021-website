@@ -1,3 +1,11 @@
 {% assign session = site.sessions | where_exp: "item", "item.title == include.session" | first%}
-<p>First repeat: {{session.first_repeat_s}}-{{session.first_repeat_e}}</p>
-<p>Second repeat: {{session.second_repeat_s}}-{{session.second_repeat_e}}</p>
+<div>
+    <b>First repeat</b>
+    <p>Start: <span data-tz="{{session.first_repeat_s}}" class="tz">{{session.first_repeat_s}}</span></p>
+    <p>End: <span data-tz="{{session.first_repeat_e}}" class="tz">{{session.first_repeat_e}}</span></p>
+</div>
+<div>
+    <b>Second repeat</b>
+    <p>Start: <span data-tz="{{session.second_repeat_s}}" class="tz">{{session.second_repeat_s}}</span></p>
+    <p>End: <span data-tz="{{session.second_repeat_e}}" class="tz">{{session.second_repeat_e}}</span></p>
+</div>

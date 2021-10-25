@@ -7,7 +7,7 @@ layout: fullwidth
 <div class="container">
 {% for speaker in site.data.keynotes.speakers %}
     {%- if speaker.abstract -%}
-    <h2>{{speaker.title}}</h2>
+    <h2 id="{{speaker.title | slugify}}">{{speaker.title}}</h2>
     <div class="row">
         <div class="col-md-6">                
             <p><b class="text-uppercase">abstract</b>&nbsp;{{-speaker.abstract-}}</p>
