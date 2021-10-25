@@ -122,3 +122,7 @@ layout: programme
 </tbody>
 </table>
 </div>
+
+Live sessions are hosted for this event by Underline.
+
+<img alt="Powered by Underline." src="/img/sponsors/underline.png" style="max-height:160px">
