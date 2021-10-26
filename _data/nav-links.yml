@@ -26,6 +26,8 @@ links:
     dropdown:
       - name: Keynote Speakers
         url: /programme/keynote-speakers
+      - name: Best Paper Nominations
+        url: /programme/best-paper-nominations
       - name: Accepted Papers
         url: /accepted-papers
       - name: Workshops
