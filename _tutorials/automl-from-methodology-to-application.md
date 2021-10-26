@@ -32,6 +32,7 @@ schedule:
  - "7:50AM–9:50AM ML-Guided Database: Cardinality Estimation (by Rong Zhu and Kai Zeng)"
  - 9:50AM–9:55AM AutoML Tools (by Zhen Wang)
  - 9:55AM–10:00AM Closing Remarks (by Yaliang Li)
+date_order: 4 
 abstract: Recently, there has been growing attention on fairness considerations in machine learning. As one of the most pervasive applications of machine learning, recommender systems are gaining increasing and critical impacts on human and society since a growing number of users use them for information seeking and decision making. Therefore, it is crucial to address the potential unfairness problems in recommendation, which may hurt users' or providers' satisfaction in recommender systems as well as the interests of the platforms. The tutorial focuses on the foundations and algorithms for fairness in recommendation. It also presents a brief introduction about fairness in basic machine learning tasks such as classification and ranking.  The tutorial will introduce the taxonomies of current fairness definitions and evaluation metrics for fairness concerns. We will introduce previous works about fairness in recommendation and also put forward future fairness research directions. The tutorial aims at introducing and communicating fairness in recommendation methods to the community, as well as gathering researchers and practitioners interested in this research direction for discussions, idea communications, and research promotions.
 --- 
 
