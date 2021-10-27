@@ -23,7 +23,6 @@ sessions:
      - de3101
      - de3086
      - de3181
-     - de3181
  - session: "Machine Learning"
    papers:
      - rgsp2633
