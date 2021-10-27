@@ -20,9 +20,9 @@ layout: programme
 <thead>
 <tr>
 <th>Session Time</th>
-<th><span data-tz="2021-11-02" class="tz-d">2021-11-02</span></th>
-<th><span data-tz="2021-11-03" class="tz-d">2021-11-03</span></th>
-<th><span data-tz="2021-11-04" class="tz-d">2021-11-04</span></th>
+<th><span data-tz="2021-11-02 09:00" class="tz-d">{% include session_time.html session="Plenary1" %}</span></th>
+<th><span data-tz="2021-11-03 09:00" class="tz-d">{% include session_time.html session="Plenary2" %}</span></th>
+<th><span data-tz="2021-11-04 09:00" class="tz-d">{% include session_time.html session="Plenary2" %}</span></th>
 </tr>
 </thead>
 <tbody>
