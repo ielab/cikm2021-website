@@ -4,8 +4,8 @@ layout: poster_sessions
 title: "2A-2F"
 first_repeat_s: "2021-11-02 14:10" 
 first_repeat_e: "2021-11-02 15:10" 
-second_repeat_s: "2021-11-03 00:10" 
-second_repeat_e: "2021-11-03 01:10"
+second_repeat_s: "2021-11-03 02:10" 
+second_repeat_e: "2021-11-03 03:10"
 sessions:
  - session: "Domain-Specific & POI Recommendation"
    papers:

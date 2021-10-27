@@ -4,8 +4,8 @@ layout: poster_sessions
 title: "6A-6F"
 first_repeat_s: "2021-11-04 14:10" 
 first_repeat_e: "2021-11-04 15:10" 
-second_repeat_s: "2021-11-05 00:10" 
-second_repeat_e: "2021-11-05 01:10"
+second_repeat_s: "2021-11-05 02:10" 
+second_repeat_e: "2021-11-05 03:10"
 sessions:
  - session: "Crowdsourcing & Human Computation"
    papers:
