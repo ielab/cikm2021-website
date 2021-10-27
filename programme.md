@@ -6,8 +6,8 @@ layout: programme
 
 ## Tutorial and Workshop Programmes
 
- - [Workshop programme](/programme/workshops) (<span data-tz="2021-11-01" class="tz-d">2021-11-01</span>/<span data-tz="2021-11-05" class="tz-d">2021-11-05</span>)
- - [Tutorial programme](/programme/tutorials) (<span data-tz="2021-11-01" class="tz-d">2021-11-01</span>/<span data-tz="2021-11-05" class="tz-d">2021-11-05</span>)
+ - [Workshop programme](/programme/workshops) (<span data-tz="2021-11-01 09:00" class="tz-d">2021-11-01 09:00</span>/<span data-tz="2021-11-05 09:00" class="tz-d">2021-11-05 09:00</span>)
+ - [Tutorial programme](/programme/tutorials) (<span data-tz="2021-11-01 09:00" class="tz-d">2021-11-01 09:00</span>/<span data-tz="2021-11-05 09:00" class="tz-d">2021-11-05 09:00</span>)
 
 ## Main Conference Programme at a glance
 

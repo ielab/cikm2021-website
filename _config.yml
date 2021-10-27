@@ -34,7 +34,7 @@ conf_location: Online
 conf_date: 1-5 November 2021
 
 show_important_dates: False
-days_of_week: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+days_of_week: ["Monday (UTC+10)", "Tuesday", "Wednesday", "Thursday", "Friday (UTC+10)"]
 
 collections:
   workshops:
