@@ -9,71 +9,73 @@ second_repeat_e: "2021-11-03 00:50"
 sessions:
  - session: "Search and Retrieval: focus on users and queries"
    papers:
-     - rgsp2584
-     - rgsp2470
-     - rgsp2647
-     - rgsp2846
-     - rgsp2746
-     - rsfp3148
-     - rsfp3144
-     - rsfp3143
+     - acm_id: rgsp2584
+     - acm_id: rgsp2470
+     - acm_id: rgsp2647
+     - acm_id: rgsp2846
+     - acm_id: rgsp2746
+     - acm_id: rsfp3148
+     - acm_id: rsfp3144
+     - acm_id: rsfp3143
  - session: "Applied NLP"
    papers: 
-     - rgsp2496
-     - rsfp3136
-     - rsfp2245
-     - de3067
-     - rgsp2287
-     - rgsp2940
-     - rgsp2407
-     - rsfp3099
-     - de2321
-     - rgsp2589
-     - rgsp2796
-     - rgsp2574
-     - rgsp2426
-     - rgsp2368
+     - acm_id: rgsp2496
+     - acm_id: rsfp3136
+     - acm_id: rsfp2245
+     - acm_id: de3067
+     - acm_id: rgsp2287
+     - acm_id: rgsp2940
+       flag: 2
+     - acm_id: rgsp2407
+     - acm_id: rsfp3099
+     - acm_id: de2321
+     - acm_id: rgsp2589
+     - acm_id: rgsp2796
+     - acm_id: rgsp2574
+     - acm_id: rgsp2426
+     - acm_id: rgsp2368
  - session: "Learning methods for recommendation"
    papers: 
-     -  rgsp2332
-     -  rgsp2384
-     -  rgsp2648
-     -  rgsp2603
-     -  rgsp2313
-     -  rgsp2826
-     -  rgsp2389
-     -  rgsp2741
+     - acm_id:  rgsp2332
+       flag: 2
+     - acm_id:  rgsp2384
+     - acm_id:  rgsp2648
+     - acm_id:  rgsp2603
+     - acm_id:  rgsp2313
+     - acm_id:  rgsp2826
+     - acm_id:  rgsp2389
+     - acm_id:  rgsp2741
  - session: "Dealing with Difficult Data (Data Quality, Data Curation and De-noising)"
    papers: 
-     -  rgsp2395
-     -  rgsp2787
-     -  de3061
-     -  de3131
-     -  de3137
-     -  de3157
-     -  rgsp2736
-     -  de3088
-     -  rgsp2789
-     -  rgsp2929
+     - acm_id:  rgsp2395
+     - acm_id:  rgsp2787
+     - acm_id:  de3061
+     - acm_id:  de3131
+     - acm_id:  de3137
+     - acm_id:  de3157
+     - acm_id:  rgsp2736
+     - acm_id:  de3088
+     - acm_id:  rgsp2789
+     - acm_id:  rgsp2929
  - session: "Algorithmic Aspects of Data Mining"
    papers: 
-     - rgsp2580
-     - rgsp2254
-     - rgsp2348
-     - rgsp2375
-     - rgsp2638
+     - acm_id: rgsp2580
+     - acm_id: rgsp2254
+     - acm_id: rgsp2348
+     - acm_id: rgsp2375
+     - acm_id: rgsp2638
  - session: "Multimedia"
    papers: 
-     - rgsp2387
-     - rsfp3038
-     - rsfp3149
-     - de3094
-     - rgsp2442
-     - rgsp2572
-     - rgsp0097
-     - rgsp2728
-     - rgsp2669
-     - de3068
-     - rgsp2396
-     - rgsp2832
+     - acm_id: rgsp2387
+     - acm_id: rsfp3038
+     - acm_id: rsfp3149
+     - acm_id: de3094
+     - acm_id: rgsp2442
+     - acm_id: rgsp2572
+     - acm_id: rgsp0097
+     - acm_id: rgsp2728
+     - acm_id: rgsp2669
+     - acm_id: de3068
+     - acm_id: rgsp2396
+     - acm_id: rgsp2832
 ---

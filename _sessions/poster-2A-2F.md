@@ -9,52 +9,53 @@ second_repeat_e: "2021-11-03 03:10"
 sessions:
  - session: "Domain-Specific & POI Recommendation"
    papers:
-     - rgsp2428
-     - rgsp2278
-     - rgsp2487
-     - rgsp2244
+     - acm_id: rgsp2428
+     - acm_id: rgsp2278
+     - acm_id: rgsp2487
+     - acm_id: rgsp2244
  - session: "Knowlege Graphs"
    papers:
-     - rgsp2590
-     - rsfp0287
-     - rsfp2285
-     - rsfp3110
-     - rsfp3164
-     - de3101
-     - de3086
-     - de3181
+     - acm_id: rgsp2590
+     - acm_id: rsfp0287
+     - acm_id: rsfp2285
+     - acm_id: rsfp3110
+     - acm_id: rsfp3164
+     - acm_id: de3101
+     - acm_id: de3086
+     - acm_id: de3181
  - session: "Machine Learning"
    papers:
-     - rgsp2633
-     - rgsp2595
-     - rgsp2974
-     - rgsp2664
-     - rgsp2436
-     - rgsp2920
-     - rgsp2762
-     - de3080
-     - rgsp2658
-     - rgsp0218
+     - acm_id: rgsp2633
+     - acm_id: rgsp2595
+     - acm_id: rgsp2974
+     - acm_id: rgsp2664
+     - acm_id: rgsp2436
+     - acm_id: rgsp2920
+     - acm_id: rgsp2762
+     - acm_id: de3080
+     - acm_id: rgsp2658
+     - acm_id: rgsp0218
  - session: "Users and User Modelling"
    papers:
-     - rgsp2771
-     - rsfp3066
-     - rgsp0493
-     - rgsp2582
-     - rgsp2393
+     - acm_id: rgsp2771
+     - acm_id: rsfp3066
+       flag: 2
+     - acm_id: rgsp0493
+     - acm_id: rgsp2582
+     - acm_id: rgsp2393
  - session: "Algorithmic Aspects of NLP"
    papers:
-     - rgsp0441
-     - rgsp2271
-     - rgsp2526
-     - rgsp2715
-     - rgsp0952
-     - rgsp2854
-     - rgsp2651
+     - acm_id: rgsp0441
+     - acm_id: rgsp2271
+     - acm_id: rgsp2526
+     - acm_id: rgsp2715
+     - acm_id: rgsp0952
+     - acm_id: rgsp2854
+     - acm_id: rgsp2651
  - session: "Computational Advertising"
    papers:
-     - rgsp2504
-     - rgsp2865
-     - rgsp2901
-     - rgsp2970
+     - acm_id: rgsp2504
+     - acm_id: rgsp2865
+     - acm_id: rgsp2901
+     - acm_id: rgsp2970
 ---

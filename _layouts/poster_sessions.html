@@ -17,14 +17,14 @@ layout: programme
     <tr>
         <td class="info">{{session.session}}</td>
     </tr>
-    {% for acm_id in session.papers %}
+    {% for paper_ref in session.papers %}
     <tr>
-        <td {%- if paper.flag== 1 %} class="success" {% elsif paper.flag == 2 %} class="warning" {%- endif -%}>
-            {% assign session_paper = site.data.accepted-papers.short-papers | where_exp: "item", "item.acm_id == acm_id" | first%}
+        <td {%- if paper_ref.flag== 1 %} class="success" {% elsif paper_ref.flag == 2 %} class="warning" {%- endif -%}>
+            {% assign session_paper = site.data.accepted-papers.short-papers | where_exp: "item", "item.acm_id == paper_ref.acm_id" | first%}
             {{session_paper.title}}
-            {% assign session_paper = site.data.accepted-papers.demo-papers | where_exp: "item", "item.acm_id == acm_id" | first%}
+            {% assign session_paper = site.data.accepted-papers.demo-papers | where_exp: "item", "item.acm_id == paper_ref.acm_id" | first%}
             {{session_paper.title}}
-            {% assign session_paper = site.data.accepted-papers.resource-papers | where_exp: "item", "item.acm_id == acm_id" | first%}
+            {% assign session_paper = site.data.accepted-papers.resource-papers | where_exp: "item", "item.acm_id == paper_ref.acm_id" | first%}
             {{session_paper.title}}
         </td>
     </tr>
@@ -32,5 +32,9 @@ layout: programme
     {% endfor %}
     </tbody>
 </table>
+
+<ul class="list-group">
+    <li class="list-group-item list-group-item-warning">Papers highlighted in gold indicate the paper has been shortlisted for a best paper award.</li>
+</ul>
 
 <small>These are not the only posters that are presented; poster sessions also includes full/applied papers.</small>

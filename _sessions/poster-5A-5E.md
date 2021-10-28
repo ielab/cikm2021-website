@@ -9,42 +9,44 @@ second_repeat_e: "2021-11-05 00:50"
 sessions:
  - session: "Cybersecurity, threats and frauds"
    papers:
-     - rsfp3060
-     - rsfp0630
-     - rgsp2354
-     - rgsp2498
-     - rgsp2958
+     - acm_id: rsfp3060
+     - acm_id: rsfp0630
+     - acm_id: rgsp2354
+     - acm_id: rgsp2498
+     - acm_id: rgsp2958
  - session: "Text Mining"
    papers:
-     - rgsp2629
-     - rgsp2653
-     - rgsp2699
-     - rgsp2997
-     - rgsp2676
-     - rgsp1173
-     - rgsp2760
-     - rgsp2263
-     - de3090
-     - rsfp3105
-     - rgsp2579
-     - de3124
+     - acm_id: rgsp2629
+     - acm_id: rgsp2653
+     - acm_id: rgsp2699
+     - acm_id: rgsp2997
+     - acm_id: rgsp2676
+     - acm_id: rgsp1173
+     - acm_id: rgsp2760
+     - acm_id: rgsp2263
+     - acm_id: de3090
+     - acm_id: rsfp3105
+     - acm_id: rgsp2579
+     - acm_id: de3124
  - session: "Neural Architecture Search"
    papers:
-     - rgsp2949
-     - rgsp2446
+     - acm_id: rgsp2949
+       flag: 2
+     - acm_id: rgsp2446
  - session: "Social Networks"
    papers:
-     - de3063
-     - de3089
-     - rgsp2851
-     - de3075
-     - rgsp2390
+     - acm_id: de3063
+     - acm_id: de3089
+     - acm_id: rgsp2851
+     - acm_id: de3075
+     - acm_id: rgsp2390
  - session: "Urban Computing"
    papers:
-     - rgsp2617
-     - rgsp2547
-     - rsfp3057
-     - de3141
-     - rsfp3163
-     - rgsp2320
+     - acm_id: rgsp2617
+     - acm_id: rgsp2547
+     - acm_id: rsfp3057
+       flag: 2
+     - acm_id: de3141
+     - acm_id: rsfp3163
+     - acm_id: rgsp2320
 ---

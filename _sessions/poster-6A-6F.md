@@ -9,36 +9,37 @@ second_repeat_e: "2021-11-05 03:10"
 sessions:
  - session: "Crowdsourcing & Human Computation"
    papers:
-     - de3134
+     - acm_id: de3134
  - session: "Entities and Relations"
    papers:
-     - rgsp2554
-     - rsfp3056
-     - rgsp2703
-     - rgsp2570
-     - rgsp2685
-     - rgsp2301
+     - acm_id: rgsp2554
+     - acm_id: rsfp3056
+     - acm_id: rgsp2703
+     - acm_id: rgsp2570
+     - acm_id: rgsp2685
+     - acm_id: rgsp2301
  - session: "Interpretability and explanations"
    papers:
-     - de3048
-     - de3096
+     - acm_id: de3048
+     - acm_id: de3096
  - session: "Sequential and Temporal Recommendation"
    papers:
-     - rgsp2237
-     - rgsp2628
-     - rgsp2951
-     - rgsp2596
+     - acm_id: rgsp2237
+     - acm_id: rgsp2628
+     - acm_id: rgsp2951
+     - acm_id: rgsp2596
+       flag: 2
  - session: "Performance and Temporality issues in Graph Neural Networks"
    papers:
-     - rgsp2873
-     - rgsp1346
+     - acm_id: rgsp2873
+     - acm_id: rgsp1346
  - session: "Idiosyncratic Graph Mining"
    papers:
-     - rgsp0243
-     - rgsp2727
-     - rgsp2631
-     - rgsp2567
-     - de3122
-     - de0698
-     - rgsp2457
+     - acm_id: rgsp0243
+     - acm_id: rgsp2727
+     - acm_id: rgsp2631
+     - acm_id: rgsp2567
+     - acm_id: de3122
+     - acm_id: de0698
+     - acm_id: rgsp2457
 ---

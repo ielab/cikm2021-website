@@ -9,70 +9,73 @@ second_repeat_e: "2021-11-04 03:10"
 sessions:
  - session: "Graph Neural Networks"
    papers:
-     - rgsp2686
-     - rgsp2612
-     - rgsp2602
-     - rgsp2622
-     - rgsp0126
-     - rgsp2380
-     - rgsp2975
-     - rgsp3032
+     - acm_id: rgsp2686
+     - acm_id: rgsp2612
+     - acm_id: rgsp2602
+     - acm_id: rgsp2622
+     - acm_id: rgsp0126
+     - acm_id: rgsp2380
+     - acm_id: rgsp2975
+     - acm_id: rgsp3032
  - session: "Health and Bio Data"
    papers:
-     - rgsp2725
-     - rgsp2328
-     - rgsp2382
-     - de3102
-     - de3130
-     - rgsp2788
-     - de3068
-     - rgsp2634
-     - rgsp3000
-     - de3113
-     - de3058
+     - acm_id: rgsp2725
+       flag: 2
+     - acm_id: rgsp2328
+     - acm_id: rgsp2382
+     - acm_id: de3102
+     - acm_id: de3130
+     - acm_id: rgsp2788
+     - acm_id: de3068
+     - acm_id: rgsp2634
+     - acm_id: rgsp3000
+     - acm_id: de3113
+     - acm_id: de3058
  - session: "Search and Retrieval: focus on representations and learning"
    papers:
-     - rgsp2654
-     - rgsp2243
-     - rgsp2494
-     - rgsp2924
-     - rgsp2569
-     - rgsp2716
-     - rgsp2674
-     - rgsp2932
-     - rgsp2960
-     - rgsp2995
-     - rsfp3120
-     - de3138
-     - rsfp3083
-     - rgsp2756   
+     - acm_id: rgsp2654
+       flag: 2
+     - acm_id: rgsp2243
+     - acm_id: rgsp2494
+     - acm_id: rgsp2924
+     - acm_id: rgsp2569
+     - acm_id: rgsp2716
+     - acm_id: rgsp2674
+     - acm_id: rgsp2932
+     - acm_id: rgsp2960
+     - acm_id: rgsp2995
+     - acm_id: rsfp3120
+     - acm_id: de3138
+     - acm_id: rsfp3083
+     - acm_id: rgsp2756   
  - session: "Dealing with Spatio-temporal Data"
    papers:
-     - rgsp3010
-     - rgsp0192
-     - rgsp2333
-     - rgsp3010
-     - rgsp2808
-     - rgsp2273
-     - rgsp2665
-     - rgsp2553
-     - rgsp2463
-     - rsfp1460
-     - rgsp2437
-     - rgsp2782
+     - acm_id: rgsp3010
+     - acm_id: rgsp0192
+     - acm_id: rgsp2333
+     - acm_id: rgsp3010
+     - acm_id: rgsp2808
+     - acm_id: rgsp2273
+     - acm_id: rgsp2665
+     - acm_id: rgsp2553
+     - acm_id: rgsp2463
+     - acm_id: rsfp1460
+       flag: 2
+     - acm_id: rgsp2437
+     - acm_id: rgsp2782
  - session: "Algorithmic Issues in Graph Mining"
    papers:
-     - rgsp2587
-     - rgsp2804
-     - rgsp2453
-     - rgsp0099
-     - rgsp2640
-     - rgsp2627
-     - rgsp2563
-     - rgsp2482
+     - acm_id: rgsp2587
+     - acm_id: rgsp2804
+     - acm_id: rgsp2453
+     - acm_id: rgsp0099
+     - acm_id: rgsp2640
+     - acm_id: rgsp2627
+     - acm_id: rgsp2563
+     - acm_id: rgsp2482
  - session: "Privacy and Cybersecurity"
    papers:
-     - de3084
-     - rgsp2277
-     - rgsp2790
+     - acm_id: de3084
+     - acm_id: rgsp2277
+     - acm_id: rgsp2790
 ---

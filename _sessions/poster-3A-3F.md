@@ -9,46 +9,46 @@ second_repeat_e: "2021-11-04 00:50"
 sessions:
  - session: "Fake news, rumours and fact checking (harmful online content)"
    papers:
-     - rgsp2611
-     - rgsp2538
-     - rgsp2533
-     - de3100
-     - rgsp2911
-     - de3108
-     - de3116
+     - acm_id: rgsp2611
+     - acm_id: rgsp2538
+     - acm_id: rgsp2533
+     - acm_id: de3100
+     - acm_id: rgsp2911
+     - acm_id: de3108
+     - acm_id: de3116
  - session: "Knowledge Graphs Embeddings and Representations"
    papers:
-     - rgsp2862
-     - de3069
+     - acm_id: rgsp2862
+     - acm_id: de3069
  - session: "Recommendation and Collaborative Filtering"
    papers:
-     - rgsp2679
-     - rgsp2462
-     - rgsp2552
-     - rgsp2458
-     - rgsp2379
-     - rsfp3167
-     - rsfp3146
+     - acm_id: rgsp2679
+     - acm_id: rgsp2462
+     - acm_id: rgsp2552
+     - acm_id: rgsp2458
+     - acm_id: rgsp2379
+     - acm_id: rsfp3167
+     - acm_id: rsfp3146
  - session: "Conversations"
    papers:
-     - rgsp2944
-     - rgsp2518
-     - rgsp0113
-     - rgsp2695
+     - acm_id: rgsp2944
+     - acm_id: rgsp2518
+     - acm_id: rgsp0113
+     - acm_id: rgsp2695
  - session: "Scalability issues in Machine Learning"
    papers:
-     - rgsp2293
-     - rgsp2319
-     - rsfp2031
-     - rgsp2444
+     - acm_id: rgsp2293
+     - acm_id: rgsp2319
+     - acm_id: rsfp2031
+     - acm_id: rgsp2444
  - session: "Domain Specific Data Mining"
    papers:
-     - rgsp2408
-     - rgsp2404
-     - rgsp2931
-     - de3059
-     - rgsp2011
-     - rgsp2435
-     - rgsp2447
-     - rgsp0116
+     - acm_id: rgsp2408
+     - acm_id: rgsp2404
+     - acm_id: rgsp2931
+     - acm_id: de3059
+     - acm_id: rgsp2011
+     - acm_id: rgsp2435
+     - acm_id: rgsp2447
+     - acm_id: rgsp0116
 ---
