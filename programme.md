@@ -11,6 +11,12 @@ layout: programme
 
 ## Main Conference Programme at a glance
 
+<style>
+td {
+    vertical-align: middle !important;
+}
+</style>
+
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
 <col style="width:19%">
