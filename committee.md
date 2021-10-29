@@ -42,3 +42,51 @@ The current members of the CIKM Steering Committee include (in alphabetical orde
  - Prof. E.K. Park, USA, Honorary
  - Dr. James Shanahan, USA, first term began 2013
  - Prof. Marianne Winslett, USA, first term began 2013.
+
+## Best Paper Committee Chairs and Members
+
+### Full Papers
+
+#### Chair 
+
+ - David Carmel
+ 
+#### Members
+
+ - Arjen P. de Vries
+ - Emine Yilmaz
+ - Yi Chang 
+ - Udo Kruschwitz
+ 
+ 
+### Short Papers
+
+#### Chair 
+
+ - Suzan Verberne
+ 
+#### Members
+
+ - Alessandro Bozzon
+ - Grace Hui Yang
+ - Josiane Mothe
+ - Min Zhang
+ 
+### Short Papers
+
+#### Chair 
+
+ - Anna Lisa Gentile
+ 
+### Resource Papers
+
+#### Chair 
+
+ - Paolo Cremonesi 
+ 
+### Demo Papers
+
+#### Chairs
+
+ - Zhifeng Bao
+ - Julia Kiseleva
