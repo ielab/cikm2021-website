@@ -9,6 +9,29 @@ CIKM 2021 AnalytiCup is an open competition including compelling data challenges
 
 This year’s AnalytiCup is organized by QQ Browser, Tencent. Official task page can be found [here](https://algo.browser.qq.com/#en). There are two tracks, ‘Multimodal Video Understanding’ and ‘Automated Hyperparameter Optimization of Recommendation System', in this competition. We are looking forward to the great ideas and solutions from industry and academia all around.
 
+## Agenda - QQ Browser 2021 AI Challenge
+
+**Friday, November 5 14:30-16:45 (UTC+8)**
+
+**Live Stream**: [https://meeting.tencent.com/dm/mqZuVLcnjMWB](https://meeting.tencent.com/dm/mqZuVLcnjMWB)
+
+**Session Chairs**: Zhen Wen
+	
+ - 14:30-14:40	Track1 results overview (Zhaoyang Zeng)
+ - 14:40-14:55	Presentation from winner No.1 in Track 1
+ - 14:55-15:10	Presentation from winner No.2 in Track 1
+ - 15:10-15:25	Presentation from winner No.3 in Track 1
+ - 15:25-15:35	Q & A
+ - 15:35-15:40	Break
+
+ - 15:40-15:50	Track2 results overview
+ - 15:50-16:05	Presentation from winner No.1 in Track 2
+ - 16:05-16:20	Presentation from winner No.2 in Track 2
+ - 16:20-16:35	Presentation from winner No.3 in Track 2
+ - 16:35-16:45	Q & A
+	
+---	
+
 ## Schedule
 
  - 2021-08-15 12:00:00 (UTC+8): Registration opens
