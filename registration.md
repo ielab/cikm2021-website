@@ -37,7 +37,7 @@ The **30th ACM International Conference on Information and Knowledge Management 
 <thead>
 <tr class="info">
 <th>Category – Workshop Author</th>
-<th> Workshop Author Registration<br/>(Until 25 October)</th>
+<th> Workshop Author Registration<br/><!--(Until 25 October)--></th>
 </tr>
 </thead>
 <tr>
@@ -47,7 +47,7 @@ The **30th ACM International Conference on Information and Knowledge Management 
 <thead>
 <tr class="info">
 <th>Category - Attendee</th>
-<th>Attendee Registration<br/>(Until 25 October)
+<th>Attendee Registration<br/><!--(Until 25 October)-->
 </th>
 </tr>
 </thead>
