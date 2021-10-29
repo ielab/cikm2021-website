@@ -9,6 +9,10 @@ layout: homepage
 </center>
 </div> 
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Vem2JiB28Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 CIKM 2021 will take place online in a lively and interactive manner.
 Keep posted for more information, and we hope that you all stay safe in these exceptional circumstances.
 
