@@ -51,6 +51,11 @@ function update_tz(timezone){
         bne_time = els[i].dataset.tz
         els[i].innerText = moment.tz(bne_time, "Australia/Brisbane").tz(timezone).format("dddd, LL")
     }
+    els = $(".tz-f")
+    for (var i = 0; i < els.length; i++) {
+        bne_time = els[i].dataset.tz
+        els[i].innerText = moment.tz(bne_time, "Australia/Brisbane").tz(timezone).format("Do MMM, dddd, HH:mm A")
+    }
 }
 update_tz(currentUserTimezone)
 </script>
