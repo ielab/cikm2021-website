@@ -52,6 +52,7 @@ sessions:
      - acm_id: rgsp0952
      - acm_id: rgsp2854
      - acm_id: rgsp2651
+     - acm_id: rgsp2456
  - session: "Computational Advertising"
    papers:
      - acm_id: rgsp2504
