@@ -23,6 +23,12 @@ resource-papers:
  - rsfp1460
  - rsfp3057
  - rsfp3066
+demo-papers:
+ - de3059
+ - de3075
+ - de3094
+ - de3068
+ - de3089
 ---
 
 # Best Paper Nominations
@@ -55,6 +61,14 @@ resource-papers:
 <ul>
 {% for paper_id in page.resource-papers %}
 {% assign paper = site.data.accepted-papers.resource-papers | where_exp: "item", "item.acm_id == paper_id" | first %}
+<li>{% include paper.html paper=paper %}</li>
+{% endfor %}
+</ul>
+
+## Demo Papers
+<ul>
+{% for paper_id in page.demo-papers %}
+{% assign paper = site.data.accepted-papers.demo-papers | where_exp: "item", "item.acm_id == paper_id" | first %}
 <li>{% include paper.html paper=paper %}</li>
 {% endfor %}
 </ul>

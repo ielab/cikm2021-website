@@ -7555,7 +7555,7 @@ full-papers:
   - Opioid overdose
   - Drug abuse
   subtitle: Rx-refill Graph Neural Network for Overprescribing Detection
-  title: 'RxNet: Rx-refill Graph Neural Network for Overprescribing Detection'
+  title: 'RxNet: Prescribing-Dispensing Network for PDMP'
 - acm_id: rgfp1291
   authors:
   - affiliation: Ben-Gurion University of the Negev
