@@ -2,6 +2,11 @@
 layout: programme
 ---
 
+<div class="alert alert-success" role="alert">
+<center>Proceedings are available to view on the <a href="https://dl.acm.org/doi/proceedings/10.1145/3459637">ACM Digital Library</a>.
+</center>
+</div> 
+
 # Programme
 
 ## Tutorial and Workshop Programmes
