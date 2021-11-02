@@ -34,8 +34,9 @@ links:
         url: /programme/workshops
       - name: Tutorials
         url: /programme/tutorials
-#  - name: Proceedings
-#    url: /proceedings
+      - name: Proceedings
+        url: https://dl.acm.org/doi/proceedings/10.1145/3459637
+        outlink: true
 
   - name: Analyticup
     url: /analyticup
