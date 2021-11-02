@@ -21,11 +21,11 @@ layout: programme
     <tr>
         <td {%- if paper_ref.flag== 1 %} class="success" {% elsif paper_ref.flag == 2 %} class="warning" {%- endif -%}>
             {% assign session_paper = site.data.accepted-papers.short-papers | where_exp: "item", "item.acm_id == paper_ref.acm_id" | first%}
-            {{session_paper.title}}
+            {% if session_paper %}<small class="label label-default">{{session_paper.acm_id}}</small> {{session_paper.title}}{%endif%}
             {% assign session_paper = site.data.accepted-papers.demo-papers | where_exp: "item", "item.acm_id == paper_ref.acm_id" | first%}
-            {{session_paper.title}}
+            {% if session_paper %}<small class="label label-default">{{session_paper.acm_id}}</small> {{session_paper.title}}{%endif%}
             {% assign session_paper = site.data.accepted-papers.resource-papers | where_exp: "item", "item.acm_id == paper_ref.acm_id" | first%}
-            {{session_paper.title}}
+            {% if session_paper %}<small class="label label-default">{{session_paper.acm_id}}</small> {{session_paper.title}}{%endif%}
         </td>
     </tr>
     {% endfor %}

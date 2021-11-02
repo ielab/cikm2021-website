@@ -14,9 +14,9 @@ layout: programme
     <tr>
         <td {%- if paper.flag== 1 %} class="success" {% elsif paper.flag == 2 %} class="warning" {%- endif -%}>
             {% assign session_paper = site.data.accepted-papers.full-papers | where_exp: "item", "item.acm_id == paper.acm_id" | first%}
-            {{session_paper.title}}
+            {% if session_paper %}<small class="label label-default">{{session_paper.acm_id}}</small> {{session_paper.title}}{%endif%}
             {% assign session_paper = site.data.accepted-papers.applied-papers | where_exp: "item", "item.acm_id == paper.acm_id" | first%}
-            {{session_paper.title}}
+            {% if session_paper %}<small class="label label-default">{{session_paper.acm_id}}</small> {{session_paper.title}}{%endif%}
         </td>
     </tr>
     {% endfor %}
