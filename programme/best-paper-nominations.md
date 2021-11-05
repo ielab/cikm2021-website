@@ -4,12 +4,16 @@ best-papers:
  - rgfp1290
  - afp0975
  - rgsp2949
+ - rsfp1460
+ - de3059
 runner-ups:
  - rgfp0090
  - rgfp0032
  - afp1012
  - afp1085
  - rgsp2332
+ - rsfp3057
+ - de3075
 full-papers:
  - rgfp1290
  - rgfp0090
