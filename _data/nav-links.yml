@@ -12,8 +12,8 @@ links:
 
   # Comment/uncomment these menu items depending on conf dates.
 
-  - name: Registration
-    url: /registration
+#  - name: Registration
+#    url: /registration
 
   - name: Information for Authors
     url: /information-for-authors
