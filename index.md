@@ -22,7 +22,7 @@ Keep posted for more information, and we hope that you all stay safe in these ex
 <center>
 <p><b>Congratulations</b> to all the <a href="/programme/best-paper-nominations">nominations, runner-ups, and winners</a> for best paper.</p>
 <p><b>Proceedings</b> are available to view on the <a href="https://dl.acm.org/doi/proceedings/10.1145/3459637">ACM Digital Library</a>.</p>
-<p><b>Looking forward</b> to <a href="http://www.cikmconference.org/">CIKM 2022</a> in Atlanta, Georgia, USA!</p>
+<p><b>Visit<b/> the website for <a href="https://www.cikm2022.org/">CIKM 2022</a>.</p>
 </center>
 </div> 
 
